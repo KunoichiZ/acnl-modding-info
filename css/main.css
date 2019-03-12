@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'ACNL';
+    font-style: normal;
+    font-weight: 400;
+    src: local('nintendoP_Humming-E_002pr'), local('nintendoP_Humming-E_002pr Regular'), url(../assets/ACNL.otf) format('otf');
+}
+
+body {
+    font-family: 'ACNL';
+}
