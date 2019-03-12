@@ -1,3 +1,4 @@
+<!-- @todo Update README -->
 # acnl-modding-info
 
 > ACNL Modding Info
