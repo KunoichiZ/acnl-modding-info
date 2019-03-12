@@ -82,3 +82,10 @@ dist
 
 # Service worker
 sw.*
+
+# DS_Stores
+.DS_Store
+pages/.DS_Store
+
+# Editor Config
+.editorconfig
