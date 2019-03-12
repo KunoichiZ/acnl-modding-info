@@ -1,7 +1,10 @@
 <template>
+  <!-- @todo Add discord link to navbar
+       @body Add Discord invite link to navbar https://discord.gg/EZSxqRr-->
+       
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
-      <a class="navbar-item" href="https://bulma.io"> ACNL Modding Info </a>
+      <a class="navbar-item" href="https://www.kunoichiz.me/acnl-modding-info"> ACNL Modding Info </a>
     </div>
 
     <div id="navbarBasicExample" class="navbar-menu">
