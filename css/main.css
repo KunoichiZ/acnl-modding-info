@@ -5,6 +5,10 @@
     src: local('nintendoP_Humming-E_002pr'), local('nintendoP_Humming-E_002pr Regular'), url(../assets/ACNL.otf) format('otf');
 }
 
+html {
+    background: url('/bg.png');
+}
+
 body {
     font-family: 'ACNL';
 }
