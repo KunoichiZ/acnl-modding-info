@@ -15,4 +15,8 @@
   width: 100%;
   height: 15%;
 }
+
+footer {
+  background: url('/side_bg.png');
+}
 </style>

@@ -19,6 +19,8 @@
 
         <nuxt-link to="/guides" class="navbar-item">Guides </nuxt-link>
 
+        <nuxt-link to="/jargon" class="navbar-item">Jargon </nuxt-link>
+
         <nuxt-link to="/faq" class="navbar-item">FAQ </nuxt-link>
 
         <nuxt-link to="/troubleshooting" class="navbar-item">Troubleshooting </nuxt-link>
@@ -26,3 +28,9 @@
     </div>
   </nav>
 </template>
+
+<style>
+nav {
+  background: url('/side_bg.png');
+}
+</style>
