@@ -1,14 +1,20 @@
 @font-face {
     font-family: 'ACNL';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 350;
     src: local('nintendoP_Humming-E_002pr'), local('nintendoP_Humming-E_002pr Regular'), url(../assets/ACNL.otf) format('otf');
 }
 
 html {
     background: url('/bg.png');
+    height: 100%;
 }
 
 body {
     font-family: 'ACNL';
+}
+
+footer {
+  height: 30px;
+  background: url('/side_bg.png');
 }
