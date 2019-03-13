@@ -7,16 +7,6 @@
   </footer>
 </template>
 
-<style scope>
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 15%;
-}
+<style scoped>
 
-footer {
-  background: url('/side_bg.png');
-}
 </style>
