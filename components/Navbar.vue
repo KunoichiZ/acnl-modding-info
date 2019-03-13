@@ -4,7 +4,7 @@
        
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
-      <a class="navbar-item" href="https://www.kunoichiz.me/acnl-modding-info"> ACNL Modding Info </a>
+      <a class="navbar-item" href="https://www.kunoichiz.me/acnl-modding-info"> Animal Crossing New Leaf Modding Info </a>
     </div>
 
     <div id="navbarBasicExample" class="navbar-menu">
