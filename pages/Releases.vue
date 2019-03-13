@@ -5,6 +5,22 @@
         <h3 class="title is-3">Releases</h3>
         </div>
         <br>
+        <div id="toc">
+            <h6 class="subtitle is-6" id="toc-title">Table of Contents</h6>
+            <ul>
+                <li><a href="#threepoint1point3">Version 3.1.3</a></li>
+                <li><a href="#threepoint1point2">Version 3.1.2</a></li>
+                <li><a href="#threepoint1">Version 3.1</a></li>
+                <li><a href="#threepoint1b4">Version 3.1 Beta 4</a></li>
+                <li><a href="#threepoint1b3">Version 3.1 Beta 3</a></li>
+                <li><a href="#threepoint1b2">Version 3.1 Beta 2</a></li>
+                <li><a href="#threepoint1b1">Version 3.1 Beta 1</a></li>
+                <li><a href="#threepoint0point1">Version 3.0.1</a></li>
+                <li><a href="#threepoint0">Version 3.0</a></li>
+                <li><a href="#threepoint0b1">Version 3.0 Build 1</a></li>
+            </ul>
+        </div>
+        <br>
         <div id="threepoint1point3"> <!-- blue -->
             <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1.3">Version 3.1.3</a></h6>
             What's New
@@ -177,6 +193,26 @@
 </script>
 
 <style scoped>
+#toc {
+    padding: 10px;
+    background: url('/brown_bg.png');
+    width: 300px;
+    border-radius: 25px;
+    margin: auto;
+    text-align: left;
+    border-style: solid;
+    border-color: #c69c86;
+}
+
+#toc ul {
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+#toc-title {
+    text-align: center;
+}
+
 #threepoint0b1, #threepoint0, #threepoint0point1, #threepoint1b1, #threepoint1b2, #threepoint1b3, #threepoint1b4, #threepoint1, #threepoint1point2, #threepoint1point3 {
   text-align: left;
   margin: auto;
