@@ -1,5 +1,5 @@
 <template>
-  <section class="container has-text-centered"><div>FAQ</div>
+  <section class="container has-text-centered"><div>Animal Crossing: New Leaf NTR Plugin FAQ</div>
   
   <!-- @todo Add FAQ from #faq
        @body Add FAQ from the #faq section on the Discord channel -->
