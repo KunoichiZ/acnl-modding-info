@@ -18,3 +18,9 @@ footer {
   height: 30px;
   background: url('/side_bg.png');
 }
+
+#body {
+    background: url('/bg.png');
+    height: 100%;
+    font-family: 'ACNL';
+}
