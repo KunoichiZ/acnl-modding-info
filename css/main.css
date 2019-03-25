@@ -20,7 +20,7 @@ footer {
 }
 
 body {
-    background: url('/static/bg.png');
+    background: url('static/bg.png');
     height: 100%;
     font-family: 'ACNL';
 }
