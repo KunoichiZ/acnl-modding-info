@@ -1,8 +1,11 @@
 <template>
-  <section class="container has-text-centered"><div>Item IDs</div>
+  <section class="container has-text-centered">
+    <div>Item IDs</div>
   
-  <!-- @todo Work on Item IDs
-       @body Add Item IDs to separate categories in separate js files, add a searchable table --></section>
+    // TODO: Work on Item IDs
+    // TODO: Add Item IDs to separate categories in separate js files, add a searchable table
+
+  </section>
 </template>
 
 <script>
