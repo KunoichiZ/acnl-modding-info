@@ -13,6 +13,8 @@
       <div class="navbar-end">
         <nuxt-link to="/" class="navbar-item">Home </nuxt-link>
 
+        <nuxt-link to="/cheatlist" class="navbar-item">Cheat List </nuxt-link>
+
         <nuxt-link to="/releases" class="navbar-item">Releases </nuxt-link>
 
         <nuxt-link to="/itemids" class="navbar-item">Item IDs </nuxt-link>
