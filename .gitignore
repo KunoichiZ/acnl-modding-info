@@ -89,3 +89,6 @@ pages/.DS_Store
 
 # Editor Config
 .editorconfig
+
+# VS Code
+.vscode
