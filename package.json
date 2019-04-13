@@ -13,7 +13,7 @@
   "dependencies": {
     "cross-env": "^5.2.0",
     "nuxt": "^2.6.1",
-    "nuxt-buefy": "^0.3.4"
+    "nuxt-buefy": "^0.3.5"
   },
   "devDependencies": {
     "nodemon": "^1.18.11"
