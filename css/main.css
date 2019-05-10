@@ -2,7 +2,7 @@
     font-family: 'ACNL';
     font-style: normal;
     font-weight: 350;
-    src: local('nintendoP_Humming-E_002pr'), local('nintendoP_Humming-E_002pr Regular'), url(../assets/ACNL.otf) format('otf');
+    src: local('nintendoP_Humming-E_002pr'), local('nintendoP_Humming-E_002pr Regular'), url('/ACNL.otf') format('otf');
 }
 
 html {
