@@ -6,8 +6,8 @@
 }
 
 html {
-    /* background: url('/bg.png'); */
-    background: url('/bg/bg.png');
+    background: url('/bg.png');
+    /* background: url('/bg/bg.png'); */
     height: 100%;
 }
 
