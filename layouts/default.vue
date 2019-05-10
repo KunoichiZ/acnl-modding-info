@@ -20,11 +20,11 @@ export default {
 
 <style>
 @font-face {
-  font-family: ACNL;
-  src: url("~assets/ACNL.otf");
+  font-family: 'ACNL';
+  src: url("/ACNL.otf");
 }
 
-html {
-    font-family: ACNL;
+body {
+    font-family: 'ACNL';
 }
 </style>
