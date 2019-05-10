@@ -9,6 +9,7 @@ html {
     background: url('/bg.png');
     /* background: url('/bg/bg.png'); */
     height: 100%;
+    font-family: 'ACNL';
 }
 
 /* body {
