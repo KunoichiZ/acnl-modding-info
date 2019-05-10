@@ -1,15 +1,16 @@
 @font-face {
-    font-family: 'ACNL';
-    font-style: normal;
+    font-family: ACNL;
+    src: url("~assets/ACNL.otf");
+    /* font-style: normal;
     font-weight: 350;
-    src: local('nintendoP_Humming-E_002pr'), local('nintendoP_Humming-E_002pr Regular'), url('/ACNL.otf') format('otf');
+    src: local('nintendoP_Humming-E_002pr'), local('nintendoP_Humming-E_002pr Regular'), url('/ACNL.otf') format('otf'); */
 }
 
 html {
     background: url('/bg.png');
     /* background: url('/bg/bg.png'); */
     height: 100%;
-    font-family: 'ACNL';
+    /* font-family: 'ACNL'; */
 }
 
 /* body {
@@ -24,5 +25,5 @@ footer {
 body {
     /* background: url('static/bg.png'); */
     height: 100%;
-    font-family: 'ACNL';
+    /* font-family: 'ACNL'; */
 }
