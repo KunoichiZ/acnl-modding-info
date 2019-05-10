@@ -19,7 +19,12 @@ export default {
 </script>
 
 <style>
+@font-face {
+  font-family: ACNL;
+  src: url("~assets/ACNL.otf");
+}
+
 html {
-    font-family: 'ACNL';
+    font-family: ACNL;
 }
 </style>
