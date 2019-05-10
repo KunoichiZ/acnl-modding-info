@@ -8,12 +8,14 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "cross-env": "^5.2.0",
     "nuxt": "^2.6.3",
-    "nuxt-buefy": "^0.3.6"
+    "nuxt-buefy": "^0.3.6",
+    "push-dir": "^0.4.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
