@@ -135,7 +135,7 @@
       If you want an item that doesn't go into your inventory to be in your inventory, that's seeding and it breaks one of our rules.</p>
     </div>
       
-      // TODO:  Add FAQ from #faq
+      // TODO:  Add CSS and make it look pretty
            
   </section>
 </template>
