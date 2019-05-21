@@ -1,0 +1,21 @@
+33A7 Custom Shirt
+33A8 Pattern Easel
+33A9 Pattern Wall Canvas
+33AA Custom Design Umbrella 
+33AB Custom Design Horned Hat
+33AC Custom Design Female Hat
+33AD Custom Design Knit Hat
+33AE Custom Design T-Shirt
+33AF Custom Design Tank Shirt
+33B0 Custom Design T-Shirt (Distorted Sleeves)
+33B1 Custom Design Long Sleeve Shirt
+33B2 Custom Design Tank Dress
+33B3 Custom Design Sleeve Dress
+33B4 Custom Design Long Sleeve Dress
+33B5 Custom Design T-Shirt (Wall)
+33B6 Custom Design Tank Shirt (Wall)
+33B7 Custom Design T-Shirt (Distorted Sleeves) (Wall)
+33B8 Custom Design Long Sleeve Shirt (Wall)
+33B9 Custom Design Tank Dress (Wall)
+33BA Custom Design Sleeve Dress (Wall)
+33BB Custom Design Long Sleeve Dress (Wall)

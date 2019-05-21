@@ -1,0 +1,87 @@
+3130 amber
+3131 ammonite
+3132 coprolite
+3133 dinosaur egg
+3134 fern fossil
+3135 dinosaur track
+3136 archaeopteryx
+3137 Peking man
+3138 shark tooth
+3139 trilobite
+313a T. rex skull
+313b T. rex torso
+313c T. rex tail
+313d tricera skull
+313e tricera torso
+313f tricera tail
+3140 mammoth skull
+3141 mammoth torso
+3142 ankylo skull
+3143 ankylo torso
+3144 ankylo tail
+3145 apato skull
+3146 apato torso
+3147 apato tail
+3148 dimetrodon skull
+3149 dimetrodon torso
+314a dimetrodon tail
+314b iguanodon skull
+314c iguanodon torso
+314d iguanodon tail
+314e sabertooth skull
+314f sabertooth torso
+3150 pachysaurus skull
+3151 pachysaurus torso
+3152 pachysaurus tail
+3153 parasaur skull
+3154 parasaur torso
+3155 parasaur tail
+3156 diplo skull
+3157 diplo neck
+3158 diplo chest
+3159 diplo hip
+315a diplo tail
+315b plesio skull
+315c plesio neck
+315d plesio torso
+315e stego skull
+315f stego torso
+3160 stego tail
+3161 ptera skull
+3162 ptera left wing
+3163 ptera right wing
+3164 ichthyo skull
+3165 ichthyo torso
+3166 raptor skull
+3167 raptor torso
+3168 styraco skull
+3169 styraco torso
+316a styraco tail
+316b spino skull
+316c spino torso
+316d spino tail
+316e megacero skull
+316f megacero torso
+3170 megacero tail
+3171 archelon skull
+3172 archelon torso
+3173 T. rex model
+3174 tricera model
+3175 mammoth model
+3176 ankylo model
+3177 apato model
+3178 dimetrodon model
+3179 iguanodon model
+317a sabertooth model
+317b pachysaurus model
+317c parasaur model
+317d diplo model
+317e plesio model
+317f stego model
+3180 ptera model
+3181 ichthyo model
+3182 raptor model
+3183 styraco model
+3184 spino model
+3185 megacero model
+3186 archelon model

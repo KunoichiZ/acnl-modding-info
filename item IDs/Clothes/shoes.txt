@@ -1,0 +1,71 @@
+279f blue sneakers
+27a0 white patent shoes
+27a1 purple pumps
+27a2 shearling boots
+27a3 basketball shoes
+27a4 Santa boots
+27a5 hero's boots
+27a6 lace-up boots
+27a7 white leather shoes
+27a8 hiking boots
+27a9 kimono sandals
+27aa snow boots
+27ab flip-flops
+27ac green polka pumps
+27ad leopard pumps
+27ae tropical sandals
+27af polka-dot rain boots
+27b0 yellow rain boots
+27b1 cleats
+27b2 wooden clogs
+27b3 brown loafers
+27b4 slippers
+27b5 monochrome shoes
+27b6 green sandals
+27b7 tasseled loafers
+27b8 purple high-tops
+27b9 flower loafers
+27ba patched shoes
+27bb clogs
+27bc climbing shoes
+27bd gladiator sandals
+27be ninja sandals
+27bf steel-toed boots
+27c0 zap boots
+27c1 black rain boots
+27c2 stripe shoes
+27c3 ballet slippers
+27c4 cowboy boots
+27c5 jester's shoes
+27c6 school shoes
+27c7 armor shoes
+27c8 gold-armor shoes
+27c9 blue wrestling shoes
+27ca red wrestling shoes
+27cb Varia Suit shoes
+27cc green buckled shoes
+27cd black loafers
+27ce pink slip-ons
+27cf blue pumps
+27d0 colorful sneakers
+27d1 red boat shoes
+27d2 red shoes
+27d3 orange sandals
+27d4 brown slip-ons
+27d5 yellow buckled shoes
+27d6 purple dot shoes
+27d7 black pumps
+27d8 green-stripe shoes
+27d9 pink sneakers
+27da brown pumps
+27db yellow sneakers
+27dc orange shoes
+27dd Callie shoes **NEW**
+27de Marie shoes **NEW**
+27df Hello Kitty shoes **NEW**
+27e0 My Melody shoes **NEW**
+27e1 Kiki and Lala shoes **NEW**
+27e2 Pompompurin shoes **NEW**
+27e3 Cinnamoroll shoes **NEW**
+27e4 green loafers **NEW**
+27e5 Flower Fairy boots **NEW**
