@@ -3,6 +3,20 @@
     <br>
     <div><h1 class="is-size-3">Cheat List</h1>
       <br>
+      <div id="toc">
+        <h6 class="subtitle is-6" id="toc-title">Table of Contents</h6>
+        <ul>
+          <li><a href="#save-file-cheats">Save File Cheats</a></li>
+          <li><a href="#movement-cheats">Movement Cheats</a></li>
+          <li><a href="#time-travel-cheats">Time Travel Cheats</a></li>
+          <li><a href="#unlock-cheats">Unlock Cheats</a></li>
+          <li><a href="#environment-cheats">Environment Cheats</a></li>
+          <li><a href="#inventory-cheats">Inventory Cheats</a></li>
+          <li><a href="#shop-cheats">Shop Cheats</a></li>
+          <li><a href="#misc-cheats">Misc Cheats</a></li>
+        </ul>
+      </div>
+      <br>
       <div id="save-file-cheats">
         <h3 class="is-size-5">Save File Cheats:</h3>
         <ul>
@@ -127,8 +141,6 @@
     </div>
       <br>
       // TODO: Add Button Commands to Necessary Commands
-      // TODO: Add Table of Contents
-      
   </section>
 </template>
 
@@ -145,5 +157,25 @@
 ul {
   list-style-type: circle;
   margin-left: 20px;
+}
+
+#toc {
+    padding: 10px;
+    background: url('/brown_bg.png');
+    width: 300px;
+    border-radius: 25px;
+    margin: auto;
+    text-align: left;
+    border-style: solid;
+    border-color: #c69c86;
+}
+
+#toc ul {
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+#toc-title {
+    text-align: center;
 }
 </style>
