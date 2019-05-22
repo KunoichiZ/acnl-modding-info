@@ -1,8 +1,0 @@
-341E    Club Tortimer Form (Sprite)
-341F    "Red Flowers" (Sprite)
-3420    "White Flowers" (Sprite)
-3421    "Yellow Flowers" (Sprite)
-3422    "Tulips" (Sprite)
-3423    "Pansies" (Sprite)
-3424    "Cosmos" (Sprite)
-3425    "Roses" (Sprite)

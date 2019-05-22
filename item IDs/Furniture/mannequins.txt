@@ -1,6 +1,0 @@
-30cc Mannequin #1
-30cd Mannequin #2
-30ce Mannequin #3
-30cf Mannequin #4
-30d0 Gracie Display Mannequin #1
-30d1 Gracie Display Mannequin #2
