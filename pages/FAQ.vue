@@ -160,6 +160,8 @@
       <br>That means you're looking for an item that doesn't go in the inventory (Like the rafflesia)
       Use the RTWE (!rtwe in #bot-commands for instructions) with the codes that start with 00.
       If you want an item that doesn't go into your inventory to be in your inventory, that's seeding and it breaks one of our rules.</p>
+
+      <p>Any other questions should be asked in the ACNL Modding Discord Server: <a>https://discord.gg/EZSxqRr</a></p>
   </div>
 </template>
 
