@@ -11,6 +11,7 @@ html {
     /* background: url('/bg/bg.png'); */
     height: 100%;
     font-family: 'ACNL';
+    cursor: url('/cursor.cur'), auto;
 }
 
 /* body {
