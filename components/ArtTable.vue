@@ -1,6 +1,6 @@
 <template>
     <div>
-        <input type="text" id="myInput" v-on:keyup="artFunction()" placeholder="Search for item names..">
+        <input type="text" id="artInput" v-on:keyup="artFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="artTable">
             <tr>
@@ -394,7 +394,7 @@
 function artFunction() {
   // Declare variables 
   var input, filter, table, tr, td, i, txtValue;
-  input = document.getElementById("myInput");
+  input = document.getElementById("artInput");
   filter = input.value.toUpperCase();
   table = document.getElementById("artTable");
   tr = table.getElementsByTagName("tr");
