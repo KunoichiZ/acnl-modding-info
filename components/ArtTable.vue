@@ -434,4 +434,8 @@ th {
 table {
   margin: auto;
 }
+
+th, td {
+    padding: 5px;
+}
 </style>
