@@ -25,8 +25,6 @@
 
         <nuxt-link to="/faq" class="navbar-item">FAQ </nuxt-link>
 
-        <nuxt-link to="/troubleshooting" class="navbar-item">Troubleshooting </nuxt-link>
-
         <!-- <a href="https://discord.gg/EZSxqRr"> ACNL Modding Server Invite</a> -->
       </div>
     </div>
