@@ -26,5 +26,6 @@ export default {
 
 body {
     font-family: 'ACNL';
+    cursor: url('/cursor.cur'), auto;
 }
 </style>
