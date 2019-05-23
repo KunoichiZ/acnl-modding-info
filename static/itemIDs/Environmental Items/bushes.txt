@@ -1,0 +1,24 @@
+0080 holly bush (growing 1)
+0081 holly bush (growing 2)
+0082 holly bush
+0083 pink azalea bush (growing 1)
+0084 pink azalea bush (growing 2)
+0085 pink azalea bush
+0086 white azalea bush (growing 1)
+0087 white azalea bush (growing 2)
+0088 white azalea bush
+0089 blue hydrangea bush (growing 1)
+008a blue hydrangea bush (growing 2)
+008b blue hydrangea bush
+008c pink hydrangea bush (growing 1)
+008d pink hydrangea bush (growing 2)
+008e pink hydrangea bush
+008f red hibiscus bush (growing 1)
+0090 red hibiscus bush (growing 2)
+0091 red hibiscus bush
+0092 yellow hibiscus bush (growing 1)
+0093 yellow hibiscus bush (growing 2)
+0094 yellow hibiscus bush
+0095 sweet olive bush (growing 1)
+0096 sweet olive bush (growing 2)
+0097 sweet olive bush

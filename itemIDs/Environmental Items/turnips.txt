@@ -1,0 +1,11 @@
+2283 10 turnips
+2284 20 turnips
+2285 30 turnips
+2286 40 turnips
+2287 50 turnips
+2288 60 turnips
+2289 70 turnips
+228a 80 turnips
+228b 90 turnips
+228c 100 turnips
+228d spoiled turnips
