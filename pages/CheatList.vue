@@ -35,7 +35,7 @@
           <li>Coordinates Mod</li>
           <li>Touch Coordinates</li>
           <li>Teleport</li>
-          <li>Walk Over Things (DPAD UP+L)</li>
+          <li>Walk Over Things <b-tag rounded>(DPAD UP+L)</b-tag></li>
           <li>Speed Hack</li>
           <li>Moon Jump</li>
           <li>Teleport to PWP</li>
@@ -75,7 +75,7 @@
           </ul>
           <li>Real Time World Edit</li>
           <li>Search and Replace</li>
-          <li>Flowers are Unbreakable (DPAD RIGHT+R)</li>
+          <li>Flowers are Unbreakable <b-tag rounded>(DPAD RIGHT+R)</b-tag></li>
         </ul>
       </div>
       <br>
@@ -95,8 +95,8 @@
             <li>Wallet Editor</li>
             <li>Bank Editor</li>
           </ul>
-          <li>Text to Item (DPAD RIGHT+X)</li>
-          <li>Duplicate (R)</li>
+          <li>Text to Item <b-tag rounded>(DPAD RIGHT+X)</b-tag></li>
+          <li>Duplicate <b-tag rounded>(R)</b-tag></li>
           <li>Pick Up Buried Items</li>
           <li>Inventory Box Extender</li>
           <li>Fossil Inspector</li>
@@ -109,16 +109,16 @@
           <li>Nookling Upgrades</li>
           <li>Main Street Shops</li>
           <li>Shops Always Open</li>
-          <li>Catalog to Pockets (L)</li>
+          <li>Catalog to Pockets <b-tag rounded>(L)</b-tag></li>
         </ul>
       </div>
       <br>
       <div id="misc-cheats">
         <h3 class="is-size-5">Misc Cheats:</h3>
         <ul>
-          <li>Ghost Mode (DPAD UP+Y)</li>
+          <li>Ghost Mode <b-tag rounded>(DPAD UP+Y)</b-tag></li>
           <li>Camera Mod</li>
-          <li>Country Spoofer (B+L)</li>
+          <li>Country Spoofer <b-tag rounded>(B+L)</b-tag></li>
           <li>Custom Symbols Keyboard</li>
           <li>Keyboard Extender</li>
           <li>Fast Game Speed</li>
@@ -129,11 +129,11 @@
           <li>Emote ID Changer</li>
           <li>Amiibo Spoofer</li>
           <li>Pick Every Tour</li>
-          <li>Unburying (R)</li>
-          <li>Weed Pulling (R)</li>
+          <li>Unburying <b-tag rounded>(R)</b-tag></li>
+          <li>Weed Pulling <b-tag rounded>(R)</b-tag></li>
           <li>Weather Mod</li>
-          <li>Edit Every Pattern (DPAD RIGHT+R)</li>
-          <li>Faint (A+R)</li>
+          <li>Edit Every Pattern<b-tag rounded>(DPAD RIGHT+R)</b-tag></li>
+          <li>Faint <b-tag rounded>(A+R)</b-tag></li>
           <li>Cherry Blossom Mod</li>
           <li>Confetti Mod</li>
         </ul>
