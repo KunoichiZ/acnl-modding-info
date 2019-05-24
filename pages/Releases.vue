@@ -520,7 +520,7 @@
 <style scoped>
 #toc {
     padding: 10px;
-    background: url('/brown_bg.png');
+    background: url('/brown_stripe_bg.png');
     width: 300px;
     border-radius: 25px;
     margin: auto;
