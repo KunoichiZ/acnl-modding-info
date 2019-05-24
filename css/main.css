@@ -6,6 +6,11 @@
     src: local('nintendoP_Humming-E_002pr'), local('nintendoP_Humming-E_002pr Regular'), url('/ACNL.otf') format('otf');
 }
 
+@font-face {
+    font-family: 'Whitney';
+    src: url("/Whitney Medium.ttf");
+}
+
 html {
     background: url('/bg.png');
     /* background: url('/bg/bg.png'); */
