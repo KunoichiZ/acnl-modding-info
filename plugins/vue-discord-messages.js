@@ -13,5 +13,10 @@ Vue.use(VueDiscordMessage, {
             avatar: 'https://i.imgur.com/7IWUDBD.png',
             roleColor: '#e4fa24'
         },
+        zypther: {
+            author: 'Zypther',
+            avatar: 'https://i.imgur.com/tZR5wsV.png',
+            roleColor: '#e72c2c'
+        }
     },
 });
