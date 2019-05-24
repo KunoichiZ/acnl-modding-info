@@ -8,5 +8,10 @@
 </template>
 
 <style scoped>
-
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
 </style>
