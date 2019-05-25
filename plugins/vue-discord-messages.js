@@ -18,6 +18,11 @@ Vue.use(VueDiscordMessage, {
             author: 'Zypther',
             avatar: 'https://i.imgur.com/tZR5wsV.png',
             roleColor: '#e72c2c'
+        },
+        isabelle: {
+            author: 'Isabelle',
+            avatar: 'https://i.imgur.com/7vSPz2U.png',
+            roleColor: '#e72c2c'
         }
     },
 });
