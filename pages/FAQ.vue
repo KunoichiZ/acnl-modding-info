@@ -405,6 +405,17 @@
         </discord-messages>
         <a href="#toc">back to top</a>
         <br><br>
+        <discord-messages>
+            <discord-message user="lily" id="question">
+                But what if my question isn't located here?
+            </discord-message>
+            <discord-message user="isabelle">
+               Then please join the discord server.
+               <a href="https://discord.gg/EZSxqRr"><img src="https://discordapp.com/api/guilds/275461571231219712/widget.png?style=banner3" alt="Join Discord Server"/></a>
+            </discord-message>
+        </discord-messages>
+        <a href="#toc">back to top</a>
+        <br><br>
       </div>
 </template>
 
