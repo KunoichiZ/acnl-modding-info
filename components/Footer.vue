@@ -13,5 +13,6 @@
   left: 0;
   bottom: 0;
   width: 100%;
+  border-radius: 15px;
 }
 </style>
