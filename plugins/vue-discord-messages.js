@@ -100,7 +100,7 @@ Vue.use(VueDiscordMessage, {
             roleColor: '#e67e22'
         },
         mira: {
-            author: 'mira',
+            author: 'Mira',
             avatar: 'https://i.imgur.com/M87vIqO.png',
             roleColor: '#e67e22'
         },
