@@ -7,7 +7,7 @@ Vue.use(VueDiscordMessage, {
         nanashi: {
             author: 'nanashi89',
             avatar: 'https://i.imgur.com/6XRINSA.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         kunoichi: {
             author: 'KunoichiZ',
@@ -27,142 +27,142 @@ Vue.use(VueDiscordMessage, {
         kidd: {
             author: 'Kidd',
             avatar: 'https://i.imgur.com/BxowPcH.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         ken: {
             author: 'Ken',
             avatar: 'https://i.imgur.com/oBSR305.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         zell: {
             author: 'Zell',
             avatar: 'https://i.imgur.com/f8siW0E.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         cole: {
             author: 'Cole',
             avatar: 'https://i.imgur.com/7wBVcUv.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         anchovy: {
             author: 'Anchovy',
             avatar: 'https://i.imgur.com/riGUP0e.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         beau: {
             author: 'Beau',
             avatar: 'https://i.imgur.com/VNvBTO7.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         simon: {
             author: 'Simon',
             avatar: 'https://i.imgur.com/m4jXCpO.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         walker: {
             author: 'Walker',
             avatar: 'https://i.imgur.com/MQkF1Rc.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         tom: {
             author: 'Tom',
             avatar: 'https://i.imgur.com/tAWNitx.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         drift: {
             author: 'Drift',
             avatar: 'https://i.imgur.com/NXY4v5w.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         hopper: {
             author: 'Hopper',
             avatar: 'https://i.imgur.com/pXNxVos.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         butch: {
             author: 'Butch',
             avatar: 'https://i.imgur.com/XnKQP1M.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         octavian: {
             author: 'Octavian',
             avatar: 'https://i.imgur.com/SvVNH2n.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         vic: {
             author: 'Vic',
             avatar: 'https://i.imgur.com/X4mu9ZA.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         cherry: {
             author: 'Cherry',
             avatar: 'https://i.imgur.com/sVYHYZL.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         mira: {
             author: 'Mira',
             avatar: 'https://i.imgur.com/M87vIqO.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         hazel: {
             author: 'Hazel',
             avatar: 'https://i.imgur.com/gsNi8TT.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         purrl: {
             author: 'Purrl',
             avatar: 'https://i.imgur.com/pDoGf5x.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         miranda: {
             author: 'Miranda',
             avatar: 'https://i.imgur.com/v0laVfZ.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         willow: {
             author: 'Willow',
             avatar: 'https://i.imgur.com/t64244Y.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         freya: {
             author: 'Freya',
             avatar: 'https://i.imgur.com/3HMICSm.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         francine: {
             author: 'Francine',
             avatar: 'https://i.imgur.com/5MXkrzD.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         pecan: {
             author: 'Pecan',
             avatar: 'https://i.imgur.com/41wib4H.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         naomi: {
             author: 'Naomi',
             avatar: 'https://i.imgur.com/5TvZtZQ.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         cheri: {
             author: 'Cheri',
             avatar: 'https://i.imgur.com/TkhWiW6.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         daisy: {
             author: 'Daisy',
             avatar: 'https://i.imgur.com/hKBAU6P.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         lolly: {
             author: 'Lolly',
             avatar: 'https://i.imgur.com/J6OC26T.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         },
         rosie: {
             author: 'Rosie',
             avatar: 'https://i.imgur.com/gL2FX6O.png',
-            roleColor: '#e67e22'
+            roleColor: '#a84300'
         }
     },
 });
