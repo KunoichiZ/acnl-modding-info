@@ -4,9 +4,9 @@
       <br><h1 class="is-size-3">Item IDs</h1>
       <br>Click a category to display its items in the table below.
       <br><br><div id="top"><a href="#artInput">Art</a> | <a href="#catchablesInput">Catchables</a> | <a href="#clothesInput">Clothes</a> | <a href="#environmentInput">Environmentals</a> | <a href="#fortunesInput">Fortune Cookies</a> | <a href="#fossilsInput">Fossils</a> | <a href="#furnitureInput">Furniture</a> | <a href="#gyroidsInput">Gyroids</a> | <a href="#miscInput">Misc</a> | <a href="#picturesInput">Animal Pictures</a> | <a href="#songsInput">Songs</a> | <a href="#toolsInput">Tools & Wearables</a> | <a href="#wallsCarpetsInput">Wallpapers & Carpets</a></div>
-      <!-- <br><input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for item names.."> -->
       <br><br>
       <ArtTable></ArtTable>
+      <CatchablesTable></CatchablesTable>
     </div>
   
     // TODO: Add Item IDs to table
@@ -17,7 +17,7 @@
 
 <script>
 import ArtTable from "~/components/ArtTable.vue";
-// import CatchablesTable from "~/components/CatchablesTable.vue";
+import CatchablesTable from "~/components/CatchablesTable.vue";
 // import ClothesTable from "~/components/ClothesTable.vue";
 // import EnvironmentTable from "~/components/EnvironmentTable.vue";
 // import FortunesTable from "~/components/FortunesTable.vue";
@@ -31,11 +31,10 @@ import ArtTable from "~/components/ArtTable.vue";
 // import WallsCarpetsTable from "~/components/WallsCarpetsTable.vue";
 
 export default {
-
   components: {
-    ArtTable
+    ArtTable,
+    CatchablesTable
   }
-    
 }
 </script>
 
