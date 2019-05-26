@@ -205,6 +205,132 @@
                 <td>22be</td>
                 <td>firefly</td>
             </tr>
+            <tr>
+                <td>22bf</td>
+                <td>fruit beetle</td>
+            </tr>
+            <tr>
+                <td>22c0</td>
+                <td>scarab beetle</td>
+            </tr>
+            <tr>
+                <td>22c1</td>
+                <td>jewel beetle</td>
+            </tr>
+            <tr>
+                <td>22c2</td>
+                <td>miyama stag</td>
+            </tr>
+            <tr>
+                <td>22c3</td>
+                <td>saw stag</td>
+            </tr>
+            <tr>
+                <td>22c4</td>
+                <td>giant stag</td>
+            </tr>            
+            <tr>
+                <td>22c5</td>
+                <td>rainbow stag</td>
+            </tr>
+            <tr>
+                <td>22c6</td>
+                <td>cyclommatus stag</td>
+            </tr>
+            <tr>
+                <td>22c7</td>
+                <td>golden stag</td>
+            </tr>
+            <tr>
+                <td>22c8</td>
+                <td>horned dynastid</td>
+            </tr>
+            <tr>
+                <td>22c9</td>
+                <td>horned atlas</td>
+            </tr>
+            <tr>
+                <td>22ca</td>
+                <td>horned elephant</td>
+            </tr>
+            <tr>
+                <td>22cb</td>
+                <td>horned hercules</td>
+            </tr>
+            <tr>
+                <td>22cc</td>
+                <td>goliath beetle</td>
+            </tr>
+            <tr>
+                <td>22cd</td>
+                <td>flea</td>
+            </tr>
+            <tr>
+                <td>22ce</td>
+                <td>pill bug</td>
+            </tr>
+            <tr>
+                <td>22cf</td>
+                <td>mosquito</td>
+            </tr>
+            <tr>
+                <td>22d0</td>
+                <td>fly</td>
+            </tr>
+            <tr>
+                <td>22d1</td>
+                <td>house centipede</td>
+            </tr>
+            <tr>
+                <td>22d2</td>
+                <td>centipede</td>
+            </tr>
+            <tr>
+                <td>22d3</td>
+                <td>spider</td></tr>
+            <tr>
+                <td>22d4</td>
+                <td>tarantula</td></tr>
+            <tr>
+                <td>22d5</td>
+                <td>scorpion</td></tr>
+            <tr>
+                <td>22d6</td>
+                <td>snowflake</td></tr>
+            <tr>
+                <td>22d7</td>
+                <td>red feather</td></tr>
+            <tr>
+                <td>22d8</td>
+                <td>blue feather</td></tr>
+            <tr>
+                <td>22d9</td>
+                <td>green feather</td>
+            </tr>
+            <tr>
+                <td>22da</td>
+                <td>yellow feather</td>
+            </tr>
+            <tr>
+                <td>22db</td>
+                <td>purple feather</td>
+                </tr>
+            <tr>
+                <td>22dc</td>
+                <td>white feather</td>
+            </tr>
+            <tr>
+                <td>22dd</td>
+                <td>pink feather</td>
+            </tr>
+            <tr>
+                <td>22de</td>
+                <td>rainbow feather</td>
+            </tr>
+            <tr>
+                <td>22df</td>
+                <td>good-luck charm **NEW**</td>
+            </tr>
         </table>
     </div>
 </template>
