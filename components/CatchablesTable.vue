@@ -331,6 +331,432 @@
                 <td>22df</td>
                 <td>good-luck charm **NEW**</td>
             </tr>
+            <tr>
+                <td>22e1</td>
+                <td>bitterling</td>
+            </tr>
+            <tr>
+                <td>22e2</td>
+                <td>pale chub</td>
+            </tr>
+            <tr>
+                <td>22e3</td>
+                <td>crucian carp</td>
+            </tr>
+            <tr>
+                <td>22e4</td>
+                <td>dace</td>
+            </tr>
+            <tr>
+                <td>22e5</td>
+                <td>barbel steed</td>
+            </tr>
+            <tr>
+                <td>22e6</td>
+                <td>carp</td>
+            </tr>
+            <tr>
+                <td>22e7</td>
+                <td>koi</td>
+            </tr>
+            <tr>
+                <td>22e8</td>
+                <td>goldfish</td>
+            </tr>
+            <tr>
+                <td>22e9</td>
+                <td>pop-eyed goldfish</td>
+            </tr>
+            <tr>
+                <td>22ea</td>
+                <td>killifish</td>
+            </tr>
+            <tr>
+                <td>22eb</td>
+                <td>crawfish</td>
+            </tr>
+            <tr>
+                <td>22ec</td>
+                <td>soft-shelled turtle</td>
+            </tr>
+            <tr>
+                <td>22ed</td>
+                <td>tadpole</td>
+            </tr>
+            <tr>
+                <td>22ee</td>
+                <td>frog</td>
+            </tr>
+            <tr>
+                <td>22ef</td>
+                <td>freshwater goby</td>
+            </tr>
+            <tr>
+                <td>22f0</td>
+                <td>loach</td>
+            </tr>
+            <tr>
+                <td>22f1</td>
+                <td>catfish</td>
+            </tr>
+            <tr>
+                <td>22f2</td>
+                <td>eel</td>
+            </tr>
+            <tr>
+                <td>22f3</td>
+                <td>giant snakehead</td>
+            </tr>
+            <tr>
+                <td>22f4</td>
+                <td>bluegill</td>
+            </tr>
+            <tr>
+                <td>22f5</td>
+                <td>yellow perch</td>
+            </tr>
+            <tr>
+                <td>22f6</td>
+                <td>black bass</td>
+            </tr>
+            <tr>
+                <td>22f7</td>
+                <td>pike</td>
+            </tr>
+            <tr>
+                <td>22f8</td>
+                <td>pond smelt</td>
+            </tr>
+            <tr>
+                <td>22f9</td>
+                <td>sweetfish</td>
+            </tr>
+            <tr>
+                <td>22fa</td>
+                <td>cherry salmon</td>
+            </tr>
+            <tr>
+                <td>22fb</td>
+                <td>char</td>
+            </tr>
+            <tr>
+                <td>22fc</td>
+                <td>rainbow trout</td>
+            </tr>
+            <tr>
+                <td>22fd</td>
+                <td>stringfish</td>
+            </tr>
+            <tr>
+                <td>22fe</td>
+                <td>salmon</td>
+            </tr>
+            <tr>
+                <td>22ff</td>
+                <td>king salmon</td>
+            </tr>
+            <tr>
+                <td>2300</td>
+                <td>mitten crab</td>
+            </tr>
+            <tr>
+                <td>2301</td>
+                <td>guppy</td>
+            </tr>
+            <tr>
+                <td>2302</td>
+                <td>nibble fish</td>
+            </tr>
+            <tr>
+                <td>2303</td>
+                <td>angelfish</td>
+            </tr>
+            <tr>
+                <td>2304</td>
+                <td>neon tetra</td>
+            </tr>
+            <tr>
+                <td>2305</td>
+                <td>piranha</td>
+            </tr>
+            <tr>
+                <td>2306</td>
+                <td>arowana</td>
+            </tr>
+            <tr>
+                <td>2307</td>
+                <td>dorado</td>
+            </tr>
+            <tr>
+                <td>2308</td>
+                <td>gar</td>
+            </tr>
+            <tr>
+                <td>2309</td>
+                <td>arapaima</td>
+            </tr>
+            <tr>
+                <td>230a</td>
+                <td>saddled bichir</td>
+            </tr>
+            <tr>
+                <td>230b</td>
+                <td>sea butterfly</td>
+            </tr>
+            <tr>
+                <td>230c</td>
+                <td>sea horse</td>
+            </tr>
+            <tr>
+                <td>230d</td>
+                <td>clown fish</td>
+            </tr>
+            <tr>
+                <td>230e</td>
+                <td>surgeonfish</td>
+            </tr>
+            <tr>
+                <td>230f</td>
+                <td>butterfly fish</td>
+            </tr>
+            <tr>
+                <td>2310/td>
+                <td>Napoleonfish</td>
+            </tr>
+            <tr>
+                <td>2311</td>
+                <td>zebra turkeyfish</td>
+            </tr>
+            <tr>
+                <td>2312</td>
+                <td>blowfish</td>
+            </tr>
+            <tr>
+                <td>2313</td>
+                <td>puffer fish</td>
+            </tr>
+            <tr>
+                <td>2314</td>
+                <td>horse mackerel</td>
+            </tr>
+            <tr>
+                <td>2315</td>
+                <td>barred knifejaw</td>
+            </tr>
+            <tr>
+                <td>2316</td>
+                <td>sea bass</td>
+            </tr>
+            <tr>
+                <td>2317</td>
+                <td>red snapper</td>
+            </tr>
+            <tr>
+                <td>2318</td>
+                <td>dab</td>
+            </tr>
+            <tr>
+                <td>2319</td>
+                <td>olive flounder</td>
+            </tr>
+            <tr>
+                <td>231a</td>
+                <td>squid</td>
+            </tr>
+            <tr>
+                <td>231b</td>
+                <td>moray eel</td>
+            </tr>
+            <tr>
+                <td>231c</td>
+                <td>ribbon eel</td>
+            </tr>
+            <tr>
+                <td>231d</td>
+                <td>football fish</td>
+            </tr>
+            <tr>
+                <td>231e</td>
+                <td>tuna</td>
+            </tr>
+            <tr>
+                <td>231f</td>
+                <td>blue marlin</td>
+            </tr>
+            <tr>
+                <td>2320</td>
+                <td>giant trevally</td>
+            </tr>
+            <tr>
+                <td>2321</td>
+                <td>ray</td>
+            </tr>
+            <tr>
+                <td>2322</td>
+                <td>ocean sunfish</td>
+            </tr>
+            <tr>
+                <td>2323</td>
+                <td>hammerhead shark</td>
+            </tr>
+            <tr>
+                <td>2324</td>
+                <td>shark</td>
+            </tr>
+            <tr>
+                <td>2325</td>
+                <td>saw shark</td>
+            </tr>
+            <tr>
+                <td>2326</td>
+                <td>whale shark</td>
+            </tr>
+            <tr>
+                <td>2327</td>
+                <td>oarfish</td>
+            </tr>
+            <tr>
+                <td>2328</td>
+                <td>coelacanth</td>
+            </tr>
+            <tr>
+                <td>2329</td>
+                <td>empty can</td>
+            </tr>
+            <tr>
+                <td>232a</td>
+                <td>boot</td>
+            </tr>
+            <tr>
+                <td>232b</td>
+                <td>old tire</td>
+            </tr>
+            <tr>
+                <td>232c</td>
+                <td>water egg</td>
+            </tr>
+            <tr>
+                <td>232d</td>
+                <td>seaweed</td>
+            </tr>
+            <tr>
+                <td>232e</td>
+                <td>sea grapes</td>
+            </tr>
+            <tr>
+                <td>232f</td>
+                <td>sea urchin</td>
+            </tr>
+            <tr>
+                <td>2330</td>
+                <td>acorn barnacle</td>
+            </tr>
+            <tr>
+                <td>2331</td>
+                <td>oyster</td>
+            </tr>
+            <tr>
+                <td>2332</td>
+                <td>turban shell</td>
+            </tr>
+            <tr>
+                <td>2333</td>
+                <td>abalone</td>
+            </tr>
+            <tr>
+                <td>2334</td>
+                <td>ear shell</td>
+            </tr>
+            <tr>
+                <td>2335</td>
+                <td>clam</td>
+            </tr>
+            <tr>
+                <td>2336</td>
+                <td>pearl oyster</td>
+            </tr>
+            <tr>
+                <td>2337</td>
+                <td>scallop</td>
+            </tr>
+            <tr>
+                <td>2338</td>
+                <td>sea anemone</td>
+            </tr>
+            <tr>
+                <td>2339</td>
+                <td>sea star</td>
+            </tr>
+            <tr>
+                <td>233a</td>
+                <td>sea cucumber</td>
+            </tr>
+            <tr>
+                <td>233b</td>
+                <td>sea slug</td>
+            </tr>
+            <tr>
+                <td>233c</td>
+                <td>flatworm</td>
+            </tr>
+            <tr>
+                <td>233d</td>
+                <td>mantis shrimp</td>
+            </tr>
+            <tr>
+                <td>233e</td>
+                <td>sweet shrimp</td>
+            </tr>
+            <tr>
+                <td>233f</td>
+                <td>tiger prawn</td>
+            </tr>
+            <tr>
+                <td>2340</td>
+                <td>spiny lobster</td>
+            </tr>
+            <tr>
+                <td>2341</td>
+                <td>lobster</td>
+            </tr>
+            <tr>
+                <td>2342</td>
+                <td>snow crab</td>
+            </tr>
+            <tr>
+                <td>2343</td>
+                <td>horsehair crab</td>
+            </tr>
+            <tr>
+                <td>2344</td>
+                <td>red king crab</td>
+            </tr>
+            <tr>
+                <td>2345</td>
+                <td>spider crab</td>
+            </tr>
+            <tr>
+                <td>2346</td>
+                <td>octopus</td>
+            </tr>
+            <tr>
+                <td>2347</td>
+                <td>spotted garden eel</td>
+            </tr>
+            <tr>
+                <td>2348</td>
+                <td>chambered nautilus</td>
+            </tr>
+            <tr><td>2349</td><td>horseshoe crab</td>
+            </tr>
+            <tr>
+                <td>234a</td>
+                <td>giant isopod</td>
+            </tr>
+            <tr>
+                <td>234b</td>
+                <td>deep-sea egg</td>
+            </tr>
         </table>
     </div>
 </template>
