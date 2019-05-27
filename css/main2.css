@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'ACNL';
+    src: url("/assets/ACNL.otf");
+    /* font-style: normal;
+    font-weight: 350; */
+    src: local('nintendoP_Humming-E_002pr'), local('nintendoP_Humming-E_002pr Regular'), url('/assets/ACNL.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url("/assets/Whitney Medium.ttf");
+}
+
+html {
+    /* background: url('/bg.png'); */
+    background: url('/bg/bg.png');
+    height: 100%;
+    font-family: 'ACNL';
+    cursor: url('/static/cursor.cur'), auto;
+}
+
+/* body {
+    font-family: 'ACNL';
+} */
+
+footer {
+  height: 30px;
+  background: url('/side_bg.png');
+}
+
+body {
+    /* background: url('static/bg.png'); */
+    height: 100%;
+    font-family: 'ACNL';
+}
