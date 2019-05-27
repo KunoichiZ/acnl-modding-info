@@ -21,6 +21,6 @@
     "vue-discord-message": "^3.0.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.0"
+    "nodemon": "^1.19.1"
   }
 }
