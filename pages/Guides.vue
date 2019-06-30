@@ -8,7 +8,21 @@
 </template>
 
 <script>
-
+export default {
+  data () {
+    return {
+      title: 'Guides - ACNL Modding Info'
+    }
+  },
+  head () {
+    return {
+      title: this.title,
+      meta: [
+        { hid: 'description', name: 'description', content: 'Guides' }
+      ]
+    }
+  }
+}
 </script>
 
 <style>
