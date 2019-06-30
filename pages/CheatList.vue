@@ -170,7 +170,6 @@
     </div>
       <br>
       // TODO: Add Button Commands to Necessary Commands
-      // TODO: Add details to all cheats on Cheat List
   </section>
 </template>
 
