@@ -2,7 +2,7 @@
   <section class="container has-text-centered">
     <div>
       <h1 class="is-size-3">Plugin Installation Guide</h1>
-      <br>These are the steps needed to install the plugin. 
+      <br>These are the steps needed to install the plugin. This also assumes you have Luma3DS v9.1 installed. v10.0 breaks NTR CFW.
       <br><br>
       <div id="steps">
         <ol>
@@ -31,13 +31,31 @@
   </section>
 </template>
 
+<script>
+export default {
+  data () {
+    return {
+      title: 'Plugin Installation Guide - ACNL Modding Info'
+    }
+  },
+  head () {
+    return {
+      title: this.title,
+      meta: [
+        { hid: 'description', name: 'description', content: 'Installation Guide' }
+      ]
+    }
+  }
+}
+</script>
+
 <style scoped>
 #steps {
   padding: 10px;
   background: url('/pink_bg.png');
   width: 750px;
   border-radius: 25px;
-  border-color: #a1cc00;
+  border-color: #f58094;
   border-width: 10px;
   margin: auto;
 }
@@ -55,5 +73,16 @@
 
 #image {
   list-style-type: none;
+}
+
+@media (max-width: 1300px) {
+  #steps {
+    width: 475px;
+    padding: 10px;
+    border-radius: 25px;
+    border-color: #a1cc00;
+    border-width: 10px;
+    margin: auto;
+  }
 }
 </style>
