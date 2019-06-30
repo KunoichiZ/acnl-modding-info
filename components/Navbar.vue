@@ -2,9 +2,15 @@
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <a class="navbar-item" href="https://www.acnl-modding.kunoichiz.me"> Animal Crossing New Leaf Modding Info </a>
+
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" v-on:click="showNav = !showNav" v-bind:class="{ 'is-active' : showNav }">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
     </div>
 
-    <div id="navbarBasicExample" class="navbar-menu">
+    <div id="navbarBasicExample" class="navbar-menu" v-bind:class="{ 'is-active' : showNav }">
       <div class="navbar-start"></div>
 
       <div class="navbar-end">
@@ -28,6 +34,16 @@
   </nav>
 </template>
 
+<script>
+export default {
+    data: function() {
+        return {
+            showNav: false
+        }
+    }
+}
+</script>
+
 <style>
 nav {
   background: url('/side_bg.png');
@@ -37,5 +53,10 @@ nav {
 .navbar a:hover {
   background: url('/side_bg.png');
   cursor: url('/cursor.cur'), auto;
+}
+
+.navbar-menu {
+  background: url('/side_bg.png');
+  border-radius: 15px;
 }
 </style>
