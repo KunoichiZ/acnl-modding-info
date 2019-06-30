@@ -35,7 +35,7 @@
         </div>
         <br>
         <div id="fourpoint1point1">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v4.1.1">Version 4.1.1</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v4.1.1">Version 4.1.1</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             4.1.1 of the NTR Plugin is finally released!
             <br><br>
             New Features
@@ -76,7 +76,7 @@
         </div>
         <br>
         <div id="fourpoint0b4">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v4.0B4">Version 4.0 Beta 4</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v4.0B4">Version 4.0 Beta 4</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             4.0 Beta 4 is finally released!
             <br><br>
             What's New
@@ -111,7 +111,7 @@
         </div>
         <br>
         <div id="fourpoint0b3">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v4.0B3">Version 4.0 Beta 3</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v4.0B3">Version 4.0 Beta 3</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             4.0 Beta 3 is finally released!
             <br><br>
             What's New
@@ -144,7 +144,7 @@
         </div>
         <br>
         <div id="fourpoint0b2">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v4.0B2">Version 4.0 Beta 2</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v4.0B2">Version 4.0 Beta 2</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             4.0 Beta 2 is out!
             <br>
             What's new:
@@ -163,7 +163,7 @@
         </div>
         <br>
         <div id="fourpoint0b1">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v4.0B1">Version 4.0 Beta 1</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v4.0B1">Version 4.0 Beta 1</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             4.0 Beta 1 is finally released!
             <br>
             What's new:
@@ -205,7 +205,7 @@
         </div>
         <br>
         <div id="threepoint3">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.3">Version 3.3</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.3">Version 3.3</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             New Features
             <ul>
                 <li>Isabelle has been included in the Special NPC Modifier.</li>
@@ -229,7 +229,7 @@
         </div>
         <br>
         <div id="threepoint2point1">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.2.1">Version 3.2.1</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.2.1">Version 3.2.1</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             What's New
             <ul>
                 <li>stalk2 + stalk3 commands finally added</li>
@@ -246,7 +246,7 @@
         </div>
         <br>
         <div id="threepoint2">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.2">Version 3.2</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.2">Version 3.2</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             What's New
             <ul>
                 <li>NPC mod</li>
@@ -283,7 +283,7 @@
         </div>
         <br>
         <div id="threepoint2b4">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.2B4">Version 3.2 Beta 4</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.2B4">Version 3.2 Beta 4</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             What's New
             <ul>
                 <li>Text to cheat runs in background</li>
@@ -299,7 +299,7 @@
         </div>
         <br>
         <div id="threepoint2b3">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.2B3">Version 3.2 Beta 3</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.2B3">Version 3.2 Beta 3</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             What's New
             <ul>   
                 <li>Fixed anything that caused NPC mod to crash/hang</li>
@@ -315,7 +315,7 @@
         </div>
         <br>
         <div id="threepoint2b2">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.2B2">Version 3.2 Beta 2</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.2B2">Version 3.2 Beta 2</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             What's New
             <ul>   
                 <li>NPC mod. It still has bugs, report them on GBATemp</li>
@@ -325,7 +325,7 @@
         </div>
         <br>
         <div id="threepoint2b1">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.2B1">Version 3.2 Beta 1</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.2B1">Version 3.2 Beta 1</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             What's New
             <ul>   
                 <li>Bank and wallet codes (more to come)</li>
@@ -337,7 +337,7 @@
         </div>
         <br>
         <div id="threepoint1point4">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1.4">Version 3.1.4</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1.4">Version 3.1.4</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             <ul>
                 <li>Spawning items from the island online now officially works</li>
                 <li>Use keyboard changed to island only.</li>
@@ -347,7 +347,7 @@
         </div>
         <br>
         <div id="threepoint1point3">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1.3">Version 3.1.3</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1.3">Version 3.1.3</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             What's New
             <ul>
                 <li>Fixed 'clearinv' command</li>
@@ -359,7 +359,7 @@
         </div>
         <br>
         <div id="threepoint1point2">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1.2">Version 3.1.2</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1.2">Version 3.1.2</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             What's New
             <ul>
                 <li>Fixed inventory while online
@@ -379,7 +379,7 @@
         </div>
         <br>
         <div id="threepoint1">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1">Version 3.1</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1">Version 3.1</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             The long awaited update!
             <ul>
                 <li>Online item spawning makes a return!</li>
@@ -414,7 +414,7 @@
         </div>
         <br>
         <div id="threepoint1b4">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1B4">Version 3.1 Beta 4</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1B4">Version 3.1 Beta 4</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             <ul>
                 <li>Online inventory codes for all regions</li>
                 <li>GorgeSet command (gives you gorgeous set)</li>
@@ -427,7 +427,7 @@
         </div>
         <br>
         <div id="threepoint1b3">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/V3.1B3">Version 3.1 Beta 3</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/V3.1B3">Version 3.1 Beta 3</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             <ul>
                 <li>Fixed inventory/appearance codes (again) for EUR and JAP</li>
                 <li>Fixed time travel codes for EUR and JAP</li>
@@ -439,7 +439,7 @@
         </div>
         <br>
         <div id="threepoint1b2">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1B2">Version 3.1 Beta 2</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1B2">Version 3.1 Beta 2</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             <ul>
                 <li>Merged all codes to universally work in one function per cheat thanks to <a href="https://github.com/Nanquitas">@Nanquitas</a></li>
                 <li>Fixed text cheats thanks to <a href="https://github.com/Nanquitas">@Nanquitas</a></li>
@@ -458,7 +458,7 @@
         </div>
         <br>
         <div id="threepoint1b1">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1B1">Version 3.1 Beta 1</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1B1">Version 3.1 Beta 1</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             <ul>
                 <li>Dynamic tan modifier thanks to <a href="https://github.com/Nanquitas">@Nanquitas</a></li>
                 <li>Walk through walls thanks to dsrules</li>
@@ -471,7 +471,7 @@
         </div>
         <br>
         <div id="threepoint0point1">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.0.1">Version 3.0.1</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.0.1">Version 3.0.1</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             <ul>
                 <li>Full Japan support</li>
                 <li>Added notes to almost every cheat entry to avoid confusion</li>
@@ -483,7 +483,7 @@
         </div>
         <br>
         <div id="threepoint0">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.0">Version 3.0</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.0">Version 3.0</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             <ul>
                 <li>USA support for Amiibo update and ported to EUR thanks to <a href="https://github.com/Slattz">@Slattz</a></li>
                 <li>Real Time World Edit added thanks to <a href="https://github.com/conanac">@conanac</a> for the help!</li>
@@ -498,7 +498,7 @@
         </div>
         <br>
         <div id="threepoint0b1">
-            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.0B1">Version 3.0 Build 1</a></h6>
+            <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.0B1">Version 3.0 Build 1</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             <ul>
                 <li>Europe and USA only.</li>
                 <li>Time Travel: press B + d pad right to fast forward an hour, press B + d pad right to rewind an hour. Press B + D pad down to revert the ingame time to the system time.</li>
@@ -514,7 +514,21 @@
 </template>
 
 <script>
-
+export default {
+  data () {
+    return {
+      title: 'Releases - ACNL Modding Info'
+    }
+  },
+  head () {
+    return {
+      title: this.title,
+      meta: [
+        { hid: 'description', name: 'description', content: 'Releases' }
+      ]
+    }
+  }
+}
 </script>
 
 <style scoped>
@@ -577,5 +591,11 @@
 
 #threepoint1point2 ol {
   list-style-position: inside;
+}
+
+@media (max-width: 1300px) {
+  #threepoint0b1, #threepoint0, #threepoint0point1, #threepoint1b1, #threepoint1b2, #threepoint1b3, #threepoint1b4, #threepoint1, #threepoint1point2, #threepoint1point3, #threepoint1point4, #threepoint2b1, #threepoint2b2, #threepoint2b3, #threepoint2b4, #threepoint2, #threepoint2point1, #threepoint3, #fourpoint0b1, #fourpoint0b2, #fourpoint0b3, #fourpoint0b4, #fourpoint1point1  {
+    width: 475px;
+  }
 }
 </style>
