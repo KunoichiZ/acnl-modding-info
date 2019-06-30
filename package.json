@@ -1,7 +1,7 @@
 {
   "name": "acnl-modding-info",
   "version": "0.0.0",
-  "description": "ACNL Modding Info",
+  "description": "ACNL Modding, Guides, and Plugin Information",
   "author": "KunoichiZ",
   "private": true,
   "scripts": {
