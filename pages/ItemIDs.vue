@@ -5,13 +5,17 @@
       <br>Click a category to display its items in the table below.
       <br><br><div id="top"><a href="#artInput">Art</a> | <a href="#catchablesInput">Catchables</a> | <a href="#clothesInput">Clothes</a> | <a href="#environmentInput">Environmentals</a> | <a href="#fortunesInput">Fortune Cookies</a> | <a href="#fossilsInput">Fossils</a> | <a href="#furnitureInput">Furniture</a> | <a href="#gyroidsInput">Gyroids</a> | <a href="#miscInput">Misc</a> | <a href="#picturesInput">Animal Pictures</a> | <a href="#songsInput">Songs</a> | <a href="#toolsInput">Tools & Wearables</a> | <a href="#wallsCarpetsInput">Wallpapers & Carpets</a></div>
       <br><br>
+      Art (back to <a href="#top">categories</a>)
       <ArtTable></ArtTable>
+      <br>
+      Catchables (back to <a href="#top">categories</a>)
       <CatchablesTable></CatchablesTable>
     </div>
   
     // TODO: Add Item IDs to table
     // TODO: Make table searchable
     // TODO: Color code items if the item can be pocketed (green if yes, red if no)
+    // TODO: Add CSS to each table
   </section>
 </template>
 
@@ -34,6 +38,19 @@ export default {
   components: {
     ArtTable,
     CatchablesTable
+  },
+  data () {
+    return {
+      title: 'Item IDs - ACNL Modding Info'
+    }
+  },
+  head () {
+    return {
+      title: this.title,
+      meta: [
+        { hid: 'description', name: 'description', content: 'Item IDs' }
+      ]
+    }
   }
 }
 </script>
