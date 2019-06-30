@@ -421,16 +421,30 @@
 </template>
 
 <script>
-
+export default {
+  data () {
+    return {
+      title: 'FAQ - ACNL Modding Info'
+    }
+  },
+  head () {
+    return {
+      title: this.title,
+      meta: [
+        { hid: 'description', name: 'description', content: 'FAQ' }
+      ]
+    }
+  }
+}
 </script>
 
-<style>
+<style scoped>
 .discord-messages {
-    width: 500px;
+    width: 600px;
     margin: auto;
     /* font-family: 'ACNL'; */
-    /* font-family: 'Open Sans', sans-serif; */
-    font-family: 'Whitney';
+    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Whitney', sans-serif; */
     text-align: left;
     font-size: 15px;
     border-radius: 25px;
@@ -438,6 +452,7 @@
 
 .discord-author-info {
     font-weight: bold;
+    color: white;
 }
 
 #toc {
@@ -474,5 +489,14 @@
 
 #helpers {
     color: #daa520;
+}
+
+@media (max-width: 1300px) {
+  #toc {
+    width: 475px;
+  }
+  .discord-messages, .discord-message {
+    width: 475px;
+  }
 }
 </style>
