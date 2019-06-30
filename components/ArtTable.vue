@@ -4,9 +4,6 @@
         <br><br>
         <table id="artTable">
             <tr>
-  	            <th colspan="2" id="art">Art (back to <a href="#top">categories</a>)</th>
-            </tr>
-            <tr>
   	            <th>Hex</th>
                 <th>Item Name</th>
             </tr>

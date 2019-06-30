@@ -4,9 +4,6 @@
         <br><br>
         <table id="catchablesTable">
             <tr>
-  	            <th colspan="2" id="catchables">Catchables (back to <a href="#top">categories</a>)</th>
-            </tr>
-            <tr>
   	            <th>Hex</th>
                 <th>Item Name</th>
             </tr>
