@@ -1,6 +1,7 @@
 <template>
-    <div>
-        <input type="text" id="artInput" v-on:keyup="artFunction()" placeholder="Search for item names..">
+    <div id="artvue" class="container has-text-centered">
+        <span id="art">Art <!-- (back to <a href="#top">categories</a>)--></span>
+        <br><input type="text" id="artInput" v-on:keyup="artFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="artTable">
             <tr>
@@ -434,5 +435,14 @@ table {
 
 th, td {
     padding: 5px;
+}
+
+#artvue {
+    background: url('/green_bg.png');
+    width: 325px;
+    border-radius: 25px;
+    border-color: #a1cc00;
+    border-width: 10px;
+    padding: 15px;
 }
 </style>
