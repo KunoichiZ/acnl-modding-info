@@ -337,7 +337,7 @@
         <discord-messages>
             <discord-message user="isabelle" id="hairGuide">
                Hair Guide
-               <img src="https://media.discordapp.net/attachments/360890459645804544/528657618558910477/20181007_214051.png?width=176&height=564">
+               <br><img src="https://media.discordapp.net/attachments/360890459645804544/528657618558910477/20181007_214051.png?width=176&height=564">
             </discord-message>
         </discord-messages>
         <a href="#toc">back to top</a>
@@ -353,7 +353,7 @@
         <discord-messages>
             <discord-message user="isabelle" id="pwpDimGuide">
                PWP Dimensions Guide
-               <img src="https://media.discordapp.net/attachments/360890459645804544/529095914749558815/ACNL-Building-Guide-by-Trinsid8133.png?width=310&height=360">
+               <br><img src="https://media.discordapp.net/attachments/360890459645804544/529095914749558815/ACNL-Building-Guide-by-Trinsid8133.png?width=310&height=360">
             </discord-message>
         </discord-messages>
         <a href="#toc">back to top</a>
@@ -361,7 +361,7 @@
         <discord-messages>
             <discord-message user="isabelle" id="styleColorGuide">
                Hair Style and Color Guide
-               <img src="https://media.discordapp.net/attachments/360890459645804544/557636237561823242/90857f1eb12162229df986123b957312.png?width=221&height=361">
+               <br><img src="https://media.discordapp.net/attachments/360890459645804544/557636237561823242/90857f1eb12162229df986123b957312.png?width=221&height=361">
                <br>Colors
                <br><img src="https://media.discordapp.net/attachments/360890459645804544/557637032822964234/2704424015a61b464d6ce0d133489ac3.png?width=221&height=361">
             </discord-message>
@@ -371,7 +371,7 @@
         <discord-messages>
             <discord-message user="isabelle" id="movingInFaceGuide">
                Moving in Face Guide
-               <img src="https://media.discordapp.net/attachments/360890459645804544/557645141108588546/tumblr_muozpwHoTW1sev4jzo2_1280.png?width=221&height=360">
+               <br><img src="https://media.discordapp.net/attachments/360890459645804544/557645141108588546/tumblr_muozpwHoTW1sev4jzo2_1280.png?width=221&height=360">
             </discord-message>
         </discord-messages>
         <a href="#toc">back to top</a>
