@@ -9,13 +9,14 @@
     <br>
     <div id="pages">
       <ul>
-        <li><u><nuxt-link to="/installation">Plugin Installation</nuxt-link></u>: This page will walk you through the plugin installation process.</li>
-        <li><u><nuxt-link to="/cheatlist">Cheat List</nuxt-link></u>: This page lists all of the cheats available in the latest release of the plugin and gives the 3DS button combinations needed to activate some cheats.</li>
-        <li><u><nuxt-link to="/itemids">Item IDs</nuxt-link></u>: This page lists the item IDs and the names of the items for the Text2Item cheat.</li>
-        <li><u><nuxt-link to="/jargon">Jargon</nuxt-link></u>: This page lists 3DS and ACNL jargon for those not in the know.</li>
-        <li><u><nuxt-link to="/guides">Guides</nuxt-link></u>: This page gives guides on various topics, such as texture hacks.</li>
-        <li><u><nuxt-link to="/faq">Frequently Asked Questions</nuxt-link></u>: This page lists the frequently asked questions and gives answers to those questions.</li>
-        <li><u><nuxt-link to="/releases">Releases</nuxt-link></u>: This page gives the releases of the plugin, with the latest on top.</li>
+        <li><nuxt-link to="/installation" class="link">Plugin Installation</nuxt-link>: This page will walk you through the plugin installation process.</li>
+        <li><nuxt-link to="/cheatlist" class="link">Cheat List</nuxt-link>: This page lists all of the cheats available in the latest release of the plugin and gives the 3DS button combinations needed to activate some cheats.</li>
+        <li><nuxt-link to="/releases" class="link">Releases</nuxt-link>: This page gives the releases of the plugin, with the latest on top.</li>
+        <li><nuxt-link to="/itemids" class="link">Item IDs</nuxt-link>: This page lists the item IDs and the names of the items for the Text2Item cheat.</li>
+        <li><nuxt-link to="/guides" class="link">Guides</nuxt-link>: This page gives guides on various topics, such as texture hacks.</li>
+        <li><nuxt-link to="/jargon" class="link">Jargon</nuxt-link>: This page lists 3DS and ACNL jargon for those not in the know.</li>
+        <li><nuxt-link to="/faq" class="link">Frequently Asked Questions</nuxt-link>: This page lists the frequently asked questions and gives answers to those questions.</li>
+        
       </ul>
     </div>
 
