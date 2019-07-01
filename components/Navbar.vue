@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
-      <a class="navbar-item" href="https://www.acnl-modding.kunoichiz.me"> Animal Crossing New Leaf Modding Info </a>
+      <a class="navbar-item" href="https://www.acnl-modding.me"> Animal Crossing New Leaf Modding Info </a>
 
       <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" v-on:click="showNav = !showNav" v-bind:class="{ 'is-active' : showNav }">
         <span aria-hidden="true"></span>
@@ -58,5 +58,15 @@ nav {
 .navbar-menu {
   background: url('/side_bg.png');
   border-radius: 15px;
+}
+
+.navbar-item:active {
+    background: url('/bg_wood2.png');
+    color: white;
+}
+
+.nuxt-link-exact-active {
+    background: url('/bg_wood2.png');
+    color: white;
 }
 </style>
