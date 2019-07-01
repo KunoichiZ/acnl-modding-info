@@ -810,7 +810,7 @@ th, td {
 
 #catchablesvue {
     background: url('/pink_bg.png');
-    width: 350px;
+    width: 275px;
     border-radius: 25px;
     border-color: #dc4a63;
     border-width: 15px;
