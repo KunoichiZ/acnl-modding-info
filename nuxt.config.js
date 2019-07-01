@@ -43,7 +43,10 @@ module.exports = {
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: ['~/plugins/vue-discord-messages'],
+  plugins: [
+    '~/plugins/vue-discord-messages'
+    // '~plugins/scrollmenu.js'
+  ],
 
   /*
   ** Nuxt.js modules
