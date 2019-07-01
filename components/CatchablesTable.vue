@@ -1,6 +1,7 @@
 <template>
-    <div>
-        <input type="text" id="catchablesInput" v-on:keyup="catchablesFunction()" placeholder="Search for item names..">
+    <div id="catchablesvue" class="container has-text-centered">
+        <span id="catchables">Catchables <!--(back to <a href="#top">categories</a>)--></span>
+        <br><input type="text" id="catchablesInput" v-on:keyup="catchablesFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="catchablesTable">
             <tr>
@@ -326,7 +327,7 @@
             </tr>
             <tr>
                 <td>22df</td>
-                <td>good-luck charm **NEW**</td>
+                <td>good-luck charm</td>
             </tr>
             <tr>
                 <td>22e1</td>
@@ -517,7 +518,7 @@
                 <td>butterfly fish</td>
             </tr>
             <tr>
-                <td>2310/td>
+                <td>2310</td>
                 <td>Napoleonfish</td>
             </tr>
             <tr>
@@ -805,5 +806,14 @@ table {
 
 th, td {
     padding: 5px;
+}
+
+#catchablesvue {
+    background: url('/pink_bg.png');
+    width: 350px;
+    border-radius: 25px;
+    border-color: #dc4a63;
+    border-width: 15px;
+    padding: 15px;
 }
 </style>
