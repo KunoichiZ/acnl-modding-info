@@ -44,10 +44,11 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 nav {
   background: url('/side_bg.png');
   border-radius: 15px;
+  height: 10px;
 }
 
 .navbar a:hover {
@@ -58,15 +59,22 @@ nav {
 .navbar-menu {
   background: url('/side_bg.png');
   border-radius: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .navbar-item:active {
-    background: url('/bg_wood2.png');
-    color: white;
+    background: url('/pink_bg.png');
+    color: black;
+    border-radius: 25px;
 }
 
 .nuxt-link-exact-active {
-    background: url('/bg_wood2.png');
-    color: white;
+    background: url('/pink_bg.png');
+    /* background-repeat: no-repeat;
+    background-size: auto; */
+    padding: 10px;
+    color: black;
+    border-radius: 15px;
 }
 </style>
