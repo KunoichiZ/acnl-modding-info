@@ -1,14 +1,15 @@
 <template>
-  <section class="container has-text-centered">
+  <section class="container">
     <div>
-      <br><h1 class="is-size-3">Item IDs</h1>
-      <br>Click a category to display its items in the table below.
-      <br><br><div id="top"><a href="#artInput">Art</a> | <a href="#catchablesInput">Catchables</a> | <a href="#clothesInput">Clothes</a> | <a href="#environmentInput">Environmentals</a> | <a href="#fortunesInput">Fortune Cookies</a> | <a href="#fossilsInput">Fossils</a> | <a href="#furnitureInput">Furniture</a> | <a href="#gyroidsInput">Gyroids</a> | <a href="#miscInput">Misc</a> | <a href="#picturesInput">Animal Pictures</a> | <a href="#songsInput">Songs</a> | <a href="#toolsInput">Tools & Wearables</a> | <a href="#wallsCarpetsInput">Wallpapers & Carpets</a></div>
+      <br><center><h1 class="is-size-3">Item IDs</h1>
+      <br>Click a category on the left to display its items in the table below.</center>
+      <ItemIDsMenu></ItemIDsMenu>
+      <!-- <br><br><div id="top"><a href="#artInput">Art</a> | <a href="#catchablesInput">Catchables</a> | <a href="#clothesInput">Clothes</a> | <a href="#environmentInput">Environmentals</a> | <a href="#fortunesInput">Fortune Cookies</a> | <a href="#fossilsInput">Fossils</a> | <a href="#furnitureInput">Furniture</a> | <a href="#gyroidsInput">Gyroids</a> | <a href="#miscInput">Misc</a> | <a href="#picturesInput">Animal Pictures</a> | <a href="#songsInput">Songs</a> | <a href="#toolsInput">Tools & Wearables</a> | <a href="#wallsCarpetsInput">Wallpapers & Carpets</a></div> -->
       <br><br>
-      Art (back to <a href="#top">categories</a>)
+      <!-- <center><span id="art">Art (back to <a href="#top">categories</a>)-->
       <ArtTable></ArtTable>
       <br>
-      Catchables (back to <a href="#top">categories</a>)
+      
       <CatchablesTable></CatchablesTable>
     </div>
   
@@ -22,6 +23,7 @@
 <script>
 import ArtTable from "~/components/ArtTable.vue";
 import CatchablesTable from "~/components/CatchablesTable.vue";
+import ItemIDsMenu from "~/components/ItemIDsMenu.vue";
 // import ClothesTable from "~/components/ClothesTable.vue";
 // import EnvironmentTable from "~/components/EnvironmentTable.vue";
 // import FortunesTable from "~/components/FortunesTable.vue";
@@ -37,7 +39,8 @@ import CatchablesTable from "~/components/CatchablesTable.vue";
 export default {
   components: {
     ArtTable,
-    CatchablesTable
+    CatchablesTable,
+    ItemIDsMenu
   },
   data () {
     return {
@@ -60,6 +63,10 @@ export default {
   width: 50%;
 } */
 
+html {
+	scroll-behavior: smooth
+}
+
 table, td {
   border: 1px solid black;
   text-align: center;
@@ -72,5 +79,11 @@ th {
 
 table {
   margin: auto;
+}
+
+@media (max-width: 1000px) {
+  .menu {
+      display: none;
+  }
 }
 </style>
