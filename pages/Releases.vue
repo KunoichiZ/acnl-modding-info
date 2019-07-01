@@ -1,8 +1,8 @@
 <template>
-    <section class="container has-text-centered">
+    <section class="container">
         <div>
         <br>
-        <h3 class="title is-3">Releases</h3>
+        <h3 class="title is-3"><center>Releases</center></h3>
         </div>
         <br>
         <div id="toc">
@@ -528,7 +528,7 @@ export default {
       ]
     }
   }
-}
+};
 </script>
 
 <style scoped>
