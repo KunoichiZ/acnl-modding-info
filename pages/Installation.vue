@@ -85,4 +85,8 @@ export default {
     margin: auto;
   }
 }
+
+code {
+  border-radius: 25px;
+}
 </style>
