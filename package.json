@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@nuxtjs/google-analytics": "^2.2.0",
+    "jquery": "^3.4.1",
     "nuxt": "^2.8.1",
     "nuxt-buefy": "^0.3.8",
     "push-dir": "^0.4.1",
