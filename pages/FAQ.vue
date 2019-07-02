@@ -1,7 +1,7 @@
 <template>
     <div class="container has-text-centered">
         <h1 class="is-size-3">Animal Crossing: New Leaf NTR Plugin FAQ</h1>
-        <br><p><b>Always make sure to make a backup of your save data!</b> You can use this: <a href="http://bit.ly/B--Save">http://bit.ly/B--Save</a>.</p>
+        <br><p><b>Always make sure to make a backup of your save data!</b> You can use this: <a href="https://github.com/J-D-K/JKSM/releases/latest">JKSM</a> or <a href="https://github.com/FlagBrew/Checkpoint/releases/latest">Checkpoint</a>.</p>
         <br>
         <div id="toc">
             <h6 class="subtitle is-6" id="toc-title">Table of Contents</h6>
@@ -171,7 +171,7 @@
                 Animal Crossing hangs on the loading screen and never loads.
             </discord-message>
             <discord-message user="isabelle">
-                First off, not a question. Second, try updating to Luma 8.1 <a href="https://goo.gl/ypmw5g">[https://goo.gl/ypmw5g]</a> or higher. It is a CTRPF requirement to use Luma 8.1 (as of 4.0 beta 3 of the plugin).
+                First off, not a question. Second, try updating to Luma 8.1 <a href="https://github.com/AuroraWright/Luma3DS/releases/tag/v8.1">[https://github.com/AuroraWright/Luma3DS/releases/tag/v8.1]</a> or higher. It is a CTRPF requirement to use Luma 8.1 (as of 4.0 beta 3 of the plugin).
             </discord-message>
         </discord-messages>
         <a href="#toc">back to top</a>
@@ -203,7 +203,7 @@
             <discord-message user="isabelle">
                 <ol>
                     <li>Make sure you <b>aren't</b> using <u>NTR Mode 3</u>.</li>
-                    <li>Make sure you have BootNTR Selector's settings set to the default.
+                    <li>Make sure you have BootNTR Selector's settings set to the default.</li>
                     <br>If you do not know what it is set to, hold <b>Select</b> upon booting BootNTR Selector and set it to default.</li>
                     <li>Make sure you're using the correct ACNL (see the question above)</li>
                 </ol>
@@ -317,7 +317,7 @@
                Which version of NTR do I use?
             </discord-message>
             <discord-message user="isabelle">
-               To save the helpers and us the trouble, here's a <a href="https://github.com/Nanquitas/BootNTR/releases/download/v2.12/BootNTRSelector-FONZD-Banner.cia">direct link</a> to a .cia that <br>will work for this plugin. 
+               To save the helpers and us the trouble, here's a <a href="https://github.com/Nanquitas/BootNTR/releases/latest/">direct link</a> to a .cia that <br>will work for this plugin. 
                <br>Install with FBI and load before loading ACNL if using the NTR method for <br>loadingplugins.
                <br>This is the version of NTR you use for O3DS, O3DSXL, N3DS, N3DSXL, <br>O2DS, ON4DS, ABC123DS, etc.
             </discord-message>
