@@ -2,7 +2,7 @@
   <section class="container has-text-centered">
     <div>
       <h1 class="is-size-3">Plugin Installation Guide</h1>
-      <br>These are the steps needed to install the plugin. This also assumes you have Luma3DS v9.1 installed. v10.0 breaks NTR CFW.
+      <br>These are the steps needed to install the plugin. This also assumes you have Luma3DS v9.1 installed. Luma3DS v10.0 breaks NTR CFW.
       <br><br>
       <div id="steps">
         <ol>
