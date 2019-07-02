@@ -12,7 +12,6 @@
             <jargonACNL></jargonACNL>
         </b-tab-item>
     </b-tabs>
-     // TODO: Add ACNL Jargon
      // TODO: Add CSS to Jargon tables
 
   </section>
