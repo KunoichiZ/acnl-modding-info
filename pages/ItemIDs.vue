@@ -16,7 +16,7 @@
     // TODO: Add Item IDs to table
     // TODO: Make table searchable
     // TODO: Color code items if the item can be pocketed (green if yes, red if no)
-    // TODO: Add CSS to each table
+    
   </section>
 </template>
 
