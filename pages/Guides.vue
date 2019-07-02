@@ -33,7 +33,7 @@
     <br>
     <br>
     <br>
-    <br> // TODO: Add Guides  -->
+    <br> --> // TODO: Add Guides
       
   </section>
 </template>
