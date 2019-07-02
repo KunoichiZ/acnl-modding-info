@@ -18,7 +18,7 @@
         </tr>
         <tr>
             <td>QM</td>
-            <td>Quick Menu. Quick Menu gives quicker access to some cheats, such as watering flowers, setting the time, modifying your appearance, give yourself a furniture set, and more.</td>
+            <td>Quick Menu. Quick Menu gives quicker access to some cheats, such as watering flowers, setting the time, modifying your appearance, give yourself a furniture set, and more. You hold R + X for a small bit when you're not in any other menu to open the Quick Menu.</td>
         </tr>
         <tr>
             <td>RTBM</td>
