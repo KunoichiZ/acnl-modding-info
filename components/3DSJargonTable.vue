@@ -52,6 +52,11 @@
             <td>An unique ID used by people to identify on the Nintendo Network. Intended to replace the older friend codes system. Can only be used on 1 Nintendo 3DS console at a time.</td>
         </tr>
         <tr>
+            <td>NTR CFW</td>
+            <td>Though NTR CFW has "CFW" right in its name, this is NOT what people typically refer to when they talk about CFW. If people ask if you have CFW, NTR is N O T what they're asking about. Usually they're looking for something else like Luma3DS. 
+            <br><br>NTR CFW is a CFW that isn't installed like traditional CFW, instead it's launched by programs such as BootNTR or BootNTR Selector. Using NTR, you can do various things, but the primary reason people use it is to load .plg files that can have a variety of applications. These .plg files can be plugins for cheats like the ACNL one this page is for or for additional features such as streaming or an FPS counter in your games. NTR is not permanent. It will disappear as soon as you reboot your 3DS, so the launcher must be used each and every time you plan to use NTR. </td>
+        </tr>
+        <tr>
             <td>O3DS/Old3DS</td>
             <td>"Old" 3DS. Any 3DS model that isn't a "New" 3DS and runs at only 268MHz. This terminology includes the original 2DS, usually.</td>
         </tr>
