@@ -1,5 +1,6 @@
 <template>
     <div class="container has-text-centered">
+        <br>
         <h1 class="title is-size-3">Animal Crossing: New Leaf NTR Plugin FAQ</h1>
         <br><p><b>Always make sure to make a backup of your save data!</b> You can use this: <a href="https://github.com/J-D-K/JKSM/releases/latest">JKSM</a> or <a href="https://github.com/FlagBrew/Checkpoint/releases/latest">Checkpoint</a>.</p>
         <br>
