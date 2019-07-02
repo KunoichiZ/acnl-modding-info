@@ -1,7 +1,7 @@
 <template>
     <div id="catchablesvue" class="container has-text-centered">
         <span id="catchables">Catchables <!--(back to <a href="#top">categories</a>)--></span>
-        <br><input type="text" id="catchablesInput" v-on:keyup="catchablesFunction()" placeholder="Search for item names..">
+        <br><input type="text" class="input" id="catchablesInput" v-on:keyup="catchablesFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="catchablesTable">
             <tr>

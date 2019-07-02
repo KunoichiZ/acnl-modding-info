@@ -1,6 +1,6 @@
 <template>
     <div>
-        <input type="text" id="fortunesInput" v-on:keyup="fortunesFunction()" placeholder="Search for item names..">
+        <input type="text" class="input" id="fortunesInput" v-on:keyup="fortunesFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="fortunesTable">
             <tr>

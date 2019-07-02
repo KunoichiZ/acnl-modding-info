@@ -1,7 +1,7 @@
 <template>
     <div id="artvue" class="container has-text-centered">
         <span id="art">Art <!-- (back to <a href="#top">categories</a>)--></span>
-        <br><input type="text" id="artInput" v-on:keyup="artFunction()" placeholder="Search for item names..">
+        <br><input type="text" class="input" id="artInput" v-on:keyup="artFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="artTable">
             <tr>

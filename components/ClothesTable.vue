@@ -1,6 +1,6 @@
 <template>
     <div>
-        <input type="text" id="clothesInput" v-on:keyup="clothesFunction()" placeholder="Search for item names..">
+        <input type="text" class="input" id="clothesInput" v-on:keyup="clothesFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="clothesTable">
             <tr>
