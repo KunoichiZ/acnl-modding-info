@@ -52,8 +52,9 @@ nav {
 }
 
 .navbar a:hover {
-  background: url('/side_bg.png');
+  background: url('/bg_inner.png');
   cursor: url('/cursor.cur'), auto;
+  border-radius: 25px;
 }
 
 .navbar-menu {
