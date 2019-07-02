@@ -9,10 +9,15 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
+    "css-build": "node-sass --omit-source-map-url sass/mystyle.scss css/mystyles.css",
+    "css-watch": "npm run css-build -- --watch",
+    "watch": "npm run css-watch"
   },
   "dependencies": {
     "@nuxtjs/google-analytics": "^2.2.0",
+    "bulma": "^0.7.5",
+    "bulma-tooltip": "^2.0.2",
     "jquery": "^3.4.1",
     "nuxt": "^2.8.1",
     "nuxt-buefy": "^0.3.8",
@@ -21,6 +26,8 @@
     "vue-discord-message": "^3.0.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.0"
+    "nodemon": "^1.19.0",
+    "node-sass": "4.12.0",
+    "sass-loader": "7.1.0"
   }
 }

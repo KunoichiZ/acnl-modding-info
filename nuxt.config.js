@@ -1,4 +1,4 @@
-const pkg = require('./package')
+const pkg = require('./package');
 
 
 module.exports = {
@@ -21,7 +21,8 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Open+Sans&display=swap' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto&display=swap'},
-      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css'}
+      { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css'},
+      { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/bulma-tooltip@2.0.2/dist/css/bulma-tooltip.min.css'}
     ]
   },
 
@@ -37,7 +38,8 @@ module.exports = {
   //   // {src: "~/assets/style.css"}
   // ],
   css: [
-    '~/css/main.css'
+    '~/css/main.css',
+    '~/css/mystyles.css'
   ],
 
   /*
