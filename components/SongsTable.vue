@@ -1,6 +1,6 @@
 <template>
     <div>
-        <input type="text" class="input" id="songsInput" v-on:keyup="songsFunction()" placeholder="Search for item names..">
+        <input type="text" class="input is-rounded" id="songsInput" v-on:keyup="songsFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="songsTable">
             <tr>

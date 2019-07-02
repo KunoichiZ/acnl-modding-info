@@ -1,6 +1,6 @@
 <template>
     <div>
-        <input type="text" class="input" id="gyroidsInput" v-on:keyup="gyroidsFunction()" placeholder="Search for item names..">
+        <input type="text" class="input is-rounded" id="gyroidsInput" v-on:keyup="gyroidsFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="gyroidsTable">
             <tr>

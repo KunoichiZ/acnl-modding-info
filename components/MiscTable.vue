@@ -1,6 +1,6 @@
 <template>
     <div>
-        <input type="text" class="input" id="miscInput" v-on:keyup="miscFunction()" placeholder="Search for item names..">
+        <input type="text" class="input is-rounded" id="miscInput" v-on:keyup="miscFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="miscTable">
             <tr>

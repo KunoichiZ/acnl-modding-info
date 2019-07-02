@@ -1,6 +1,6 @@
 <template>
     <div>
-        <input type="text" class="input" id="picturesInput" v-on:keyup="picturesFunction()" placeholder="Search for item names..">
+        <input type="text" class="input is-rounded" id="picturesInput" v-on:keyup="picturesFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="picturesTable">
             <tr>

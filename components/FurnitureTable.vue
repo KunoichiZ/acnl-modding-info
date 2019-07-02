@@ -1,6 +1,6 @@
 <template>
     <div>
-        <input type="text" class="input" id="furnitureInput" v-on:keyup="furnitureFunction()" placeholder="Search for item names..">
+        <input type="text" class="input is-rounded" id="furnitureInput" v-on:keyup="furnitureFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="furnitureTable">
             <tr>

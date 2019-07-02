@@ -1,6 +1,6 @@
 <template>
     <div>
-        <input type="text" class="input" id="environmentInput" v-on:keyup="environmentFunction()" placeholder="Search for item names..">
+        <input type="text" class="input is-rounded" id="environmentInput" v-on:keyup="environmentFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="environmentTable">
             <tr>
