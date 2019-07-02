@@ -1,8 +1,10 @@
 <template>
-  <section class="container">
+  <section class="container has-text-centered">
     <br>
     <div>
-      <center><h1 class="is-size-3">Cheat List</h1></center>
+      <h1 class="is-size-3">Cheat List</h1>
+      <br>
+      <p>This is a list of cheats available in the plugin. This page also includes descriptions of the cheats if you hover over the <i class="fas fa-info-circle fa-2x"></i> icon. The available hotkeys are next to the cheat name in the white tags.</p>
       <br>
       <div id="toc">
         <h6 class="subtitle is-6" id="toc-title">Table of Contents</h6>
@@ -22,23 +24,23 @@
         <div id="save-file-cheats">
           <h3 class="is-size-5">Save File Cheats:</h3>
           <ul>
-            <li>Set name to... <b-tooltip label="Tooltip">
-                  <i class="fas fa-info-circle fa-lg"></i>
+            <li>Set name to... <b-tooltip label="Change your character's name.">
+                  <i class="fas fa-info-circle fa-2x"></i>
                 </b-tooltip></li>
-            <li>Save Dumper <b-tooltip label="Tooltip">
-                  <i class="fas fa-info-circle fa-lg"></i>
+            <li>Save Dumper <b-tooltip multilined label="Select the keyboard icon to start dumping your save file.">
+                  <i class="fas fa-info-circle fa-2x"></i>
                 </b-tooltip></li>
-            <li>Save Restore <b-tooltip label="Tooltip">
-                  <i class="fas fa-info-circle fa-lg"></i>
+            <li>Save Restore <b-tooltip multilined label="Select this icon to open file picker to restore from your previously dumped saves.">
+                  <i class="fas fa-info-circle fa-2x"></i>
                 </b-tooltip></li>
-            <li>Change Town Fruit to... <b-tooltip label="Tooltip">
-                  <i class="fas fa-info-circle fa-lg"></i>
+            <li>Change Town Fruit to... <b-tooltip label="Change your town fruit.">
+                  <i class="fas fa-info-circle fa-2x"></i>
                 </b-tooltip></li>
-            <li>Change Town Grass to... <b-tooltip label="Tooltip">
-                  <i class="fas fa-info-circle fa-lg"></i>
+            <li>Change Town Grass to... <b-tooltip label="Change your town grass shape.">
+                  <i class="fas fa-info-circle fa-2x"></i>
                 </b-tooltip></li>
-            <li>Real Time Building Modifier <b-tooltip label="Tooltip">
-                  <i class="fas fa-info-circle fa-lg"></i>
+            <li>Real Time Building Modifier <b-tooltip multilined label="Press on the keyboard option to bring up the building keyboard.">
+                  <i class="fas fa-info-circle fa-2x"></i>
                 </b-tooltip></li>
           </ul>
         </div>
@@ -46,26 +48,42 @@
         <div id="movement-cheats">
           <h3 class="is-size-5">Movement Cheats:</h3>
           <ul>
-            <li>Coordinates Mod <b-tooltip label="Tooltip">
-                  <i class="fas fa-info-circle fa-lg"></i>
+            <li>Coordinates Mod <b-tooltip multilined size="is-large" label="Press the hotkey to move to the corresponding direction.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip>
+                <ul>
+                  <li><b-tag rounded>(Up: A + DPAD UP)</b-tag></li>
+                  <li><b-tag rounded>(Down: A + DPAD DOWN)</b-tag></li>
+                  <li><b-tag rounded>(Left: A + DPAD LEFT)</b-tag></li>
+                  <li><b-tag rounded>(Right: A + DPAD RIGHT)</b-tag></li>
+                </ul></li>
+            <li>Touch Coordinates <b-tooltip label="Touch the map to teleport your character there.">
+                  <i class="fas fa-info-circle fa-2x"></i>
                 </b-tooltip></li>
-            <li>Touch Coordinates <b-tooltip label="Tooltip">
-                  <i class="fas fa-info-circle fa-lg"></i>
+            <li>Teleport <b-tooltip multilined label="Press the hotkey to save/restore your location. You can use a slot modifer hotkey together to change the slot that'll be used.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip>
+                <ul>
+                  <li><b-tag rounded>(Save current location: B + DPAD UP)</b-tag></li>
+                  <li><b-tag rounded>(Restore saved location: B + DPAD DOWN)</b-tag></li>
+                  <li><b-tag rounded>(Use slot 2: L)</b-tag></li>
+                  <li><b-tag rounded>(Use slot 3: R)</b-tag></li>
+                </ul></li>
+            <li>Walk Over Things <b-tag rounded>(DPAD UP + L)</b-tag> <b-tooltip multilined label="Press the hotkey to enable/disable collisions.">
+                  <i class="fas fa-info-circle fa-2x"></i>
                 </b-tooltip></li>
-            <li>Teleport <b-tooltip label="Tooltip">
-                  <i class="fas fa-info-circle fa-lg"></i>
+            <li>Speed Hack <b-tooltip multilined label="Change how fast you want to go with the keyboard icon.">
+                  <i class="fas fa-info-circle fa-2x"></i>
                 </b-tooltip></li>
-            <li>Walk Over Things <b-tag rounded>(DPAD UP+L)</b-tag> <b-tooltip label="Tooltip">
-                  <i class="fas fa-info-circle fa-lg"></i>
-                </b-tooltip></li>
-            <li>Speed Hack <b-tooltip label="Tooltip">
-                  <i class="fas fa-info-circle fa-lg"></i>
-                </b-tooltip></li>
-            <li>Moon Jump <b-tooltip label="Tooltip">
-                  <i class="fas fa-info-circle fa-lg"></i>
-                </b-tooltip></li>
-            <li>Teleport to PWP <b-tooltip label="Tooltip">
-                  <i class="fas fa-info-circle fa-lg"></i>
+            <li>Moon Jump <b-tooltip multilined label="Press the hotkeys to move your character up/down. This cheat also has a side effect of disabling gravity and causing various glitches.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip>
+                <ul>
+                  <li><b-tag rounded>(Move up: DPAD UP + L)</b-tag></li>
+                  <li><b-tag rounded>(Move down: DPAD DOWN + L)</b-tag></li>
+                </ul></li>
+            <li>Teleport to PWP <b-tooltip multilined label="Press on the keyboard to open up the menu to choose which PWP to teleport to.">
+                  <i class="fas fa-info-circle fa-2x"></i>
                 </b-tooltip></li>
           </ul>
         </div>
@@ -73,20 +91,45 @@
         <div id="time-travel-cheats">
           <h3 class="is-size-5">Time Travel:</h3>
           <ul>
-            <li>Time Machine</li>
-            <li>Time Travel</li>
+            <li>Time Machine <b-tooltip multilined label="Press on the keyboard icon or enable the cheat to enter the time machine settings.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Time Travel <b-tooltip multilined label="Press the hotkeys to travel through time. Press the keyboard icon to change the settings.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip>
+                <ul>
+                  <li><b-tag rounded>(Freely backwards: DPAD LEFT + R)</b-tag></li>
+                  <li><b-tag rounded>(Freely forwards: DPAD RIGHT + R)</b-tag></li>
+                  <li><b-tag rounded>(Rewind 1 hour: B + DPAD LEFT)</b-tag></li>
+                  <li><b-tag rounded>(Forward 1 hour: B + DPAD RIGHT)</b-tag></li>
+                  <li><b-tag rounded>(Save current time: DPAD UP + R)</b-tag></li>
+                  <li><b-tag rounded>(Restore saved time: DPAD DOWN + R)</b-tag></li>
+                  <li><b-tag rounded>(Reset ingame time: B + DPAD DOWN)</b-tag></li>
+                </ul></li>
           </ul>
         </div>
         <br>
         <div id="unlock-cheats">
           <h3 class="is-size-5">Unlock:</h3>
           <ul>
-            <li>100% Mayor Permit</li>
-            <li>Unlock All PWPs</li>
-            <li>Fill Out Encyclopedia</li>
-            <li>Fill Out Emoticons</li>
-            <li>Fill Out K.K. Songs</li>
-            <li>Fill Out Catalog</li>
+            <li>100% Mayor Permit <b-tooltip multilined label="Sets your Mayor Permit to 100%. Only useful for those starting a new game.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Unlock All PWPs <b-tooltip multilined label="Unlocks all PWPs available.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Fill Out Encyclopedia <b-tooltip multilined label="Fill out your encyclopedia.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Fill Out Emoticons <b-tooltip multilined label="Fill out your emoticons.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Fill Out K.K. Songs <b-tooltip multilined label="Fill out all K.K. songs.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Fill Out Catalog <b-tooltip multilined label="Fill out the catalog in the Nooklings' shop.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
           </ul>
         </div>
         <br>
@@ -95,15 +138,36 @@
           <ul>
             <li>R+A Cheats</li>
             <ul>
-              <li>Remove All Items</li>
-              <li>Remove All Weeds</li>
-              <li>Water All Flowers</li>
-              <li>Fill Grass</li>
-              <li>Destroy Grass</li>
+              <li>Remove All Items <b-tag rounded>(A + R)</b-tag> <b-tooltip multilined label="Press the hotkeys to execute. Beware as there is no going back if you save.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+              <li>Remove All Weeds <b-tag rounded>(A + R)</b-tag> <b-tooltip multilined label="Press the hotkeys to clear all weeds.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+              <li>Water All Flowers <b-tag rounded>(A + R)</b-tag> <b-tooltip multilined label="Press the hotkeys to water all flowers.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+              <li>Fill Grass <b-tag rounded>(A + R)</b-tag> <b-tooltip multilined label="Press the hotkeys to fill your town with grass. Please note that bald spots will respawn on the next day.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+              <li>Destroy Grass <b-tag rounded>(A + R)</b-tag> <b-tooltip multilined label="Press the hotkeys to destroy all the grass in your town to make a desert wasteland.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
             </ul>
-            <li>Real Time World Edit</li>
-            <li>Search and Replace</li>
-            <li>Flowers are Unbreakable <b-tag rounded>(DPAD RIGHT+R)</b-tag></li>
+            <li>Real Time World Edit <b-tooltip multilined label="Press the corresponding hotkeys to use the cheat.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip>
+                <ul>
+                  <li><b-tag rounded>(Open keyboard: DPAD LEFT + R)</b-tag></li>
+                  <li><b-tag rounded>(Store item your standing on: DPAD UP + R)</b-tag></li>
+                  <li><b-tag rounded>(Write item where player is standing: DPAD DOWN + R)</b-tag></li>
+                </ul></li>
+            <li>Search and Replace <b-tooltip multilined label="Press the keyboard icon to enter in what you want to search and replace.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Flowers are Unbreakable <b-tag rounded>(DPAD RIGHT + R)</b-tag> <b-tooltip position="is-right" multilined label="Press the hotkey to enable/disable.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
           </ul>
         </div>
         <br>
@@ -112,58 +176,172 @@
           <ul>
             <li>Money Cheats</li>
             <ul>
-              <li>Max/Infinite Bank</li>
-              <li>Max/Infinite Wallet</li>
-              <li>Max/Infinite Coupons</li>
-              <li>Max/Infinite Island Medals</li>
-              <li>Bells In Bank Don't Decrease</li>
-              <li>Bells in Wallet Don't Decrease</li>
-              <li>Coupons Don't Decrease</li>
-              <li>Medals Don't Decrease</li>
-              <li>Wallet Editor</li>
-              <li>Bank Editor</li>
+              <li>Max/Infinite Bank <b-tooltip multilined label="Sets your bank to always have 999,999,999 Bells.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+              <li>Max/Infinite Wallet <b-tooltip multilined label="Sets your wallet to always have 99,999 Bells.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+              <li>Max/Infinite Coupons <b-tooltip multilined label="Sets your MEOW Coupons to the max limit.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+              <li>Max/Infinite Island Medals <b-tooltip multilined label="Sets your Island Medals to the max limit.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+              <li>Bells In Bank Don't Decrease <b-tooltip multilined label="Withdrawing any amount of Bells does nothing.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+              <li>Bells in Wallet Don't Decrease <b-tooltip multilined label="Spending any Bells doesn't decrease your wallet.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+              <li>Coupons Don't Decrease <b-tooltip multilined label="Spending MEOW Coupons doesn't decrease your total.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+              <li>Medals Don't Decrease <b-tooltip multilined label="Spending Island Medals doesn't decrease your total.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+              <li>Wallet Editor <b-tooltip multilined label="Touch the keyboard icon on the bottom screen to change the desired value.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+              <li>Bank Editor <b-tooltip multilined label="Touch the keyboard icon on the bottom screen to enter the desired amount of Bells in your bank.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
             </ul>
-            <li>Text to Item <b-tag rounded>(DPAD RIGHT+X)</b-tag></li>
-            <li>Duplicate <b-tag rounded>(R)</b-tag></li>
-            <li>Pick Up Buried Items</li>
-            <li>Inventory Box Extender</li>
-            <li>Fossil Inspector</li>
+            <li>Text to Item <b-tag rounded>(DPAD RIGHT + X)</b-tag> <b-tooltip multilined label="Press the hotkeys to bring up the keyboard to enter the item ID.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Duplicate <b-tag rounded>(R)</b-tag> <b-tooltip multilined label="Press the hotkey to duplicate the item that is in slot 1 into slot 2.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Pick Up Buried Items <b-tag rounded>(Y)</b-tag> <b-tooltip multilined label="Press Y to pick up any buried items. Warning: this is a heavy cheat, so it might cause slowdown.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Inventory Box Extender <b-tooltip multilined label="This allows you to create 10 additional boxes to store your items. Once activated open the quick menu in-game to see the option Inventory Box.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Fossil Inspector <b-tag rounded>(A + X)</b-tag> <b-tooltip multilined label="Press the hotkeys to process all fossils as if you talked to Blathers.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
           </ul>
         </div>
         <br>
         <div id="shop-cheats">
           <h3 class="is-size-5">Shop Cheats:</h3>
           <ul>
-            <li>Nookling Upgrades</li>
-            <li>Main Street Shops</li>
-            <li>Shops Always Open</li>
-            <li>Catalog to Pockets <b-tag rounded>(L)</b-tag></li>
+            <li>Nookling Upgrades <b-tooltip multilined label="Press the keyboard icon to change which upgrade the Nooklings have.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Main Street Shop Unlocker <b-tooltip multilined label="Press the keyboard icon to change what Main Street buildings are unlocked.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Shops Always Open <b-tooltip multilined label="Press the keyboard icon to change which shops are always open.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Catalog to Pockets <b-tag rounded>(L)</b-tag> <b-tooltip multilined label="Press the hotkey while in the catalog to send the item directly to your pockets!">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
           </ul>
         </div>
         <br>
         <div id="misc-cheats">
           <h3 class="is-size-5">Misc Cheats:</h3>
           <ul>
-            <li>Ghost Mode <b-tag rounded>(DPAD UP+Y)</b-tag></li>
-            <li>Camera Mod</li>
-            <li>Country Spoofer <b-tag rounded>(B+L)</b-tag></li>
-            <li>Custom Symbols Keyboard</li>
-            <li>Keyboard Extender</li>
-            <li>Fast Game Speed</li>
-            <li>Item Form Changer</li>
-            <li>Item Effect Changer</li>
-            <li>Special NPC Changer</li>
-            <li>Access Catalog & Storage Anywhere</li>
-            <li>Emote ID Changer</li>
-            <li>Amiibo Spoofer</li>
-            <li>Pick Every Tour</li>
-            <li>Unburying <b-tag rounded>(R)</b-tag></li>
-            <li>Weed Pulling <b-tag rounded>(R)</b-tag></li>
-            <li>Weather Mod</li>
-            <li>Edit Every Pattern<b-tag rounded>(DPAD RIGHT+R)</b-tag></li>
-            <li>Faint <b-tag rounded>(A+R)</b-tag></li>
-            <li>Cherry Blossom Mod</li>
-            <li>Confetti Mod</li>
+            <li>Ghost Mode <b-tag rounded>(DPAD UP + Y)</b-tag> <b-tooltip multilined label="Press the hotkeys to make your character invisible/visible.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Camera Mod <b-tooltip multilined label="Press the hotkeys to move the camera around.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+                <ul>
+                  <li><b-tag rounded>(Rotate camera (with circle pad): R)</b-tag></li>
+                  <li><b-tag rounded>(Detach camera: R + Y)</b-tag></li>
+                  <li><b-tag rounded>(Reattach camera: R + X)</b-tag></li>
+                  <li><b-tag rounded>(Enable/Disable camera following player: A + R)</b-tag></li>
+                  <li><b-tag rounded>(Pan camera north: B + DPAD UP)</b-tag></li>
+                  <li><b-tag rounded>(Pan camera east: B + DPAD RIGHT)</b-tag></li>
+                  <li><b-tag rounded>(Pan camera south: B + DPAD DOWN)</b-tag></li>
+                  <li><b-tag rounded>(Pan camera west: B + DPAD LEFT)</b-tag></li>
+                  <li><b-tag rounded>(Pan camera downwards: B + L)</b-tag></li>
+                  <li><b-tag rounded>(Pan camera upwards: B + R)</b-tag></li>
+                </ul>
+            <li>Country Spoofer <b-tag rounded>(B + L)</b-tag> <b-tooltip multilined label="Spoofs your country, allowing you to go to another country's island.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Custom Symbols Keyboard <b-tooltip multilined label="This turns all the symbols in the keyboard into Nintendo symbols.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Keyboard Extender <b-tooltip multilined label="This extends the max characters that you can type into chat to 54 characters.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Fast Game Speed <b-tooltip multilined label="This makes things in the game speed up. This might make your game crash.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Item Form Changer <b-tooltip multilined label="This changes how your character holds tools.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Item Effect Changer <b-tooltip multilined label="This changes how your character uses items.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Special NPC Changer <b-tooltip multilined label="This changes all the special NPCs like K.K. to what you choose.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Access Catalog & Storage Anywhere <b-tooltip position="is-left" multilined label="Press the hotkeys and open the keyboard, emoticons, mailbox, or force a bottom screen change to access the window of your choice.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip>
+                <ul>
+                  <li><b-tag rounded>(Access drawers: L)</b-tag></li>
+                  <li><b-tag rounded>(Access secret storage: R)</b-tag></li>
+                  <li><b-tag rounded>(Access catalog: R + L)</b-tag>
+                  <li><b-tag rounded>(Custom (use keyboard in cheat menu): Y)</b-tag></li>
+                </ul></li>
+            <li>Emote ID Changer <b-tag rounded>(Change Button Activator: B + R)</b-tag> <b-tooltip multilined label="Press the hotkey to open a keyboard to patch the game's emotes. 0xFF restores the game's original code.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Amiibo Spoofer <b-tag rounded>(Open Villager Categories List: R)</b-tag> <b-tooltip multilined label="Press hotkey to choose from the list of Villager Categories.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Pick Every Tour <b-tooltip multilined label="Enabling this cheat lets you pick every tour from the tour list!">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Ultimate Unburying Hack <b-tag rounded>(Start/stop unburing items: R)</b-tag> <b-tooltip multilined label="Press R to start unburying various buried items around your town! Press R to disable it again.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Ultimate Weed Pulling Hack <b-tag rounded>(Start/stop plucking weeds: R)</b-tag> <b-tooltip multilined label="Press the hotkeys to start automatically plucking weeds in your down. Press the hotkeys again to disable.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Corrupter <b-tooltip multilined label="WARNING! This corrupts random values in memory to cause funny side effects. Use at your own risk!">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Weather Mod <b-tooltip multilined label="Press the hotkey to enable/disable. NOTE: Only you will see the changes.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip>
+                <ul>
+                  <li><b-tag rounded>(Change Button Activator: DPAD LEFT + Y)</b-tag></li>
+                  <li><b-tag rounded>(Change Increment Hotkey: DPAD UP + Y)</b-tag></li>
+                  <li><b-tag rounded>(Change Decrement Hotkey: DPAD DOWN + Y)</b-tag></li>
+                </ul></li>
+            <li>Edit Every Pattern <b-tag rounded>(DPAD RIGHT + R)</b-tag> <b-tooltip multilined label="Press the hotkey to enable/disable.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Faint <b-tag rounded>(A + R)</b-tag> <b-tooltip multilined label="Press the hotkeys to make your character pass out like they got bit by a scorpion!">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip></li>
+            <li>Cherry Blossom Mod <b-tooltip multilined label="Press the hotkey to enable/disable. NOTE: Only you will see the changes.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip>
+                <ul>
+                  <li><b-tag rounded>(Change Button Activator: DPAD LEFT + Y)</b-tag></li>
+                  <li><b-tag rounded>(Change Increment Hotkey: DPAD UP + Y)</b-tag></li>
+                  <li><b-tag rounded>(Change Decrement Hotkey: DPAD DOWN + Y)</b-tag></li>
+                </ul></li>
+            <li>Confetti Mod <b-tooltip multilined label="Press the hotkey to enable/disable. NOTE: Only you will see the changes.">
+                  <i class="fas fa-info-circle fa-2x"></i>
+                </b-tooltip>
+                <ul>
+                  <li><b-tag rounded>(Change Button Activator: DPAD LEFT + Y)</b-tag></li>
+                  <li><b-tag rounded>(Change Increment Hotkey: DPAD UP + Y)</b-tag></li>
+                  <li><b-tag rounded>(Change Decrement Hotkey: DPAD DOWN + Y)</b-tag></li>
+                </ul></li>
           </ul>
         </div>
       </div>
@@ -193,8 +371,14 @@ export default {
 </script>
 
 <style scoped>
+button {
+  font-family: 'ACNL';
+}
+
 #save-file-cheats, #movement-cheats, #time-travel-cheats, #unlock-cheats, #environment-cheats, #shop-cheats, #misc-cheats, #inventory-cheats {
   text-align: left;
+  width: 975px;
+  margin: auto;
   /* margin-left: 100px; */
 }
 
@@ -251,5 +435,12 @@ ul {
   #mobile {
     margin: 0px;
   }
+  #save-file-cheats, #movement-cheats, #time-travel-cheats, #unlock-cheats, #environment-cheats, #shop-cheats, #misc-cheats, #inventory-cheats {
+    width: 450px;
+  }
+}
+
+b-tooltip {
+  size: 200px;
 }
 </style>
