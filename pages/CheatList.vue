@@ -2,7 +2,7 @@
   <section class="container has-text-centered">
     <br>
     <div>
-      <h1 class="is-size-3">Cheat List</h1>
+      <h1 class="title is-size-3">Cheat List</h1>
       <br>
       <p>This is a list of cheats available in the plugin. This page also includes descriptions of the cheats if you hover over the <i class="fas fa-info-circle fa-2x"></i> icon. The available hotkeys are next to the cheat name in the white tags.</p>
       <br>

@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <div>
-      <br><center><h1 class="is-size-3">Item IDs</h1>
+      <br><center><h1 class="title is-size-3">Item IDs</h1>
       <br>Click a category on the left to display its items in the table below.</center>
       <ItemIDsMenu></ItemIDsMenu>
       <!-- <br><br><div id="top"><a href="#artInput">Art</a> | <a href="#catchablesInput">Catchables</a> | <a href="#clothesInput">Clothes</a> | <a href="#environmentInput">Environmentals</a> | <a href="#fortunesInput">Fortune Cookies</a> | <a href="#fossilsInput">Fossils</a> | <a href="#furnitureInput">Furniture</a> | <a href="#gyroidsInput">Gyroids</a> | <a href="#miscInput">Misc</a> | <a href="#picturesInput">Animal Pictures</a> | <a href="#songsInput">Songs</a> | <a href="#toolsInput">Tools & Wearables</a> | <a href="#wallsCarpetsInput">Wallpapers & Carpets</a></div> -->

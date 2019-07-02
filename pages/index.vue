@@ -1,6 +1,6 @@
 <template>
   <div class="container has-text-centered">
-    <br><h1 class="is-size-3">Animal Crossing: New Leaf Modding Information</h1>
+    <br><h1 class="title is-size-3">Animal Crossing: New Leaf Modding Information</h1>
     <br>This is the website repo for the ACNL Modding Information 
     <br>website for the ACNL Modding Discord Server.
     <br><br>
