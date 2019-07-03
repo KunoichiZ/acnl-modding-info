@@ -9,8 +9,9 @@
       <!-- <center><span id="art">Art (back to <a href="#top">categories</a>)-->
       <ArtTable></ArtTable>
       <br>
-      
       <CatchablesTable></CatchablesTable>
+      <br>
+      <FortunesTable></FortunesTable>
     </div>
   
     // TODO: Add Item IDs to table
@@ -26,7 +27,7 @@ import CatchablesTable from "~/components/CatchablesTable.vue";
 import ItemIDsMenu from "~/components/ItemIDsMenu.vue";
 // import ClothesTable from "~/components/ClothesTable.vue";
 // import EnvironmentTable from "~/components/EnvironmentTable.vue";
-// import FortunesTable from "~/components/FortunesTable.vue";
+import FortunesTable from "~/components/FortunesTable.vue";
 // import FossilsTable from "~/components/FossilsTable.vue";
 // import FurnitureTable from "~/components/FurnitureTable.vue";
 // import GyroidsTable from "~/components/GyroidsTable.vue";
@@ -40,6 +41,7 @@ export default {
   components: {
     ArtTable,
     CatchablesTable,
+    FortunesTable,
     ItemIDsMenu
   },
   data () {

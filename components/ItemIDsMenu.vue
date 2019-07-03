@@ -8,9 +8,9 @@
                 <li><a href="#art" id="link-art" @click="selected = 1" :class="{highlight:selected == 1}">Art</a></li>
                 <li><a href="#catchables" id="link-catchables" @click="selected = 2" :class="{highlight:selected == 2}">Catchables</a></li>
                 <!-- <li><a href="#clothesInput"  id="link-clothes">Clothes</a></li>
-                <li><a href="#environmentInput" id="link-environment">Environmentals</a></li>
-                <li><a href="#fortunesInput" id="link-fortunes">Fortune Cookies</a></li>
-                <li><a href="#fossilsInput" id="link-fossils">Fossils</a></li>
+                <li><a href="#environmentInput" id="link-environment">Environmentals</a></li>-->
+                <li><a href="#fortunes" id="link-fortunes">Fortune Cookies</a></li>
+                <!--<li><a href="#fossilsInput" id="link-fossils">Fossils</a></li>
                 <li><a href="#furnitureInput" id="link-furniture">Furniture</a></li>
                 <li><a href="#gyroidsInput" id="link-gyroids">Gyroids</a></li>
                 <li><a href="#miscInput" id="link-misc">Misc</a></li>
