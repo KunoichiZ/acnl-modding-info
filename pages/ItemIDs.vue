@@ -12,6 +12,8 @@
       <CatchablesTable></CatchablesTable>
       <br>
       <FortunesTable></FortunesTable>
+      <br>
+      <ToolsTable></ToolsTable>
     </div>
   
     // TODO: Add Item IDs to table
@@ -34,7 +36,7 @@ import FortunesTable from "~/components/FortunesTable.vue";
 // import MiscTable from "~/components/MiscTable.vue";
 // import PicturesTable from "~/components/PicturesTable.vue";
 // import SongsTable from "~/components/SongsTable.vue";
-// import ToolsTable from "~/components/ToolsTable.vue";
+import ToolsTable from "~/components/ToolsTable.vue";
 // import WallsCarpetsTable from "~/components/WallsCarpetsTable.vue";
 
 export default {
@@ -42,7 +44,8 @@ export default {
     ArtTable,
     CatchablesTable,
     FortunesTable,
-    ItemIDsMenu
+    ItemIDsMenu,
+    ToolsTable
   },
   data () {
     return {
