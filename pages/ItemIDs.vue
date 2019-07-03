@@ -13,6 +13,8 @@
       <br>
       <FortunesTable></FortunesTable>
       <br>
+      <FossilsTable></FossilsTable>
+      <br>
       <ToolsTable></ToolsTable>
     </div>
   
@@ -30,7 +32,7 @@ import ItemIDsMenu from "~/components/ItemIDsMenu.vue";
 // import ClothesTable from "~/components/ClothesTable.vue";
 // import EnvironmentTable from "~/components/EnvironmentTable.vue";
 import FortunesTable from "~/components/FortunesTable.vue";
-// import FossilsTable from "~/components/FossilsTable.vue";
+import FossilsTable from "~/components/FossilsTable.vue";
 // import FurnitureTable from "~/components/FurnitureTable.vue";
 // import GyroidsTable from "~/components/GyroidsTable.vue";
 // import MiscTable from "~/components/MiscTable.vue";
@@ -44,6 +46,7 @@ export default {
     ArtTable,
     CatchablesTable,
     FortunesTable,
+    FossilsTable,
     ItemIDsMenu,
     ToolsTable
   },
