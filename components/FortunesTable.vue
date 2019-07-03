@@ -1,6 +1,6 @@
 <template>
     <div id="fortunevue" class="container has-text-centered">
-      <span id="fortunes">Fortune Cookies <!-- (back to <a href="#top">categories</a>)--></span>
+        <span id="fortunes">Fortune Cookies <!-- (back to <a href="#top">categories</a>)--></span>
         <input type="text" class="input is-rounded" id="fortunesInput" v-on:keyup="fortunesFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="fortunesTable">
