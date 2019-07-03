@@ -270,8 +270,8 @@ function fortunesFunction() {
 }
 
 export default {
-methods: {
-    fortunesFunction
+  methods: {
+      fortunesFunction
   }
 }
 </script>

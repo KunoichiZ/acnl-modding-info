@@ -384,8 +384,8 @@ function fossilsFunction() {
 }
 
 export default {
-methods: {
-    fossilsFunction
+  methods: {
+      fossilsFunction
   }
 }
 </script>

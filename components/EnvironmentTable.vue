@@ -42,8 +42,8 @@ function environmentFunction() {
 }
 
 export default {
-methods: {
-    environmentFunction
+  methods: {
+      environmentFunction
   }
 }
 </script>

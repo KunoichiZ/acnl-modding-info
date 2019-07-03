@@ -42,8 +42,8 @@ function furnitureFunction() {
 }
 
 export default {
-methods: {
-    furnitureFunction
+  methods: {
+      furnitureFunction
   }
 }
 </script>

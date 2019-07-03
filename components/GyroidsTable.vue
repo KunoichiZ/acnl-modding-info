@@ -42,8 +42,8 @@ function gyroidsFunction() {
 }
 
 export default {
-methods: {
-    hyroidsFunction
+  methods: {
+      gyroidsFunction
   }
 }
 </script>

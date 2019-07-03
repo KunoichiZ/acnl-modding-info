@@ -783,9 +783,9 @@ function catchablesFunction() {
 }
 
 export default {
-methods: {
-    catchablesFunction
-  }
+    methods: {
+        catchablesFunction
+    }
 }
 </script>
 

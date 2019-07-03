@@ -412,9 +412,9 @@ function artFunction() {
 }
 
 export default {
-methods: {
-    artFunction
-  }
+    methods: {
+        artFunction
+    }
 }
 </script>
 

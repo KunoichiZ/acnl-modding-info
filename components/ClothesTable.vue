@@ -42,8 +42,8 @@ function clothesFunction() {
 }
 
 export default {
-methods: {
-    clothesFunction
+  methods: {
+      clothesFunction
   }
 }
 </script>
