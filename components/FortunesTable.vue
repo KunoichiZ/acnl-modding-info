@@ -5,9 +5,6 @@
         <br><br>
         <table id="fortunesTable">
             <tr>
-  	            <th colspan="2" id="fortunes">Fortune Cookies</th>
-            </tr>
-            <tr>
               <th>Hex</th>
               <th>Item Name</th>
             </tr>
