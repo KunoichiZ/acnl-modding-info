@@ -43,7 +43,9 @@ export default {
     return {
       title: this.title,
       meta: [
-        { hid: 'description', name: 'description', content: 'Installation Guide' }
+        { hid: 'og-description', name: 'og:description', content: 'Installation Guide' },
+        { hid: 'og-title', property: 'og:title', content: this.title },
+        { hid: 'og-site_name', property: 'og:site_name', content: 'ACNL Modding Info'}
       ]
     }
   }

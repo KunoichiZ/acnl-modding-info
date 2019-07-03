@@ -51,7 +51,9 @@ export default {
     return {
       title: this.title,
       meta: [
-        { hid: 'description', name: 'description', content: 'Item IDs' }
+        { hid: 'og-description', name: 'og:description', content: 'Item IDs' },
+        { hid: 'og-title', property: 'og:title', content: this.title },
+        { hid: 'og-site_name', property: 'og:site_name', content: 'ACNL Modding Info'}
       ]
     }
   }

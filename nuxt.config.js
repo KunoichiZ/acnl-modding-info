@@ -12,7 +12,11 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
-      { hid: 'description', name: 'description', content: pkg.description }
+      { hid: 'og-description', name: 'og:description', content: pkg.description },
+      { hid: 'og-title', property: 'og:title', content: this.title },
+      { hid: 'og-site_name', property: 'og:site_name', content: 'ACNL Modding Info'},
+      { hid: 'og-type', property: 'og:type', content: 'website' },
+      { hid: 'og-image', property: 'og:image', content: 'https://i.imgur.com/g3KJLmj.png'}
     ],
     script: [
       { src: 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js' }
@@ -34,9 +38,6 @@ module.exports = {
   /*
   ** Global CSS
   */
-  // css: [
-  //   // {src: "~/assets/style.css"}
-  // ],
   css: [
     '~/css/main.css',
     '~/css/mystyles.css'
