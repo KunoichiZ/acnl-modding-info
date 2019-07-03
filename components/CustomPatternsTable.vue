@@ -1,6 +1,6 @@
 <template>
     <div id="patternsvue" class="container has-text-centered">
-        <span id="pattens">Custom Pattern Items <!-- (back to <a href="#top">categories</a>)--></span>
+        <span id="patterns">Custom Pattern Items <!-- (back to <a href="#top">categories</a>)--></span>
         <input type="text" class="input is-rounded" id="customPatternsInput" v-on:keyup="customPatternsFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="customPatternsTable">
