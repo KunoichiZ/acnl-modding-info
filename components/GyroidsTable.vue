@@ -163,6 +163,8 @@
             <tr>
               <td>2982</td>
               <td>mini plinkoid</td>
+            </tr>
+            <tr>
               <td>2983</td>
               <td>mega dekkoid</td>
             </tr>
