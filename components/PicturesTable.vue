@@ -1,11 +1,9 @@
 <template>
-    <div>
+    <div id="picturevue" class="container has-text-centered">
+        <span id="pictures">Pictures <!-- (back to <a href="#top">categories</a>)--></span>
         <input type="text" class="input is-rounded" id="picturesInput" v-on:keyup="picturesFunction()" placeholder="Search for item names..">
         <br><br>
         <table id="picturesTable">
-            <tr>
-  	            <th colspan="2" id="pics">Pictures (back to <a href="#top">categories</a>)</th>
-            </tr>
             <tr>
   	            <th>Hex</th>
                 <th>Item Name</th>
@@ -65,5 +63,14 @@ table {
 
 th, td {
     padding: 5px;
+}
+
+#picturevue {
+    /* background: url('/green_bg.png'); */
+    width: 325px;
+    border-radius: 25px;
+    border-color: #a1cc00;
+    border-width: 10px;
+    padding: 15px;
 }
 </style>

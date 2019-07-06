@@ -1,9 +1,13 @@
 <template>
   <section class="container">
+    <ItemIDsMenu></ItemIDsMenu>
     <div>
-      <br><center><h1 class="title is-size-3">Item IDs</h1>
+      <br>
+      
+      <center><h1 class="title is-size-3">Item IDs</h1>
+      
       <br>Click a category on the left to display its items in the table below.</center>
-      <ItemIDsMenu></ItemIDsMenu>
+      
       <!-- <br><br><div id="top"><a href="#artInput">Art</a> | <a href="#catchablesInput">Catchables</a> | <a href="#clothesInput">Clothes</a> | <a href="#environmentInput">Environmentals</a> | <a href="#fortunesInput">Fortune Cookies</a> | <a href="#fossilsInput">Fossils</a> | <a href="#furnitureInput">Furniture</a> | <a href="#gyroidsInput">Gyroids</a> | <a href="#miscInput">Misc</a> | <a href="#picturesInput">Animal Pictures</a> | <a href="#songsInput">Songs</a> | <a href="#toolsInput">Tools & Wearables</a> | <a href="#wallsCarpetsInput">Wallpapers & Carpets</a></div> -->
       <br><br>
       <!-- <center><span id="art">Art (back to <a href="#top">categories</a>)-->
@@ -30,6 +34,8 @@
       <MiscTable></MiscTable>
       <br>
       <NPCItemsTable></NPCItemsTable>
+      <br>
+      <PicturesTable></PicturesTable>
       <br>
       <ToolsTable></ToolsTable>
     </div>
@@ -58,7 +64,7 @@ import EventsTable from "~/components/InGameEventsTable.vue";
 import ItemSpritesTable from "~/components/ItemSpritesTable.vue";
 import MiscTable from "~/components/MiscTable.vue";
 import NPCItemsTable from "~/components/NPCItemsTable.vue";
-// import PicturesTable from "~/components/PicturesTable.vue";
+import PicturesTable from "~/components/PicturesTable.vue";
 // import SongsTable from "~/components/SongsTable.vue";
 import ToolsTable from "~/components/ToolsTable.vue";
 // import WallsCarpetsTable from "~/components/WallsCarpetsTable.vue";
@@ -78,6 +84,7 @@ export default {
     MiscTable,
     NPCItemsTable,
     PatternsTable,
+    PicturesTable,
     ToolsTable
   },
   data () {
