@@ -8,7 +8,7 @@
       
       <br>Click a category on the left to display its items in the table below.</center>
       
-      <!-- <br><br><div id="top"><a href="#artInput">Art</a> | <a href="#catchablesInput">Catchables</a> | <a href="#clothesInput">Clothes</a> | <a href="#environmentInput">Environmentals</a> | <a href="#fortunesInput">Fortune Cookies</a> | <a href="#fossilsInput">Fossils</a> | <a href="#furnitureInput">Furniture</a> | <a href="#gyroidsInput">Gyroids</a> | <a href="#miscInput">Misc</a> | <a href="#picturesInput">Animal Pictures</a> | <a href="#songsInput">Songs</a> | <a href="#toolsInput">Tools & Wearables</a> | <a href="#wallsCarpetsInput">Wallpapers & Carpets</a></div> -->
+      <br><br><center><div id="top"><a href="#art">Art</a> | <a href="#catchables">Catchables</a> | <a href="#clothes">Clothes</a>  | <a href="#patterns">Custom Patterns</a> | <a href="#environment">Environmentals</a> | <a href="#fortunes">Fortune Cookies</a> | <a href="#fossils">Fossils</a> | <a href="#furniture">Furniture</a> | <a href="#fruit">Fruits</a> | <a href="#garden">Garden</a> | <a href="#gyroids">Gyroids</a> | <a href="#hra">HRA Exhibition</a> | <a href="#events">In-Game Events</a> | <a href="#sprites">Item Sprites</a> | <a href="#misc">Misc</a> | <a href="#npc">NPC Items</a> | <a href="#paper">Paper</a> | <a href="#pictures">Animal Pictures</a> | <a href="#songs">Songs</a> | <a href="#tools">Tools & Wearables</a> | <a href="#wallsCarpets">Wallpapers & Carpets</a></div></center>
       <br><br>
       <!-- <center><span id="art">Art (back to <a href="#top">categories</a>)-->
       <ArtTable></ArtTable>
@@ -138,6 +138,14 @@ table {
   }
   #top {
     display: inline-block;
+    padding: 10px;
+    background: url('/brown_stripe_bg.png');
+    width: 450px;
+    border-radius: 25px;
+    margin: auto;
+    text-align: left;
+    border-style: solid;
+    border-color: #c69c86;
   }
 }
 </style>
