@@ -19,6 +19,8 @@
       <br>
       <HRATable></HRATable>
       <br>
+      <GyroidsTable></GyroidsTable>
+      <br>
       <EventsTable></EventsTable>
       <br>
       <ItemSpritesTable></ItemSpritesTable>
@@ -47,7 +49,7 @@ import PatternsTable from "~/components/CustomPatternsTable.vue";
 import FortunesTable from "~/components/FortunesTable.vue";
 import FossilsTable from "~/components/FossilsTable.vue";
 // import FurnitureTable from "~/components/FurnitureTable.vue";
-// import GyroidsTable from "~/components/GyroidsTable.vue";
+import GyroidsTable from "~/components/GyroidsTable.vue";
 import HRATable from "~/components/HRAExhibitionTable.vue";
 import EventsTable from "~/components/InGameEventsTable.vue";
 import ItemSpritesTable from "~/components/ItemSpritesTable.vue";
@@ -65,6 +67,7 @@ export default {
     EventsTable,
     FortunesTable,
     FossilsTable,
+    GyroidsTable,
     HRATable,
     ItemIDsMenu,
     ItemSpritesTable,
@@ -97,7 +100,7 @@ export default {
 } */
 
 html {
-	scroll-behavior: smooth
+	scroll-behavior: smooth;
 }
 
 table, td {
@@ -114,9 +117,16 @@ table {
   margin: auto;
 }
 
+#top {
+  display: none;
+}
+
 @media (max-width: 1000px) {
   .menu {
       display: none;
+  }
+  #top {
+    display: inline-block;
   }
 }
 </style>
