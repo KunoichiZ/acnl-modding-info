@@ -17,6 +17,8 @@
       <br>
       <FossilsTable></FossilsTable>
       <br>
+      <FruitTable></FruitTable>
+      <br>
       <HRATable></HRATable>
       <br>
       <GyroidsTable></GyroidsTable>
@@ -49,6 +51,7 @@ import PatternsTable from "~/components/CustomPatternsTable.vue";
 import FortunesTable from "~/components/FortunesTable.vue";
 import FossilsTable from "~/components/FossilsTable.vue";
 // import FurnitureTable from "~/components/FurnitureTable.vue";
+import FruitTable from "~/components/FruitTable.vue";
 import GyroidsTable from "~/components/GyroidsTable.vue";
 import HRATable from "~/components/HRAExhibitionTable.vue";
 import EventsTable from "~/components/InGameEventsTable.vue";
@@ -67,6 +70,7 @@ export default {
     EventsTable,
     FortunesTable,
     FossilsTable,
+    FruitTable,
     GyroidsTable,
     HRATable,
     ItemIDsMenu,
