@@ -5,7 +5,7 @@
     These are guides to help people either obtain CFW or find out how to obtain the plugin.
     <br><br>
     <h1 class="title is-size-4">CFW Guide</h1>
-    <div id="cfw">A complete guide on obtaining CFW can be found at <a href="https://3ds.hacks.guide/">https://3ds.hacks.guide/</a>. If you need help with obtaining CFW, please join the Please join the <a href="https://discord.gg/C29hYvh">Nintendo Homebrew Discord Server.</a></div>
+    <div id="cfw">A complete guide on obtaining CFW can be found at <a href="https://3ds.hacks.guide/">https://3ds.hacks.guide/</a>. If you need help with obtaining CFW, please join the <a href="https://discord.gg/C29hYvh">Nintendo Homebrew Discord Server.</a></div>
     <br>
     <h1 class="title is-size-4">How to Obtain the Plugin</h1>
     There are a couple of ways to find the latest version of the plugin. 
