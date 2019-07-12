@@ -418,7 +418,6 @@
         </discord-messages>
         <a href="#toc">back to top</a>
         <br><br>
-        // TODO: Add new items to FAQ
       </div>
 </template>
 
