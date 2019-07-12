@@ -29,6 +29,7 @@
         </ol>
       </div>
     </div>
+    // TODO: Redo plugin installation page
   </section>
 </template>
 
