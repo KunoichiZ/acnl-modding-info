@@ -204,7 +204,7 @@
             <discord-message user="isabelle">
                 <ol>
                     <li>Make sure you <b>aren't</b> using <u>NTR Mode 3</u>.</li>
-                    <li>Make sure you have BootNTR Selector's settings set to the default.</li>
+                    <li>Make sure you have BootNTR Selector's settings set to the default.
                     <br>If you do not know what it is set to, hold <b>Select</b> upon booting BootNTR Selector and set it to default.</li>
                     <li>Make sure you're using the correct ACNL (see the question above)</li>
                 </ol>
@@ -418,6 +418,7 @@
         </discord-messages>
         <a href="#toc">back to top</a>
         <br><br>
+        // TODO: Add new items to FAQ
       </div>
 </template>
 
