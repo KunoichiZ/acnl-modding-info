@@ -92,3 +92,6 @@ pages/.DS_Store
 
 # VS Code
 .vscode
+
+# Documents
+*.rtf
