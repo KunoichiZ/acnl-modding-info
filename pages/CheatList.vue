@@ -4,7 +4,7 @@
     <div>
       <h1 class="title is-size-3">Cheat List</h1>
       <br>
-      <p>This is a list of cheats available in the plugin. This page also includes descriptions of the cheats if you hover over the <i class="fas fa-info-circle fa-2x"></i> icon. The available hotkeys are next to the cheat name in the white tags.</p>
+      <p>This is a list of cheats available in the plugin. This page also includes descriptions of the cheats if you hover over the <i class="fas fa-info-circle fa-2x"></i> icon. The available hotkeys are next to or under the cheat name in the white tags.</p>
       <br>
       <div id="toc">
         <h6 class="subtitle is-6" id="toc-title">Table of Contents</h6>
@@ -17,12 +17,13 @@
           <li><a href="#inventory-cheats">Inventory Cheats</a></li>
           <li><a href="#shop-cheats">Shop Cheats</a></li>
           <li><a href="#misc-cheats">Misc Cheats</a></li>
+          <li><a href="#qm-cheats">Quick Menu Cheats</a></li>
         </ul>
       </div>
       <br>
       <div id="mobile">
         <div id="save-file-cheats">
-          <h3 class="is-size-5">Save File Cheats:</h3>
+          <h3 class="is-size-5">Save File Cheats: (back to <a href="#toc">table of contents</a>)</h3>
           <ul>
             <li>Set name to... <b-tooltip label="Change your character's name.">
                   <i class="fas fa-info-circle fa-2x"></i>
@@ -46,7 +47,7 @@
         </div>
         <br>
         <div id="movement-cheats">
-          <h3 class="is-size-5">Movement Cheats:</h3>
+          <h3 class="is-size-5">Movement Cheats: (back to <a href="#toc">table of contents</a>)</h3>
           <ul>
             <li>Coordinates Mod <b-tooltip multilined size="is-large" label="Press the hotkey to move to the corresponding direction.">
                   <i class="fas fa-info-circle fa-2x"></i>
@@ -89,7 +90,7 @@
         </div>
         <br>
         <div id="time-travel-cheats">
-          <h3 class="is-size-5">Time Travel:</h3>
+          <h3 class="is-size-5">Time Travel: (back to <a href="#toc">table of contents</a>)</h3>
           <ul>
             <li>Time Machine <b-tooltip multilined label="Press on the keyboard icon or enable the cheat to enter the time machine settings.">
                   <i class="fas fa-info-circle fa-2x"></i>
@@ -110,7 +111,7 @@
         </div>
         <br>
         <div id="unlock-cheats">
-          <h3 class="is-size-5">Unlock:</h3>
+          <h3 class="is-size-5">Unlock: (back to <a href="#toc">table of contents</a>)</h3>
           <ul>
             <li>100% Mayor Permit <b-tooltip multilined label="Sets your Mayor Permit to 100%. Only useful for those starting a new game.">
                   <i class="fas fa-info-circle fa-2x"></i>
@@ -134,7 +135,7 @@
         </div>
         <br>
         <div id="environment-cheats">
-          <h3 class="is-size-5">Environment:</h3>
+          <h3 class="is-size-5">Environment: (back to <a href="#toc">table of contents</a>)</h3>
           <ul>
             <li>R+A Cheats</li>
             <ul>
@@ -172,7 +173,7 @@
         </div>
         <br>
         <div id="inventory-cheats">
-          <h3 class="is-size-5">Inventory Cheats:</h3>
+          <h3 class="is-size-5">Inventory Cheats: (back to <a href="#toc">table of contents</a>)</h3>
           <ul>
             <li>Money Cheats</li>
             <ul>
@@ -226,7 +227,7 @@
         </div>
         <br>
         <div id="shop-cheats">
-          <h3 class="is-size-5">Shop Cheats:</h3>
+          <h3 class="is-size-5">Shop Cheats: (back to <a href="#toc">table of contents</a>)</h3>
           <ul>
             <li>Nookling Upgrades <b-tooltip multilined label="Press the keyboard icon to change which upgrade the Nooklings have.">
                   <i class="fas fa-info-circle fa-2x"></i>
@@ -244,7 +245,7 @@
         </div>
         <br>
         <div id="misc-cheats">
-          <h3 class="is-size-5">Misc Cheats:</h3>
+          <h3 class="is-size-5">Misc Cheats: (back to <a href="#toc">table of contents</a>)</h3>
           <ul>
             <li>Ghost Mode <b-tag rounded>(DPAD UP + Y)</b-tag> <b-tooltip multilined label="Press the hotkeys to make your character invisible/visible.">
                   <i class="fas fa-info-circle fa-2x"></i>
@@ -344,6 +345,42 @@
                 </ul></li>
           </ul>
         </div>
+        <br>
+        <div id="qm-cheats">
+          <h3 class="is-size-5">Quick Menu Cheats: (back to <a href="#toc">table of contents</a>)</h3>
+          <br>You hold R + X for a small bit when you're not in any other menu to open the Quick Menu.
+          <br><br><ul>
+            <li>Water All Flowers</li>
+            <li>Pull All Weeds</li>
+            <li>Duplicate All Items</li>
+            <li>Clear Inventory</li>
+            <li>Set time to... <b-tooltip multilined label="Set the time to any time between 12 am and 11 pm or 23:00."><i class="fas fa-info-circle fa-2x"></i></b-tooltip></li>
+            <li>Appearance Modifier
+              <ul>
+                <li>Gender <b-tooltip multilined label="Male or Female">
+                  <i class="fas fa-info-circle fa-2x"></i></b-tooltip></li>
+                <li>Hair <b-tooltip multilined label="Male 01 to Male 16; Messy hair; Female 01 to Female 16">
+                  <i class="fas fa-info-circle fa-2x"></i></b-tooltip></li>
+                <li>Hair Color <b-tooltip multilined label="Dark brown, Light brown, Orange, Light blue, Gold, Light green, Pink, White, Black, Auburn, Red, Dark blue, Blonde, Dark green, Light purple, Ash brown">
+                  <i class="fas fa-info-circle fa-2x"></i></b-tooltip></li>
+                <li>Face <b-tooltip multilined label="Face 01 to Face 11">
+                  <i class="fas fa-info-circle fa-2x"></i></b-tooltip></li>
+                <li>Eye Color <b-tooltip multilined label="Black, Orange, Green, Grey, Blue, Lighter blue">
+                  <i class="fas fa-info-circle fa-2x"></i></b-tooltip></li>
+                <li>Tan <b-tooltip multilined label="Level 01 (pale) to level 15 (dark)">
+                  <i class="fas fa-info-circle fa-2x"></i></b-tooltip></li>
+                <li>Apparel <b-tooltip multilined label="Hat, Accessory, Top/dress/wet suit, Pants/skirt, Socks, Shoes">
+                  <i class="fas fa-info-circle fa-2x"></i></b-tooltip></li>
+                <li>Teleport to... <b-tooltip multilined label="Player 1, 2, or 3">
+                  <i class="fas fa-info-circle fa-2x"></i></b-tooltip></li>
+                <li>Get set... <b-tooltip multilined label="Exotic, Ranch, Classic, Regal, Blue, Cabana, Green, Cabin, Modern, Kiddie, Lovely, Robo, Polka-dot, Snowman, Mush, Pavé, Egg, Spooky, Harvest, Jingle, Princess, Gracie, Sweets, Gorgeous, Minimalist, Golden, Hello Kitty, Kiki and Lala, Cinnamoroll, My Melody, Kerokerokeroppi, Pompompurin, Mermaid, Wet suits, 7-11 part 1, 7-11 part 2, Sloppy, Cardboard, Insect, Creepy, Tulips and Pansies, Cosmos and Roses, Other flowers, Fueki, Balloon set, Astro, Rococo, Alpine, Ice, Sleek, Modern wood, Stripe, Card, Golden tools">
+                  <i class="fas fa-info-circle fa-2x"></i></b-tooltip></li>
+                <li>Change grass to... <b-tooltip multilined label="Destroy and replenish">
+                  <i class="fas fa-info-circle fa-2x"></i></b-tooltip></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
     // TODO: Add Quick Menu Cheats to Cheat List
@@ -376,7 +413,7 @@ button {
   font-family: 'ACNL';
 }
 
-#save-file-cheats, #movement-cheats, #time-travel-cheats, #unlock-cheats, #environment-cheats, #shop-cheats, #misc-cheats, #inventory-cheats {
+#save-file-cheats, #movement-cheats, #time-travel-cheats, #unlock-cheats, #environment-cheats, #shop-cheats, #misc-cheats, #inventory-cheats, #qm-cheats {
   text-align: left;
   width: 975px;
   margin: auto;
@@ -424,7 +461,7 @@ ul {
   border-width: 5px;
 }
 
-#time-travel-cheats, #inventory-cheats {
+#time-travel-cheats, #inventory-cheats, #qm-cheats {
   padding: 15px;
   background: url('/green_bg.png');
   border-radius: 25px;
@@ -436,7 +473,7 @@ ul {
   #mobile {
     margin: 0px;
   }
-  #save-file-cheats, #movement-cheats, #time-travel-cheats, #unlock-cheats, #environment-cheats, #shop-cheats, #misc-cheats, #inventory-cheats {
+  #save-file-cheats, #movement-cheats, #time-travel-cheats, #unlock-cheats, #environment-cheats, #shop-cheats, #misc-cheats, #inventory-cheats, #qm-cheats {
     width: 450px;
   }
 }
