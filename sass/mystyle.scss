@@ -1,11 +1,15 @@
 @charset "utf-8";
 
 $purple: #8c67ef;
+$grey-lighter: hsl(0, 0%, 71%);
+$byellow: #CFA135;
 
 $tooltip-background-color: $purple;
 $tooltip-background-opacity: 1;
 $tooltip-max-width: 20rem;
+$checkbox-border: .2rem solid $byellow;
 $link: $purple;
 
 @import "../node_modules/bulma/bulma.sass";
 @import "../node_modules/bulma-tooltip/dist/css/bulma-tooltip.sass";
+@import "../node_modules/bulma-checkradio/dist/css/bulma-checkradio.sass";
