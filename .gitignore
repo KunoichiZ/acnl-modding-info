@@ -95,3 +95,7 @@ pages/.DS_Store
 
 # Documents
 *.rtf
+
+# Compressed files
+*.zip
+*.rar
