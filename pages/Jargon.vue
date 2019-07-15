@@ -12,8 +12,6 @@
             <jargonACNL></jargonACNL>
         </b-tab-item>
     </b-tabs>
-     // TODO: Add CSS to Jargon tables
-
   </section>
 </template>
 
