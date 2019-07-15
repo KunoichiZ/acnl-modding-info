@@ -97,10 +97,24 @@
 
 <style scoped>
 table, td, th {
-    border: 1px solid black;
+    border: 2px solid black;
 }
 
 th, td {
     padding: 15px;
+}
+
+tr th {
+    background-color: #8c67ef;
+    color: white;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background: url('/bg_inner.png');
+}
+
+tr:nth-child(odd) {
+    background: url('/blue_bg.png');
 }
 </style>

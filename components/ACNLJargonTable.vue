@@ -45,10 +45,24 @@
 
 <style scoped>
 table, td, th {
-    border: 1px solid black;
+    border: 2px solid black;
 }
 
 th, td {
     padding: 15px;
+}
+
+tr th {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background: url('/bg_inner.png');
+}
+
+tr:nth-child(odd) {
+    background: url('/green_bg.png');
 }
 </style>
