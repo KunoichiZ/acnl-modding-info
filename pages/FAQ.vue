@@ -42,6 +42,7 @@
                 <li><a href="#eyeColorGuide">Eye Color Guide</a></li>
                 <li><a href="#text2item">My text to item isn't working!</a></li>
                 <li><a href="#text2item2">But there's actually no other code further down!</a></li>
+                <li><a href="#lumaver">What version of Luma do I need to use the plugin?</a></li>
                 <li><a href="#question">But what if my question isn't located here?</a></li>
             </ul>
         </div>
@@ -403,6 +404,17 @@
                That means you're looking for an item that doesn't go in the inventory (Like the rafflesia)
                <br>Use the RTWE (!rtwe in #bot-commands for instructions) with the codes that start with 00.
                <br>If you want an item that doesn't go into your inventory to be in your inventory, that's seeding and it breaks one of our rules.
+            </discord-message>
+        </discord-messages>
+        <a href="#toc">back to top</a>
+        <br><br>
+        <discord-messages>
+            <discord-message user="twiggy" id="lumaver">
+                What version of Luma do I need to use the plugin?
+            </discord-message>
+            <discord-message user="isabelle">
+               BootNTR will <b>ONLY</b> work on the 9.1 version of Luma.
+                The Luma Plugin Loader will ONLY work with a version of Luma that has the plugin loader built in. You can find this download <a href="https://cdn.discordapp.com/attachments/275736483363684358/594597313880522764/boot.firm">here</a>.
             </discord-message>
         </discord-messages>
         <a href="#toc">back to top</a>

@@ -24,6 +24,11 @@ Vue.use(VueDiscordMessage, {
             avatar: 'https://i.imgur.com/7vSPz2U.png',
             roleColor: '#e72c2c'
         },
+        twiggy: {
+            author: 'Twiggy',
+            avatar: 'https://i.imgur.com/S7nOTIZ.png',
+            roleColor: '#a84300'
+        },
         kidd: {
             author: 'Kidd',
             avatar: 'https://i.imgur.com/BxowPcH.png',
