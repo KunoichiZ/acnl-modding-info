@@ -153,7 +153,7 @@
                 How do I use XYZ cheat?
             </discord-message>
             <discord-message user="isabelle">
-                Press on the blue “i” icon on the bottom screen, and a note should pop up with information and instructions on the provided cheat.
+                Press on the blue "i" icon on the bottom screen, and a note should pop up with information and instructions on the provided cheat.
             </discord-message>
         </discord-messages>
         <a href="#toc">back to top</a>
@@ -193,7 +193,7 @@
                 Where is the source code? (insert Margen67 meme here)
             </discord-message>
             <discord-message user="isabelle">
-                As it’s a decision of Nanquitas to keep the source closed while CTRPF is in beta, I will respect his decision and keep it closed source until the time comes that he lets us open source. It is a closed beta for developers to develop “CTRPF plugins” so if you really wanted to develop a plugin, I suggest using BlankCheatMenu <a href="http://bit.ly/blankCHTMenu">http://bit.ly/blankCHTMenu</a> or forking the already open source version of the plugin <a href="http://bit.ly/OS-ACNL-plg">http://bit.ly/OS-ACNL-plg</a>.
+                As it’s a decision of Nanquitas to keep the source closed while CTRPF is in beta, I will respect his decision and keep it closed source until the time comes that he lets us open source. It is a closed beta for developers to develop "CTRPF plugins" so if you really wanted to develop a plugin, I suggest using BlankCheatMenu <a href="http://bit.ly/blankCHTMenu">http://bit.ly/blankCHTMenu</a> or forking the already open source version of the plugin <a href="http://bit.ly/OS-ACNL-plg">http://bit.ly/OS-ACNL-plg</a>.
             </discord-message>
         </discord-messages>
         <a href="#toc">back to top</a>
