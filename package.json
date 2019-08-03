@@ -21,7 +21,7 @@
     "bulma-tooltip": "^2.0.2",
     "jquery": "^3.4.1",
     "nuxt": "^2.8.1",
-    "nuxt-buefy": "^0.3.10",
+    "nuxt-buefy": "^0.3.12",
     "push-dir": "^0.4.1",
     "vue": "^2.6.10",
     "vue-discord-message": "^3.1.1"
