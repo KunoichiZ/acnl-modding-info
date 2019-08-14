@@ -6,7 +6,7 @@
       
       <center><h1 class="title is-size-3">Item IDs</h1>
       
-      <br>Click a category on the left to display its items in the table below. You can view what each item looks like on <a href="http://moridb.com/">http://moridb.com/</a>. Item IDs starting with "00" usually don't work with the text to item cheat and you need to use it with the RTWE (Real Time World Editor).</center>
+      <br><p id="text">Click a category on the left to display its items in the table below. You can view what each item looks like on <a href="http://moridb.com/">http://moridb.com/</a>. Item IDs starting with "00" usually don't work with the text to item cheat and you need to use it with the RTWE (Real Time World Editor).</p></center>
       
       <br><br><center><div id="top"><a href="#art">Art</a> | <a href="#catchables">Catchables</a> | <a href="#clothes">Clothes</a>  | <a href="#patterns">Custom Patterns</a> | <a href="#environment">Environmentals</a> | <a href="#fortunes">Fortune Cookies</a> | <a href="#fossils">Fossils</a> | <a href="#furniture">Furniture</a> | <a href="#fruit">Fruits</a> | <a href="#garden">Garden</a> | <a href="#gyroids">Gyroids</a> | <a href="#hra">HRA Exhibition</a> | <a href="#events">In-Game Events</a> | <a href="#sprites">Item Sprites</a> | <a href="#misc">Misc</a> | <a href="#npc">NPC Items</a> | <a href="#paper">Paper</a> | <a href="#pictures">Animal Pictures</a> | <a href="#songs">Songs</a> | <a href="#tools">Tools & Wearables</a> | <a href="#wallsCarpets">Wallpapers & Carpets</a></div></center>
       <br><br>
@@ -58,13 +58,15 @@ import FortunesTable from "~/components/FortunesTable.vue";
 import FossilsTable from "~/components/FossilsTable.vue";
 // import FurnitureTable from "~/components/FurnitureTable.vue";
 import FruitTable from "~/components/FruitTable.vue";
+// import GardenTable from "~/components/GardenTable.vue";
 import GyroidsTable from "~/components/GyroidsTable.vue";
 import HRATable from "~/components/HRAExhibitionTable.vue";
 import EventsTable from "~/components/InGameEventsTable.vue";
 import ItemSpritesTable from "~/components/ItemSpritesTable.vue";
 import MiscTable from "~/components/MiscTable.vue";
 import NPCItemsTable from "~/components/NPCItemsTable.vue";
-import PicturesTable from "~/components/PicturesTable.vue";
+// import PaperTable from "~/components/PaperTable.vue";
+// import PicturesTable from "~/components/PicturesTable.vue";
 // import SongsTable from "~/components/SongsTable.vue";
 import ToolsTable from "~/components/ToolsTable.vue";
 // import WallsCarpetsTable from "~/components/WallsCarpetsTable.vue";
@@ -84,7 +86,7 @@ export default {
     MiscTable,
     NPCItemsTable,
     PatternsTable,
-    PicturesTable,
+    // PicturesTable,
     ToolsTable
   },
   data () {
@@ -112,6 +114,11 @@ export default {
 
 html {
 	scroll-behavior: smooth;
+}
+
+#text {
+  margin-left: 325px;
+  text-align: left;
 }
 
 table, td {
