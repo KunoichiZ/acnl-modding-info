@@ -12,8 +12,8 @@
                 <li><a href="#environment" id="link-environment" @click="selected = 5" :class="{highlight:selected == 5}">Environmentals</a></li>
                 <li><a href="#fortunes" id="link-fortunes" @click="selected = 6" :class="{highlight:selected == 6}">Fortune Cookies</a></li>
                 <li><a href="#fossils" id="link-fossils" @click="selected = 7" :class="{highlight:selected == 7}">Fossils</a></li>
-                <li><a href="#furniture" id="link-furniture" @click="selected = 8" :class="{highlight:selected == 8}">Furniture</a></li>
-                <li><a href="#fruit" id="link-fruit" @click="selected = 9" :class="{highlight:selected == 9}">Fruits</a></li>
+                <li><a href="#fruit" id="link-fruit" @click="selected = 8" :class="{highlight:selected == 8}">Fruits</a></li>
+                <li><a href="#furniture" id="link-furniture" @click="selected = 9" :class="{highlight:selected == 9}">Furniture</a></li>
                 <li><a href="#garden" id="link-garden" @click="selected = 10" :class="{highlight:selected == 10}">Garden</a></li>
                 <li><a href="#gyroids" id="link-gyroids" @click="selected = 11" :class="{highlight:selected == 11}">Gyroids</a></li>
                 <li><a href="#hra" id="link-hra" @click="selected = 12" :class="{highlight:selected == 12}">HRA Exhibition (Inside Only)</a></li>
