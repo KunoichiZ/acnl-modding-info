@@ -15,7 +15,7 @@
     "start": "nuxt start",
     "generate": "nuxt generate",
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
-    "css-build": "node-sass --omit-source-map-url sass/mystyle.scss css/mystyles.css",
+    "css-build": "node-sass --omit-source-map-url assets/sass/mystyle.scss assets/css/mystyles.css",
     "css-watch": "npm run css-build -- --watch",
     "watch": "npm run css-watch"
   },

@@ -40,8 +40,8 @@ module.exports = {
   ** Global CSS
   */
   css: [
-    '~/css/main.css',
-    '~/css/mystyles.css'
+    '~/assets/css/main.css',
+    '~/assets/css/mystyles.css'
   ],
 
   /*
