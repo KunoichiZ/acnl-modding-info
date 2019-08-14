@@ -173,6 +173,11 @@ Vue.use(VueDiscordMessage, {
             author: 'Lily',
             avatar: 'https://i.imgur.com/oY8l6tw.png',
             roleColor: '#a84300'
+        },
+        renee: {
+            author: 'Renée',
+            avatar: 'https://i.imgur.com/6bFpkYJ.png',
+            roleColor: '#a84300'
         }
     },
 });
