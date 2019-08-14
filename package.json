@@ -4,6 +4,11 @@
   "description": "ACNL Modding, Guides, and Plugin Information",
   "author": "KunoichiZ",
   "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunoichiZ/acnl-modding-info.git"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -29,6 +34,6 @@
   "devDependencies": {
     "node-sass": "4.12.0",
     "nodemon": "^1.19.0",
-    "sass-loader": "7.1.0"
+    "sass-loader": "7.2.0"
   }
 }
