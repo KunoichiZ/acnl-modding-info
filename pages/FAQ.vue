@@ -43,6 +43,7 @@
                 <li><a href="#text2item">My text to item isn't working!</a></li>
                 <li><a href="#text2item2">But there's actually no other code further down!</a></li>
                 <li><a href="#lumaver">What version of Luma do I need to use the plugin?</a></li>
+                <li><a href="#multipleplugins">Can I use multiple plugins at the same time?</a></li>
                 <li><a href="#question">But what if my question isn't located here?</a></li>
             </ul>
         </div>
@@ -420,11 +421,21 @@
         <a href="#toc">back to top</a>
         <br><br>
         <discord-messages>
+            <discord-message user="renee" id="multipleplugins">
+                Can I use multiple plugins at the same time?
+            </discord-message>
+            <discord-message user="isabelle">
+                No.
+            </discord-message>
+        </discord-messages>
+        <a href="#toc">back to top</a>
+        <br><br>
+        <discord-messages>
             <discord-message user="lily" id="question">
                 But what if my question isn't located here?
             </discord-message>
             <discord-message user="isabelle">
-               Then please join the discord server.
+               Then please join the Discord server.
                <a href="https://discord.gg/EZSxqRr"><img src="https://discordapp.com/api/guilds/275461571231219712/widget.png?style=banner3" alt="Join Discord Server"/></a>
             </discord-message>
         </discord-messages>
