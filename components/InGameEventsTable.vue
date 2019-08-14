@@ -1,30 +1,56 @@
 <template>
     <div id="eventsvue" class="container has-text-centered">
-        <span id="events">In-Game Event Items <!-- (back to <a href="#top">categories</a>)--></span>
-        <input type="text" class="input is-rounded" id="eventsInput" v-on:keyup="eventsFunction()" placeholder="Search for item names..">
-        <br><br>
-        <table id="eventsTable">
-            <tr>
-  	            <th>Hex</th>
-                <th>Item Name</th>
-            </tr>
-            <tr>
-              <td>341a</td>
-              <td>bingo card</td>
-            </tr>
-            <tr>
-              <td>341b</td>
-              <td>expired bingo card</td>
-            </tr>
-            <tr>
-              <td>341c</td>
-              <td>time capsule</td>
-            </tr>
-            <tr>
-              <td>341d</td>
-              <td>scavenger-hunt list</td>
-            </tr>
-        </table>
+      <b-collapse class="card" aria-id="eventsTable" id="events" >
+            <div
+                slot="trigger" 
+                slot-scope="props"
+                class="card-header"
+                role="button"
+                aria-controls="eventsTable">
+                <p class="card-header-title is-centered">
+                    In-Game Event Items
+                </p>
+                <a class="card-header-icon">
+                    <b-icon
+                        :icon="props.open ? 'menu-down' : 'menu-up'">
+                    </b-icon>
+                </a>
+            </div>
+            <div class="card-content">
+                <div class="content">
+                  <!-- <span id="events">In-Game Event Items (back to <a href="#top">categories</a>)</span> -->
+                  <input type="text" class="input is-rounded" id="eventsInput" v-on:keyup="eventsFunction()" placeholder="Search for item names..">
+                  <br><br>
+                  <table id="eventsTable">
+                      <tr>
+                          <th>Hex</th>
+                          <th>Item Name</th>
+                      </tr>
+                      <tr>
+                        <td>341a</td>
+                        <td>bingo card</td>
+                      </tr>
+                      <tr>
+                        <td>341b</td>
+                        <td>expired bingo card</td>
+                      </tr>
+                      <tr>
+                        <td>341c</td>
+                        <td>time capsule</td>
+                      </tr>
+                      <tr>
+                        <td>341d</td>
+                        <td>scavenger-hunt list</td>
+                      </tr>
+                  </table>
+                </div>
+            </div>
+            <!-- <footer class="card-footer">
+                <a class="card-footer-item">Save</a>
+                <a class="card-footer-item">Edit</a>
+                <a class="card-footer-item">Delete</a>
+            </footer> -->
+        </b-collapse>
     </div>
 </template>
 
@@ -59,13 +85,13 @@ export default {
 </script>
 
 <style scoped>
-table, td {
-  border: 1px solid black;
+table, td, tr {
+  border: 2px solid black;
   text-align: center;
 }
 
 th {
-  border: 2px solid black;
+  border: 3px solid black;
   text-align: center;
 }
 
@@ -77,12 +103,17 @@ th, td {
     padding: 5px;
 }
 
-#eventsvue {
-    /* background: url('/green_bg.png'); */
+#eventsvue, .card {
+    background: url('/green_bg.png');
     width: 325px;
     border-radius: 25px;
     border-color: #a1cc00;
     border-width: 10px;
     padding: 15px;
+}
+
+.card-header-title, .card-header {
+  text-align: center;
+  box-shadow: none;
 }
 </style>
