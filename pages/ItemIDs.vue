@@ -23,9 +23,9 @@
       <br>
       <FruitTable></FruitTable>
       <br>
-      <HRATable></HRATable>
-      <br>
       <GyroidsTable></GyroidsTable>
+      <br>
+      <HRATable></HRATable>
       <br>
       <EventsTable></EventsTable>
       <br>
