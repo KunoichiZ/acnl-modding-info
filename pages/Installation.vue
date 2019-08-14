@@ -46,14 +46,14 @@
             <li><input class="is-checkradio" id="step8" type="checkbox" name="exampleCheckbox">
             <label for="step8">On the home screen, hit L + D-Pad Down + Select at the same time. A menu should show up called the Rosalina menu.</label></li>
             <li><input class="is-checkradio" id="step9" type="checkbox" name="exampleCheckbox">
-            <label for="step9">In this menu, you should now see a Plugin Loader option. If it says Enable Plugin Loader, hit A on it to turn it into Disable Plugin Loader. &nbsp;Do nothing otherwise.</label></li>
+            <label for="step9">In this menu, you should now see a Plugin Loader option. If it says Enable Plugin Loader, hit A on it to turn <br>it into Disable Plugin Loader. &nbsp;Do nothing otherwise.</label></li>
             <li><input class="is-checkradio" id="step10" type="checkbox" name="exampleCheckbox">
             <label for="step10">Launch Animal Crossing: New Leaf. There should be a green flash.
             <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - If there is no green flash, close the game and restart your 3DS. Try again from step 1, except this time restart your 3DS after hitting Enable Plugin Loader. Make sure to check that it still follows step 2 after the 3DS turns back on.</label></li>
             <li><input class="is-checkradio" id="step11" type="checkbox" name="exampleCheckbox">
             <label for="step11">If there is a green flash, continue with loading the game. Pick a character and enter your town. You should see our Terms of Services and "Plugin Ready!" in the bottom right corner of the top screen.</label></li>
             <li><input class="is-checkradio" id="step12" type="checkbox" name="exampleCheckbox">
-            <label for="step12">Once the town is loaded and everything is in order, press Select to open the plugin menu or Hold R + X for a small bit to open the Quick Menu.</label></li>
+            <label for="step12">Once the town is loaded and everything is in order, press Select to open the plugin menu or Hold R + X for <br>a small bit to open the Quick Menu.</label></li>
           </ul>
           <br><br><h1 id="congrats" class="title is-4">Congrats! You've successfully installed the plugin!</h1>
         </b-tab-item>
