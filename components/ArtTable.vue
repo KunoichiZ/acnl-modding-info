@@ -1,12 +1,12 @@
 <template>
     <div id="artvue" class="container has-text-centered">
-        <b-collapse class="card" aria-id="contentIdForA11y3">
+        <b-collapse class="card" aria-id="artTable" id="art">
             <div
                 slot="trigger" 
                 slot-scope="props"
                 class="card-header"
                 role="button"
-                aria-controls="contentIdForA11y3">
+                aria-controls="artTable">
                 <p class="card-header-title is-centered">
                     Art
                 </p>
@@ -21,7 +21,7 @@
                     <!-- <span id="art">Art  (back to <a href="#top">categories</a>)/span> -->
                     <br><input type="text" class="input is-rounded" id="artInput" v-on:keyup="artFunction()" placeholder="Search for item names..">
                     <br><br>
-                    <table id="artTable">
+                    <table>
                         <tr>
                             <th>Hex</th>
                             <th>Item Name</th>
