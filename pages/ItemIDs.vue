@@ -26,6 +26,8 @@
       <br>
       <HRATable></HRATable>
       <br>
+      <EnvironmentTable></EnvironmentTable>
+      <br>
       <EventsTable></EventsTable>
       <br>
       <ItemSpritesTable></ItemSpritesTable>
@@ -52,7 +54,7 @@ import CatchablesTable from "~/components/CatchablesTable.vue";
 import ItemIDsMenu from "~/components/ItemIDsMenu.vue";
 // import ClothesTable from "~/components/ClothesTable.vue";
 import PatternsTable from "~/components/CustomPatternsTable.vue";
-// import EnvironmentTable from "~/components/EnvironmentTable.vue";
+import EnvironmentTable from "~/components/EnvironmentTable.vue";
 import FortunesTable from "~/components/FortunesTable.vue";
 import FossilsTable from "~/components/FossilsTable.vue";
 // import FurnitureTable from "~/components/FurnitureTable.vue";
@@ -65,7 +67,7 @@ import ItemSpritesTable from "~/components/ItemSpritesTable.vue";
 import MiscTable from "~/components/MiscTable.vue";
 import NPCItemsTable from "~/components/NPCItemsTable.vue";
 // import PaperTable from "~/components/PaperTable.vue";
-// import PicturesTable from "~/components/PicturesTable.vue";
+import PicturesTable from "~/components/PicturesTable.vue";
 // import SongsTable from "~/components/SongsTable.vue";
 import ToolsTable from "~/components/ToolsTable.vue";
 // import WallsCarpetsTable from "~/components/WallsCarpetsTable.vue";
@@ -74,6 +76,7 @@ export default {
   components: {
     ArtTable,
     CatchablesTable,
+    EnvironmentTable,
     EventsTable,
     FortunesTable,
     FossilsTable,
@@ -85,7 +88,7 @@ export default {
     MiscTable,
     NPCItemsTable,
     PatternsTable,
-    // PicturesTable,
+    PicturesTable,
     ToolsTable
   },
   data () {
