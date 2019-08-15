@@ -104,7 +104,7 @@ th, td {
 }
 
 #eventsvue, .card {
-    background: url('/green_bg.png');
+    background: url('/blue_bg.png');
     width: 325px;
     border-radius: 25px;
     border-color: #a1cc00;

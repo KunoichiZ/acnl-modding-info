@@ -66,4 +66,6 @@ table {
 th, td {
     padding: 5px;
 }
+
+/* pink background */
 </style>

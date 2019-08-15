@@ -176,7 +176,7 @@ th, td {
 }
 
 #spritesvue, .card {
-    background: url('/pink_bg.png');
+    background: url('/green_bg.png');
     width: 325px;
     border-radius: 25px;
     border-color: #a1cc00;
