@@ -778,6 +778,10 @@
                         <td>211d</td>
                         <td>grand-prize ticket</td>
                       </tr>
+                      <tr>
+                        <td>202a</td>
+                        <td>fossil</td>
+                      </tr>
                   </table>
                 </div>
             </div>
