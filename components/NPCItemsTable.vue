@@ -139,7 +139,7 @@ th, td {
     background: url('/blue_bg.png');
     width: 325px;
     border-radius: 25px;
-    border-color: #a1cc00;
+    border-color: #41aed7;
     border-width: 10px;
     padding: 15px;
 }
