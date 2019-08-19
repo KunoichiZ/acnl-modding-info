@@ -19,7 +19,7 @@
             <div class="card-content">
                 <div class="content">
                     <!-- <span id="art">Art  (back to <a href="#top">categories</a>)/span> -->
-                    <br><input type="text" class="input is-rounded" id="artInput" v-on:keyup="artFunction()" placeholder="Search for item names..">
+                    <input type="text" class="input is-rounded" id="artInput" v-on:keyup="artFunction()" placeholder="Search for item names..">
                     <br><br>
                     <table>
                         <tr>

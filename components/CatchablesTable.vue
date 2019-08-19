@@ -19,7 +19,7 @@
             <div class="card-content">
                 <div class="content">
                     <!-- <span id="catchables">Catchables (back to <a href="#top">categories</a>)</span> -->
-                    <br><input type="text" class="input is-rounded" id="catchablesInput" v-on:keyup="catchablesFunction()" placeholder="Search for item names..">
+                    <input type="text" class="input is-rounded" id="catchablesInput" v-on:keyup="catchablesFunction()" placeholder="Search for item names..">
                     <br><br>
                     <table>
                         <tr>

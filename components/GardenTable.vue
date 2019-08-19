@@ -19,7 +19,7 @@
             <div class="card-content">
                 <div class="content">
                     <!-- <span id="garden">garden  (back to <a href="#top">categories</a>)/span> -->
-                    <br><input type="text" class="input is-rounded" id="gardenInput" v-on:keyup="gardenFunction()" placeholder="Search for item names..">
+                    <input type="text" class="input is-rounded" id="gardenInput" v-on:keyup="gardenFunction()" placeholder="Search for item names..">
                     <br><br>
                     <table>
                         <tr>
