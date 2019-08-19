@@ -123,8 +123,8 @@
           </ul>
           <br><br><h1 id="congrats" class="title is-4">Congrats! You've successfully installed the plugin!</h1>
         </b-tab-item>
-        <b-tab-item id="faq" icon="rocket" label="FAQ">
-          // TODO: Add Installation FAQ from #installation
+        <b-tab-item id="faq" icon="rocket" label="FAQ">// TODO: Add Installation FAQ from #installation
+
         </b-tab-item>
       </b-tabs>
     </div>
