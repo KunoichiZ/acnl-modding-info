@@ -441,6 +441,7 @@
         </discord-messages>
         <a href="#toc">back to top</a>
         <br><br>
+        // TODO: Re-do FAQ page with info from #faq
       </div>
 </template>
 
