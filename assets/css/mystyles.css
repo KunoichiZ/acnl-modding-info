@@ -7750,7 +7750,7 @@ label.panel-block {
       left: 0;
       top: 0rem;
       content: '';
-      border: 0.2rem solid #CFA135; }
+      border: 0.2rem solid #8c67ef; }
     .is-checkradio[type="radio"] + label::after, .is-checkradio[type="radio"] + label:after,
     .is-checkradio[type="checkbox"] + label::after,
     .is-checkradio[type="checkbox"] + label:after {
@@ -7778,7 +7778,7 @@ label.panel-block {
   .is-checkradio[type="radio"]:checked + label::before, .is-checkradio[type="radio"]:checked + label:before,
   .is-checkradio[type="checkbox"]:checked + label::before,
   .is-checkradio[type="checkbox"]:checked + label:before {
-    border: 0.2rem solid #CFA135; }
+    border: 0.2rem solid #8c67ef; }
   .is-checkradio[type="radio"]:checked[disabled],
   .is-checkradio[type="checkbox"]:checked[disabled] {
     cursor: not-allowed; }
