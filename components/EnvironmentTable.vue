@@ -622,152 +622,152 @@
                         <td>bamboo</td>
                       </tr>
                       <tr>
-                        <td>2061</td>
-                        <td>Uni-Directional Chair (Invisible)</td>
+                        <td class="green">2061</td>
+                        <td class="green">Uni-Directional Chair (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>2062</td>
-                        <td>Café Dining Chair (Invisible)</td>
+                        <td class="green">2062</td>
+                        <td class="green">Café Dining Chair (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>2063</td>
-                        <td>Town Hall Chair (Invisible)</td>
+                        <td class="green">2063</td>
+                        <td class="green">Town Hall Chair (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>2064</td>
-                        <td>Unknown Two-Seated Chair 1 (Invisible)</td>
+                        <td class="green">2064</td>
+                        <td class="green">Unknown Two-Seated Chair 1 (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>2065</td>
-                        <td>Unknown Two-Seated Chair 2 (Invisible)</td>
+                        <td class="green">2065</td>
+                        <td class="green">Unknown Two-Seated Chair 2 (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>2066</td>
-                        <td>Campsite Log Seat (Invisible)</td>
+                        <td class="green">2066</td>
+                        <td class="green">Campsite Log Seat (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>2067</td>
-                        <td>RV Right Chair (Invisible)</td>
+                        <td class="green">2067</td>
+                        <td class="green">RV Right Chair (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>2068</td>
-                        <td>RV Left Chair (Invisible)</td>
+                        <td class="green">2068</td>
+                        <td class="green">RV Left Chair (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>2069</td>
-                        <td>RV Unk Chair (Invisible)</td>
+                        <td class="green">2069</td>
+                        <td class="green">RV Unk Chair (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>206A</td>
-                        <td>Campsite Tree Stump (Invisible)</td>
+                        <td class="green">206A</td>
+                        <td class="green">Campsite Tree Stump (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>206B</td>
-                        <td>Campsite Hammock (Invisible)</td>
+                        <td class="green">206B</td>
+                        <td class="green">Campsite Hammock (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>206C</td>
-                        <td>Dream Suite Bed (Invisible)</td>
+                        <td class="green">206C</td>
+                        <td class="green">Dream Suite Bed (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>206D</td>
-                        <td>Dream Suite Couch (Invisible)</td>
+                        <td class="green">206D</td>
+                        <td class="green">Dream Suite Couch (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>206E</td>
-                        <td>Unknown Big Bed (Invisible)</td>
+                        <td class="green">206E</td>
+                        <td class="green">Unknown Big Bed (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>206F</td>
-                        <td>Museum Cushion Chair (Invisible)</td>
+                        <td class="green">206F</td>
+                        <td class="green">Museum Cushion Chair (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>2073</td>
-                        <td>RV Radio (Invisible)</td>
+                        <td class="green">2073</td>
+                        <td class="green">RV Radio (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>2074</td>
-                        <td>DJ K.K. Table</td>
+                        <td class="green">2074</td>
+                        <td class="green">DJ K.K. Table</td>
                       </tr>
                       <tr>
-                        <td>2075</td>
-                        <td>1x1 Museum Item Podium (Fossils)</td>
+                        <td class="green">2075</td>
+                        <td class="green">1x1 Museum Item Podium (Fossils)</td>
                       </tr>
                       <tr>
-                        <td>2076</td>
-                        <td>1x2 Museum Item Stand (Dinosaurs)</td>
+                        <td class="green">2076</td>
+                        <td class="green">1x2 Museum Item Stand (Dinosaurs)</td>
                       </tr>
                       <tr>
-                        <td>2077</td>
-                        <td>2x2 Museum Item Stand (Dinosaurs)</td>
+                        <td class="green">2077</td>
+                        <td class="green">2x2 Museum Item Stand (Dinosaurs)</td>
                       </tr>
                       <tr>
-                        <td>2078</td>
-                        <td>Unknown Wallpaper</td>
+                        <td class="green">2078</td>
+                        <td class="green">Unknown Wallpaper</td>
                       </tr>
                       <tr>
-                        <td>2079</td>
-                        <td>1x1 Shops Item Hangup</td>
+                        <td class="green">2079</td>
+                        <td class="green">1x1 Shops Item Hangup</td>
                       </tr>
                       <tr>
-                        <td>207A</td>
-                        <td>1x2 Shops Item Hangup</td>
+                        <td class="green">207A</td>
+                        <td class="green">1x2 Shops Item Hangup</td>
                       </tr>
                       <tr>
-                        <td>207B</td>
-                        <td>Retail Chair (Invisible)</td>
+                        <td class="green">207B</td>
+                        <td class="green">Retail Chair (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>207C</td>
-                        <td>Island Hut Chair (Invisible)</td>
+                        <td class="green">207C</td>
+                        <td class="green">Island Hut Chair (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>207D</td>
-                        <td>Harvey's Chair (Invisible)</td>
+                        <td class="green">207D</td>
+                        <td class="green">Harvey's Chair (Invisible)</td>
                       </tr>
                       <tr>
-                        <td>207E</td>
-                        <td>Moving Boxes</td>
+                        <td class="green">207E</td>
+                        <td class="green">Moving Boxes</td>
                       </tr>
                       <tr>
-                        <td>207F</td>
-                        <td>Moving Boxes Medium</td>
+                        <td class="green">207F</td>
+                        <td class="green">Moving Boxes Medium</td>
                       </tr>
                       <tr>
-                        <td>2080</td>
-                        <td>Moving Boxes Large</td>
+                        <td class="green">2080</td>
+                        <td class="green">Moving Boxes Large</td>
                       </tr>
                       <tr>
-                        <td>2081</td>
-                        <td>Train Station Locker</td>
+                        <td class="green">2081</td>
+                        <td class="green">Train Station Locker</td>
                       </tr>
                       <tr>
-                        <td>2082</td>
-                        <td>Museum Locker</td>
+                        <td class="green">2082</td>
+                        <td class="green">Museum Locker</td>
                       </tr>
                       <tr>
-                        <td>2083</td>
-                        <td>General Sold-Out Sign</td>
+                        <td class="green">2083</td>
+                        <td class="green">General Sold-Out Sign</td>
                       </tr>
                       <tr>
-                        <td>2084</td>
-                        <td>Gracie Sold-Out Sign</td>
+                        <td class="green">2084</td>
+                        <td class="green">Gracie Sold-Out Sign</td>
                       </tr>
                       <tr>
-                        <td>2085</td>
-                        <td>Retail Sold-Out Sign</td>
+                        <td class="green">2085</td>
+                        <td class="green">Retail Sold-Out Sign</td>
                       </tr>
                       <tr>
-                        <td>2086</td>
-                        <td>Nooklings Sold-Out Sign (Wall)</td>
+                        <td class="green">2086</td>
+                        <td class="green">Nooklings Sold-Out Sign (Wall)</td>
                       </tr>
                       <tr>
-                        <td>2087</td>
-                        <td>Gracie Sold-Out Sign (Wall)</td>
+                        <td class="green">2087</td>
+                        <td class="green">Gracie Sold-Out Sign (Wall)</td>
                       </tr>
                       <tr>
-                        <td>2088</td>
-                        <td>Redd Sold-Out Sign</td>
+                        <td class="green">2088</td>
+                        <td class="green">Redd Sold-Out Sign</td>
                       </tr>
                       <tr>
                         <td>00ce</td>
@@ -1225,6 +1225,10 @@ td {
   background-color: grey;
   opacity: 0.5;
   color: white;
+}
+
+.green {
+  background-color: green;
 }
 
 #environmentvue, .card {
