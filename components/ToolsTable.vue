@@ -342,6 +342,12 @@ th, td {
     padding: 5px;
 }
 
+td {
+  background-color: green;
+  opacity: 0.5;
+  color: white;
+}
+
 #toolsvue, .card {
     background: url('/green_bg.png');
     width: 325px;

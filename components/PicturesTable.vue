@@ -1894,6 +1894,12 @@ th, td {
     padding: 5px;
 }
 
+td {
+  background-color: green;
+  opacity: 0.5;
+  color: white;
+}
+
 #picturevue, .card {
     background: url('/pink_bg.png');
     width: 325px;

@@ -98,6 +98,12 @@ th, td {
     padding: 5px;
 }
 
+td {
+  background-color: green;
+  opacity: 0.5;
+  color: white;
+}
+
 #eventsvue, .card {
     background: url('/blue_bg.png');
     width: 325px;

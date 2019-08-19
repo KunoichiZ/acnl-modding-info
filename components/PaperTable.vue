@@ -353,6 +353,12 @@ th, td {
     padding: 5px;
 }
 
+td {
+  background-color: green;
+  opacity: 0.5;
+  color: white;
+}
+
 #papervue, .card {
     background: url('/green_bg.png');
     width: 325px;
@@ -366,5 +372,4 @@ th, td {
   text-align: center;
   box-shadow: none;
 }
-/* pink background */
 </style>
