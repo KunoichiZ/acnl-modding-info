@@ -7,7 +7,9 @@
       
       <br><p id="text">Click a category on the left to display its items in the table below. You can view what each item looks like on <a href="http://moridb.com/">http://moridb.com/</a>. Item IDs starting with "00" and have a red background usually don't work with the text to item cheat and you need to use it with the RTWE (Real Time World Editor). Item IDs that have a green background can be put into your character's pockets.</p>
       
-      <p>WARNING: The Clothes and Furniture tables are VERY LONG. There are a lot of clothes and furniture.</center>
+      <div class="box">
+        <i class="fas fa-exclamation-triangle"></i> WARNING: The Clothes and Furniture tables are VERY LONG. There are a lot of clothes and furniture. <i class="fas fa-exclamation-triangle"></i>
+      </div></center>
       
       <br><br><center><div id="top"><a href="#art">Art</a> | <a href="#catchables">Catchables</a> | <a href="#clothes">Clothes</a>  | <a href="#patterns">Custom Patterns</a> | <a href="#environment">Environmentals</a> | <a href="#fortunes">Fortune Cookies</a> | <a href="#fossils">Fossils</a> | <a href="#furniture">Furniture</a> | <a href="#fruit">Fruits</a> | <a href="#garden">Garden</a> | <a href="#gyroids">Gyroids</a> | <a href="#hra">HRA Exhibition</a> | <a href="#events">In-Game Events</a> | <a href="#sprites">Item Sprites</a> | <a href="#misc">Misc</a> | <a href="#npc">NPC Items</a> | <a href="#paper">Paper</a> | <a href="#pictures">Animal Pictures</a> | <a href="#songs">Songs</a> | <a href="#tools">Tools & Wearables</a> | <a href="#wallsCarpets">Wallpapers & Carpets</a></div></center>
       <br>
@@ -15,6 +17,8 @@
       <ArtTable></ArtTable>
       <br>
       <CatchablesTable></CatchablesTable>
+      <br>
+      <ClothesTable></ClothesTable>
       <br>
       <PatternsTable></PatternsTable>
       <br>
@@ -55,7 +59,7 @@
 import ArtTable from "~/components/ArtTable.vue";
 import CatchablesTable from "~/components/CatchablesTable.vue";
 import ItemIDsMenu from "~/components/ItemIDsMenu.vue";
-// import ClothesTable from "~/components/ClothesTable.vue";
+import ClothesTable from "~/components/ClothesTable.vue";
 import PatternsTable from "~/components/CustomPatternsTable.vue";
 import EnvironmentTable from "~/components/EnvironmentTable.vue";
 import FortunesTable from "~/components/FortunesTable.vue";
@@ -79,6 +83,7 @@ export default {
   components: {
     ArtTable,
     CatchablesTable,
+    ClothesTable,
     EnvironmentTable,
     EventsTable,
     FortunesTable,
@@ -143,6 +148,12 @@ table {
   display: none;
 }
 
+.box {
+  background-color: yellow;
+  margin-left: 325px;
+  /* width: 950px; */
+  text-align: center;
+}
 @media (max-width: 1000px) {
   .menu {
       display: none;
