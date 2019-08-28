@@ -361,7 +361,7 @@ td {
 
 #papervue, .card {
     background: url('/green_bg.png');
-    width: 325px;
+    width: 350px;
     border-radius: 25px;
     border-color: #a1cc00;
     border-width: 10px;

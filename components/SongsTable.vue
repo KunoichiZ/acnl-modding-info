@@ -1182,7 +1182,7 @@ td {
 
 #songsvue, .card {
     background: url('/blue_bg.png');
-    width: 325px;
+    width: 350px;
     border-radius: 25px;
     border-color: #41aed7;
     border-width: 10px;

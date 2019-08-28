@@ -1233,7 +1233,7 @@ td {
 
 #environmentvue, .card {
     background: url('/pink_bg.png');
-    width: 325px;
+    width: 350px;
     border-radius: 25px;
     border-color: #f58094;
     border-width: 10px;
