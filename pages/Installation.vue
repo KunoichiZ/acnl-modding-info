@@ -11,8 +11,8 @@
             
       <br><p>We also ONLY provide support for the latest version of the plugin. If you've finished reading all this, go to the next section.</p>
       <br>
-      <b-tabs position="is-centered" type="is-toggle-rounded" size="is-medium" v-model="activeTab">
-        <b-tab-item icon="star" id="luma3DS" label="Luma3DS">
+      <b-tabs position="is-centered" type="is-toggle-rounded" size="is-medium" v-model="activeTab" icon-pack="fas">
+        <b-tab-item icon-pack="fas" icon="star" id="luma3DS" label="Luma3DS">
           <br><h2 class="title is-size-4">Using the plugin with Luma</h2>
           <br>
           <ul>
@@ -51,14 +51,14 @@
             <label for="step10">Launch Animal Crossing: New Leaf. There should be a green flash.
             <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - If there is no green flash, close the game and restart your 3DS. Try again from step 1, except this time restart your 3DS after hitting Enable Plugin Loader. Make sure to check that it still follows step 2 after the 3DS turns back on.</label></li>
             <li><input class="is-checkradio is-black" id="step11" type="checkbox" name="exampleCheckbox">
-            <label for="step11">If there is a green flash, continue with loading the game. Pick a character and enter your town. You should see our Terms of Services and "Plugin Ready!" in the bottom right corner of the top screen.</label></li>
+            <label for="step11">If there is a green flash, continue with loading the game. Pick a character and enter your town. You should <br>see our Terms of Services and "Plugin Ready!" in the bottom right corner of the top screen.</label></li>
             <li><input class="is-checkradio is-black" id="step12" type="checkbox" name="exampleCheckbox">
             <label for="step12">Once the town is loaded and everything is in order, press Select to open the plugin menu or Hold R + X for <br>a small bit to open the Quick Menu.</label></li>
           </ul>
           <br><br><h1 id="congrats" class="title is-4">Congrats! You've successfully installed the plugin!</h1>
         </b-tab-item>
             
-        <b-tab-item id="bootNTR" icon="rocket" label="BootNTR">
+        <b-tab-item icon-pack="fas" id="bootNTR" icon="rocket" label="BootNTR">
           <br><h2 class="title is-size-4">Using the plugin with BootNTR</h2>
           <br>
           <ul>
@@ -115,16 +115,92 @@
             <label for="step27">Launch Animal Crossing: New Leaf. There should be a green flash.
             <br><span class="space">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> - If there is no green flash, close the game and go back to the home screen. Hold select while booting BootNTRSelector and go through the setup for default settings once more. Restart from step 7.</label></li>
             <li><input class="is-checkradio is-black" id="step28" type="checkbox" name="exampleCheckbox">
-            <label for="step28">If there is a green flash, continue with loading the game. Pick a character and enter your town. You should see our Terms of Services and "Plugin Ready!" in the bottom right corner of the top screen.</label></li>
+            <label for="step28">If there is a green flash, continue with loading the game. Pick a character and enter your town. You should <br>see our Terms of Services and "Plugin Ready!" in the bottom right corner of the top screen.</label></li>
             <li><input class="is-checkradio is-black" id="step29" type="checkbox" name="exampleCheckbox">
-            <label for="step29">Once the town is loaded and everything is in order, press Select to open the plugin menu or Hold R + X for a small bit to open the Quick Menu.</label></li>
+            <label for="step29">Once the town is loaded and everything is in order, press Select to open the plugin menu or Hold R + X for <br>a small bit to open the Quick Menu.</label></li>
             <li><input class="is-checkradio is-black" id="step30" type="checkbox" name="exampleCheckbox">
             <label for="step30">You can delete the .cia in the cia or cias folder if you wish. Do not delete anything else.</label></li>
           </ul>
           <br><br><h1 id="congrats" class="title is-4">Congrats! You've successfully installed the plugin!</h1>
         </b-tab-item>
-        <b-tab-item id="faq" icon="rocket" label="FAQ">// TODO: Add Installation FAQ from #installation
-
+        <b-tab-item icon-pack="fas" id="faq" icon="question" label="FAQ">// TODO: Add Installation FAQ from #installation
+          <discord-messages>
+            <discord-message user="kidd" id="homebuttondisabled">
+                Do I need a specific version of the game?
+            </discord-message>
+            <discord-message user="isabelle">
+                No, you can have a cartridge or a download. 
+                <br>The game does need to be fully updated though.
+            </discord-message>
+          </discord-messages>
+          <br><br>
+          <discord-messages>
+            <discord-message user="cheri" id="directories">
+               What's the difference between WA and Orig in the !workdir and !lumaworkdir commands?
+            </discord-message>
+            <discord-message user="isabelle">
+               WA stands for Welcome Amiibo being built into the install of ACNL. This version of ACNL has a white background and confetti in the home menu icon. Orig stands for the original version of ACNL, which just has a green background in the home menu icon. These are <b>not</b> interchangeable. WA being built in is different from the Original download and you <b>cannot</b> use the files for one for the other.
+               <br><img src="https://cdn.discordapp.com/attachments/275462725688229888/498974563367911445/acnl.png"> <img src="https://cdn.discordapp.com/attachments/275462725688229888/497798468379607041/acwa.png">
+            </discord-message>
+          </discord-messages>
+          <br><br>
+          <discord-messages>
+            <discord-message user="daisy" id="ntrVer">
+               Which version of NTR do I use?
+            </discord-message>
+            <discord-message user="isabelle">
+               To save the helpers and us the trouble, here's a <a href="https://github.com/Nanquitas/BootNTR/releases/latest/">direct link</a> to a .cia that <br>will work for this plugin. 
+               <br>Install with FBI and load before loading ACNL if using the NTR method for <br>loadingplugins.
+               <br>This is the version of NTR you use for O3DS, O3DSXL, N3DS, N3DSXL, <br>O2DS, ON4DS, ABC123DS, etc.
+            </discord-message>
+          </discord-messages>
+          <br><br>
+          <discord-messages>
+            <discord-message user="twiggy" id="lumaver">
+                What version of Luma do I need to use the plugin?
+            </discord-message>
+            <discord-message user="isabelle">
+               BootNTR will <b>ONLY</b> work on the 9.1 version of Luma.
+                The Luma Plugin Loader will ONLY work with a version of Luma that has the plugin loader built in. You can find this download <a href="https://cdn.discordapp.com/attachments/275736483363684358/594597313880522764/boot.firm">here</a>.
+            </discord-message>
+          </discord-messages>
+          <br><br>
+          <discord-messages>
+            <discord-message user="renee" id="multipleplugins">
+                Can I use multiple plugins at the same time?
+            </discord-message>
+            <discord-message user="isabelle">
+                No.
+            </discord-message>
+          </discord-messages>
+          <br><br>
+          <discord-messages>
+            <discord-message user="ken" id="multipleplugins">
+                My plugin isn't working but I don't want to start over from 0!
+            </discord-message>
+            <discord-message user="isabelle">
+                Here are all the major checks to make sure it's installed correctly, do not skip any of them or the helpers will be mad.
+                <br>1) Make sure you are not using NTR Mode 3 (Refer to "Which version of NTR do I use?").</li>
+                <br>2) Make sure your version of Luma is correct, downgrade by downloading the latest boot.firm in #ntr-plugin-info and replacing the boot.firm on the root of your SD card.
+                <br>3) Make sure ACNL is fully updated.
+                <br>4) Hold select while booting BootNTRSelector to reset the settings to default. When it asks you which settings you want, click on default and load 3.6 like normal.
+                <br>5) Make sure there is only one .plg file in all of the following locations:
+                <div class="contentFAQ">
+                    SD:/plugin/0004000000086400/
+                    SD:/plugin/0004000000086300/
+                    SD:/plugin/0004000000086200/
+                    SD:/plugin/0004000000198f00/
+                    SD:/plugin/0004000000198e00/
+                    SD:/plugin/0004000000198d00/
+                    SD:/luma/plugins/0004000000086400/
+                    SD:/luma/plugins/0004000000086300/
+                    SD:/luma/plugins/0004000000086200/
+                    SD:/luma/plugins/0004000000198f00/
+                    SD:/luma/plugins/0004000000198e00/
+                    SD:/luma/plugins/0004000000198d00/
+                </div></li>
+            </discord-message>
+        </discord-messages>
         </b-tab-item>
       </b-tabs>
     </div>
@@ -153,6 +229,19 @@ export default {
 </script>
 
 <style scoped>
+.b-tabs .tabs li {
+  background-color: #8c67ef;
+}
+
+#faq a {
+  color: white;
+  text-decoration: underline;
+}
+
+a {
+  color: black;
+}
+
 ul {
   list-style-position: inside;
 }
@@ -173,8 +262,18 @@ code {
   border-radius: 25px;
 }
 
+.contentFAQ {
+  width: 390px;
+  background-color:	#f5f5f5;
+  color: black;
+  padding: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 25px;
+}
+
 .tab-item {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   margin: auto;
 }
 
@@ -218,6 +317,22 @@ input[type="checkbox"], input[type="checkbox"] + label {
   cursor: url('/cursor.cur'), auto;
 }
 
+.discord-messages {
+    width: 600px;
+    margin: auto;
+    /* font-family: 'ACNL'; */
+    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Whitney', sans-serif; */
+    text-align: left;
+    font-size: 15px;
+    border-radius: 25px;
+}
+
+.discord-author-info {
+    font-weight: bold;
+    color: white;
+}
+
 @media (max-width: 1300px) {
   #luma3DS, #bootNTR {
     width: 450px;
@@ -234,6 +349,9 @@ input[type="checkbox"], input[type="checkbox"] + label {
   }
   .space {
     display: none;
+  }
+  .discord-messages, .discord-message {
+    width: 475px;
   }
 }
 </style>
