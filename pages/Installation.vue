@@ -123,7 +123,7 @@
           </ul>
           <br><br><h1 id="congrats" class="title is-4">Congrats! You've successfully installed the plugin!</h1>
         </b-tab-item>
-        <b-tab-item icon-pack="fas" id="faq" icon="question" label="FAQ">// TODO: Add Installation FAQ from #installation
+        <b-tab-item icon-pack="fas" id="faq" icon="question" label="FAQ">
           <discord-messages>
             <discord-message user="kidd" id="homebuttondisabled">
                 Do I need a specific version of the game?
