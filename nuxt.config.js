@@ -1,6 +1,5 @@
 const pkg = require('./package');
 
-
 module.exports = {
   mode: 'spa',
 
@@ -32,7 +31,7 @@ module.exports = {
   /*
   ** Customize the progress-bar color
   */
-  loading: { color: '#fff' },
+  loading: { color: '#8c67ef' },
 
   /*
   ** Global CSS
@@ -47,7 +46,6 @@ module.exports = {
   */
   plugins: [
     '~/plugins/vue-discord-messages'
-    // '~plugins/scrollmenu.js'
   ],
 
   /*
