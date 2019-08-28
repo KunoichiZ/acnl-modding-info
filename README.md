@@ -46,4 +46,4 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 * [ObjGen's Live HTML Generator](http://www.objgen.com/html) for helping make the Item ID tables easier to make.
 * [Rydoginator](https://github.com/rydoginator) and [Slattz](https://github.com/Slattz) for the NTR plugin. Slattz helped out a lot with various things for the plugin.
 * [SirBeethoven](https://raw.githubusercontent.com/SirBeethoven/LeafHacks/gh-pages/pages/All.txt) for the master Item ID list.
-* [Vaccaria](https://gbatemp.net/members/immortalzypther.411956/) and [Kuuhaku](https://github.com/faizal101) for testing the site and for providing feedback.
+* [Vaccaria](https://gbatemp.net/members/immortalzypther.411956/) and [Kuuhaku](https://github.com/faizal101) for testing the site and for providing feedback. Kuuhaku also came up with the villagers to use in the FAQ page.
