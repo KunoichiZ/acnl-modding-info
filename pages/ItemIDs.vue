@@ -51,7 +51,6 @@
       <SongsTable></SongsTable>
       <br>
       <ToolsTable></ToolsTable>
-      // TODO: Convert all tables to Buefy's b-tables
     </div>
   </section>
 </template>
