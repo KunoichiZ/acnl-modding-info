@@ -51,6 +51,8 @@
       <SongsTable></SongsTable>
       <br>
       <ToolsTable></ToolsTable>
+      <br>
+      <WallsCarpetsTable></WallsCarpetsTable>
     </div>
   </section>
 </template>
@@ -77,7 +79,7 @@ import PaperTable from "~/components/PaperTable.vue";
 import PicturesTable from "~/components/PicturesTable.vue";
 import SongsTable from "~/components/SongsTable.vue";
 import ToolsTable from "~/components/ToolsTable.vue";
-// import WallsCarpetsTable from "~/components/WallsCarpetsTable.vue";
+import WallsCarpetsTable from "~/components/WallsCarpetsTable.vue";
 
 export default {
   components: {
@@ -100,7 +102,8 @@ export default {
     PatternsTable,
     PicturesTable,
     SongsTable,
-    ToolsTable
+    ToolsTable,
+    WallsCarpetsTable
   },
   data () {
     return {
