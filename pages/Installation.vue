@@ -140,7 +140,7 @@
             </discord-message>
             <discord-message user="isabelle">
                WA stands for Welcome Amiibo being built into the install of ACNL. This version of ACNL has a white background and confetti in the home menu icon. Orig stands for the original version of ACNL, which just has a green background in the home menu icon. These are <b>not</b> interchangeable. WA being built in is different from the Original download and you <b>cannot</b> use the files for one for the other.
-               <br><img src="https://cdn.discordapp.com/attachments/275462725688229888/498974563367911445/acnl.png"> <img src="https://cdn.discordapp.com/attachments/275462725688229888/497798468379607041/acwa.png">
+               <br><img src="acnl.png"> <img src="acwa.png">
             </discord-message>
           </discord-messages>
           <br><br>
