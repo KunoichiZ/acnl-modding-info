@@ -36,14 +36,41 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 [MIT License](./LICENSE)
 
 ## Credits
+### Website Credits
 * All depedencies in [package.json](./package.json).
 * [AuroraWright](https://github.com/AuroraWright) for Luma3DS.
 * [cell9](https://github.com/44670) for making BootNTR.
-* [herolarcio](https://gbatemp.net/members/herolarcio.374367/) for creating the amazing A.C. Themed menu for the 3.X plugins.
-* [Mega-Mew](https://gbatemp.net/members/mega-mew.365621/) for finding outdoor X+Y coordinates.
-* [MrDavidPerson](https://gbatemp.net/members/mrdavidperson.362731/) for the HQ demo videos of the plugin.
 * [Nanquitas](https://github.com/Nanquitas/BootNTR) for his BootNTR Selector app and CTRPF.
 * [ObjGen's Live HTML Generator](http://www.objgen.com/html) for helping make the Item ID tables easier to make.
 * [Rydoginator](https://github.com/rydoginator) and [Slattz](https://github.com/Slattz) for the NTR plugin. Slattz helped out a lot with various things for the plugin.
 * [SirBeethoven](https://raw.githubusercontent.com/SirBeethoven/LeafHacks/gh-pages/pages/All.txt) for the master Item ID list.
 * [Vaccaria](https://gbatemp.net/members/immortalzypther.411956/) and [Kuuhaku](https://github.com/faizal101) for testing the site and for providing feedback. Kuuhaku also came up with the villagers to use in the FAQ page.
+### Plugin Credits
+#### Main Developers
+* rydoginator, Slattz lead developers
+* Nanquitass backend developer/CTRPF
+* Sc0tline - UI design + code creation
+* WemI0 - code creation
+* Levi - Code creation
+* Conanac, 0ICED0, MrN0p, Kageshi - misc. cheat sharing
+* cell9 - NTR
+
+#### Discord Server Helpers
+##### Current Helpers
+* BadRedStone#6669
+* rydoginator#0001
+* Lord DIO#3133
+* Vaccaria#5883
+* Kyotu#9120
+##### Past Helpers
+* M-1
+* Reece's Puffs
+* baby onion
+* ~B O O P~
+##### Discord Server Admins
+* rydoginator#0001
+* Lord DIO#3133
+* Vaccaria#5883
+* Sc0tline#0412
+* Wem#1443
+* Nanquitas#9465
