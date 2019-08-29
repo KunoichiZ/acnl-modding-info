@@ -30,6 +30,7 @@
             </ul>
             <br>
             <h1 class="title is-size-4">Discord Server Helpers</h1>
+            <p>Thank you to the helpers for being active in plugin support and testing the plugin before releases.</p>
             <h1 class="title is-size-5">Current Helpers</h1>
             <ul id="currenthelpers">
                 <li>BadRedStone#6669</li>
@@ -45,9 +46,11 @@
                 <li>Reece's Puffs</li>
                 <li>baby onion</li>
                 <li>~B O O P~</li>
+                <li>&#x1f31e; &#x1f338; mercy &#x1f338;&#x1f31e;</li>
             </ul>
             <br>
             <h1 class="title is-size-4">Discord Server Admins</h1>
+            <p>Thank you to the admins for keeping the server in order even with all the people in it.</p>
             <ul id="serveradmins">
                 <li>rydoginator#0001</li>
                 <li>Lord DIO#3133</li>
@@ -57,12 +60,30 @@
                 <li>Nanquitas#9465</li>
             </ul>
             <br>
-        </div>
-        <div class="creditsend">
-            <p>   </p>
+            <p>For anyone active and helping in plugin support, thank you as well.</p>
         </div>
     </div>
 </template>
+
+<script>
+export default {
+  data () {
+    return {
+      title: 'Credits - ACNL Modding Info'
+    }
+  },
+  head () {
+    return {
+      title: this.title,
+      meta: [
+        { hid: 'og-description', name: 'og:description', content: 'Credits' },
+        { hid: 'og-title', property: 'og:title', content: this.title },
+        { hid: 'og-site_name', property: 'og:site_name', content: 'ACNL Modding Info'}
+      ]
+    }
+  }
+}
+</script>
 
 <style scoped>
 #credits {
