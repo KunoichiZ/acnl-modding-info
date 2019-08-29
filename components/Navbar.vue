@@ -29,6 +29,8 @@
         <nuxt-link to="/jargon" class="navbar-item">Jargon</nuxt-link>
 
         <nuxt-link to="/faq" class="navbar-item">FAQ</nuxt-link>
+
+        <nuxt-link to="/credits" class="navbar-item">Credits</nuxt-link>
       </div>
     </div>
   </nav>
