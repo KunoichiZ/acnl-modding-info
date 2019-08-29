@@ -180,7 +180,7 @@
             </discord-message>
             <discord-message user="isabelle">
                 Here are all the major checks to make sure it's installed correctly, do not skip any of them or the helpers will be mad.
-                <br>1) Make sure you are not using NTR Mode 3 (Refer to "Which version of NTR do I use?").</li>
+                <br>1) Make sure you are not using NTR Mode 3 (Refer to "Which version of NTR do I use?")
                 <br>2) Make sure your version of Luma is correct, downgrade by downloading the latest boot.firm in #ntr-plugin-info and replacing the boot.firm on the root of your SD card.
                 <br>3) Make sure ACNL is fully updated.
                 <br>4) Hold select while booting BootNTRSelector to reset the settings to default. When it asks you which settings you want, click on default and load 3.6 like normal.
@@ -198,7 +198,7 @@
                     SD:/luma/plugins/0004000000198f00/
                     SD:/luma/plugins/0004000000198e00/
                     SD:/luma/plugins/0004000000198d00/
-                </div></li>
+                </div>
             </discord-message>
         </discord-messages>
         </b-tab-item>
