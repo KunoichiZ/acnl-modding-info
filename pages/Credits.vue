@@ -33,11 +33,11 @@
             <p>Thank you to the helpers for being active in plugin support and testing the plugin before releases.</p>
             <h1 class="title is-size-5">Current Helpers</h1>
             <ul id="currenthelpers">
-                <li>BadRedStone#6669</li>
-                <li>rydoginator#0001</li>
-                <li>Lord DIO#3133</li>
-                <li>Vaccaria#5883</li>
-                <li>Kyotu#9120</li>
+                <li>BadRedStone</li>
+                <li>rydoginator</li>
+                <li>Lord DIO</li>
+                <li>Vaccaria</li>
+                <li>Kyotu</li>
             </ul>
             <br>
             <h1 class="title is-size-5">Past Helpers</h1>
@@ -52,12 +52,12 @@
             <h1 class="title is-size-4">Discord Server Admins</h1>
             <p>Thank you to the admins for keeping the server in order even with all the people in it.</p>
             <ul id="serveradmins">
-                <li>rydoginator#0001</li>
-                <li>Lord DIO#3133</li>
-                <li>Vaccaria#5883</li>
-                <li>Sc0tline#0412</li>
-                <li>Wem#1443</li>
-                <li>Nanquitas#9465</li>
+                <li>rydoginator</li>
+                <li>Lord DIO</li>
+                <li>Vaccaria</li>
+                <li>Sc0tline</li>
+                <li>Wem</li>
+                <li>Nanquitas</li>
             </ul>
             <br>
             <p>For anyone active and helping in plugin support, thank you as well.</p>
