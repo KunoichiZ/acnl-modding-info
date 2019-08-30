@@ -24,7 +24,7 @@
     "bulma": "^0.7.5",
     "bulma-checkradio": "^1.1.1",
     "bulma-tooltip": "^2.0.2",
-    "nuxt": "^2.9.1",
+    "nuxt": "^2.9.2",
     "nuxt-buefy": "^0.3.13",
     "push-dir": "^0.4.1",
     "vue": "^2.6.10",
