@@ -58,11 +58,11 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 #### Discord Server Helpers
 Thank you to the helpers for being active in plugin support and testing the plugin before releases.
 ##### Current Helpers
-* BadRedStone#6669
-* rydoginator#0001
-* Lord DIO#3133
-* Vaccaria#5883
-* Kyotu#9120
+* BadRedStone
+* rydoginator
+* Lord DIO
+* Vaccaria
+* Kyotu
 ##### Past Helpers
 * M-1
 * Reece's Puffs
@@ -71,11 +71,11 @@ Thank you to the helpers for being active in plugin support and testing the plug
 * &#x1f31e; &#x1f338; mercy	&#x1f338; &#x1f31e;
 ##### Discord Server Admins
 Thank you to the admins for keeping the server in order even with all the people in it.
-* rydoginator#0001
-* Lord DIO#3133
-* Vaccaria#5883
-* Sc0tline#0412
-* Wem#1443
-* Nanquitas#9465
+* rydoginator
+* Lord DIO
+* Vaccaria
+* Sc0tline
+* Wem
+* Nanquitas
 
 For anyone active and helping in plugin support, thank you as well.
