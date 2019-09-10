@@ -29,6 +29,10 @@
     <div id="issues">
       Open an <a href="https://github.com/KunoichiZ/acnl-modding-info/issues">issue</a> or make a <a href="https://github.com/KunoichiZ/acnl-modding-info/pulls">pull request</a>. When making a pull request, please test all code changes before submitting the pull request. Any changes that fail to build will be automatically rejected until they are fixed. For more information on issues and pull requests, please visit the <a href="https://github.com/KunoichiZ/acnl-modding-info/blob/master/.github/ISSUE_TEMPLATE.md">issue template</a> and the <a href="https://github.com/KunoichiZ/acnl-modding-info/blob/master/.github/PULL_REQUEST_TEMPLATE.md">pull request template</a>.
     </div>
+    <br>
+    <!-- <div>
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/KunoichiZ/acnl-modding-info.svg?style=social">
+    </div> -->
   </div>
 </template>
 
