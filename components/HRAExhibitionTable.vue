@@ -8,7 +8,7 @@
                 role="button"
                 aria-controls="hraTable">
                 <p class="card-header-title is-centered">
-                    HRA Exhibition (Inside Only)
+                    HRA Exhibition (Inside Only)&nbsp;<span class="top-text">(back to <a href="#top">categories</a>)</span>
                 </p>
                 <a class="card-header-icon">
                     <b-icon
@@ -760,6 +760,10 @@ td {
   color: white;
 }
 
+.top-text {
+    display: none;
+}
+
 #hravue, .card {
     background: url('/blue_bg.png');
     width: 350px;
@@ -772,5 +776,11 @@ td {
 .card-header-title, .card-header {
   text-align: center;
   box-shadow: none;
+}
+
+@media (max-width: 1000px) {
+    .top-text {
+        display: inline;
+    }
 }
 </style>

@@ -8,7 +8,7 @@
                 role="button"
                 aria-controls="catchablesTable">
                 <p class="card-header-title is-centered">
-                    Catchables
+                    Catchables&nbsp;<span class="top-text">(back to <a href="#top">categories</a>)</span>
                 </p>
                 <a class="card-header-icon">
                     <b-icon
@@ -834,6 +834,9 @@ td {
   opacity: 0.5;
   color: white;
 }
+.top-text {
+    display: none;
+}
 
 #catchablesvue, .card {
     background: url('/pink_bg.png');
@@ -847,5 +850,11 @@ td {
 .card-header-title, .card-header {
   text-align: center;
   box-shadow: none;
+}
+
+@media (max-width: 1000px) {
+    .top-text {
+        display: inline;
+    }
 }
 </style>

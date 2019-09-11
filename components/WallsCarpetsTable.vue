@@ -1391,6 +1391,10 @@ td {
   color: white;
 }
 
+.top-text {
+    display: none;
+}
+
 #wallscarpetvue, .card {
     background: url('/blue_bg.png');
     width: 350px;
@@ -1403,5 +1407,11 @@ td {
 .card-header-title, .card-header {
   text-align: center;
   box-shadow: none;
+}
+
+@media (max-width: 1000px) {
+    .top-text {
+        display: inline;
+    }
 }
 </style>

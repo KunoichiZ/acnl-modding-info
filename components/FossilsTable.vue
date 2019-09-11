@@ -8,7 +8,7 @@
                 role="button"
                 aria-controls="fossilsTable">
                 <p class="card-header-title is-centered">
-                    Fossils
+                    Fossils&nbsp;<span class="top-text">(back to <a href="#top">categories</a>)</span>
                 </p>
                 <a class="card-header-icon">
                     <b-icon
@@ -436,6 +436,10 @@ td {
   color: white;
 }
 
+.top-text {
+    display: none;
+}
+
 #fossilvue, .card {
     background: url('/green_bg.png');
     width: 350px;
@@ -448,5 +452,11 @@ td {
 .card-header-title, .card-header {
   text-align: center;
   box-shadow: none;
+}
+
+@media (max-width: 1000px) {
+    .top-text {
+        display: inline;
+    }
 }
 </style>
