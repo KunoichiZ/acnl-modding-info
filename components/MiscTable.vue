@@ -845,10 +845,10 @@ td {
 }
 
 #miscvue, .card {
-    background: url('/pink_bg.png');
+    background: url('/blue_bg.png');
     width: 350px;
     border-radius: 25px;
-    border-color: #f58094;
+    border-color: #41aed7;
     border-width: 10px;
     padding: 15px;
 }

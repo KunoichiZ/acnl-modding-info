@@ -105,10 +105,10 @@ td {
 }
 
 #eventsvue, .card {
-    background: url('/blue_bg.png');
+    background: url('/green_bg.png');
     width: 350px;
     border-radius: 25px;
-    border-color: #41aed7;
+    border-color: #a1cc00;
     border-width: 10px;
     padding: 15px;
 }

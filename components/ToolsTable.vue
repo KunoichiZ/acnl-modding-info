@@ -349,10 +349,10 @@ td {
 }
 
 #toolsvue, .card {
-    background: url('/green_bg.png');
+    background: url('/pink_bg.png');
     width: 350px;
     border-radius: 25px;
-    border-color: #a1cc00;
+    border-color: #dc4a63;
     border-width: 10px;
     padding: 15px;
 }
