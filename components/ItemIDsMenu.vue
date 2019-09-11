@@ -25,7 +25,7 @@
                 <li><a href="#pictures" @click="selected = 18" :class="{highlight:selected == 18}">Pictures</a></li>
                 <li><a href="#songs" @click="selected = 19" :class="{highlight:selected == 19}">Songs</a></li>
                 <li><a href="#tools" @click="selected = 20" :class="{highlight:selected == 20}">Tools & Wearables</a></li>
-                <!-- <li><a href="#wallsCarpets" id="link-wallsCarpets" @click="selected = 21" :class="{highlight:selected == 21}">Wallpapers & Carpets</a></li> -->
+                <li><a href="#wallsCarpets" @click="selected = 21" :class="{highlight:selected == 21}">Wallpapers & Carpets</a></li>
             </ul>
         </ul>
     </aside>
