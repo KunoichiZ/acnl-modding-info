@@ -28,6 +28,8 @@
       <br>
       <FruitTable></FruitTable>
       <br>
+      <FurnitureTable></FurnitureTable>
+      <br>
       <GardenTable></GardenTable>
       <br>
       <GyroidsTable></GyroidsTable>
@@ -66,8 +68,8 @@ import PatternsTable from "~/components/CustomPatternsTable.vue";
 import EnvironmentTable from "~/components/EnvironmentTable.vue";
 import FortunesTable from "~/components/FortunesTable.vue";
 import FossilsTable from "~/components/FossilsTable.vue";
-// import FurnitureTable from "~/components/FurnitureTable.vue";
 import FruitTable from "~/components/FruitTable.vue";
+import FurnitureTable from "~/components/FurnitureTable.vue";
 import GardenTable from "~/components/GardenTable.vue";
 import GyroidsTable from "~/components/GyroidsTable.vue";
 import HRATable from "~/components/HRAExhibitionTable.vue";
@@ -90,6 +92,7 @@ export default {
     EventsTable,
     FortunesTable,
     FossilsTable,
+    FurnitureTable,
     FruitTable,
     GardenTable,
     GyroidsTable,
