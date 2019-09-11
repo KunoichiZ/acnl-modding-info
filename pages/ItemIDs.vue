@@ -22,6 +22,8 @@
       <br>
       <PatternsTable></PatternsTable>
       <br>
+      <EnvironmentTable></EnvironmentTable>
+      <br>
       <FortunesTable></FortunesTable>
       <br>
       <FossilsTable></FossilsTable>
@@ -35,8 +37,6 @@
       <GyroidsTable></GyroidsTable>
       <br>
       <HRATable></HRATable>
-      <br>
-      <EnvironmentTable></EnvironmentTable>
       <br>
       <EventsTable></EventsTable>
       <br>
@@ -174,6 +174,9 @@ table {
     text-align: left;
     border-style: solid;
     border-color: #c69c86;
+  }
+  #text, .box {
+    margin-left: 10px;
   }
 }
 </style>
