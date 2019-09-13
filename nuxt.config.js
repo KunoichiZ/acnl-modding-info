@@ -12,6 +12,7 @@ module.exports = {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
       { hid: 'title', property: 'title', content: 'ACNL Modding Info'},
+      { hid: 'description', name: 'description', content: pkg.description },
       { hid: 'og-description', name: 'og:description', content: pkg.description },
       { hid: 'og-title', property: 'og:title', content: 'ACNL Modding Info' },
       { hid: 'og-site_name', property: 'og:site_name', content: 'ACNL Modding Info'},
