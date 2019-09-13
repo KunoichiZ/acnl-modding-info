@@ -14,7 +14,9 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
+    "deploy": "gh-pages -d dist",
+    "build:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt build",
+    "generate:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt generate",
     "css-build": "node-sass --omit-source-map-url assets/sass/mystyle.scss assets/css/mystyles.css",
     "css-watch": "npm run css-build -- --watch",
     "watch": "npm run css-watch"
@@ -24,6 +26,7 @@
     "bulma": "^0.7.5",
     "bulma-checkradio": "^1.1.1",
     "bulma-tooltip": "^2.0.2",
+    "gh-pages": "^2.1.1",
     "nuxt": "^2.9.2",
     "nuxt-buefy": "^0.3.14",
     "push-dir": "^0.4.1",
