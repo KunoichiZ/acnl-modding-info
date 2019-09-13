@@ -1,0 +1,27 @@
+338c coffee
+338d fizzy apple juice
+338e beans
+338f good-luck roll
+3390 vanilla soft-serve
+3391 choco soft-serve
+3392 matcha soft-serve
+3393 swirl soft-serve
+3394 vanilla ice cream
+3395 strawberry ice cream
+3396 lemon double scoop
+3397 mint double scoop
+3398 blue glow wand
+3399 green glow wand
+339a pink glow wand
+339b yellow glow wand
+339c Flower Fairy wand **NEW**
+339d Kiki and Lala wand **NEW**
+339e tweeter
+339f fountain firework
+33a0 used firework
+33a1 Santa bag
+33a2 mystery bag
+33a3 normal coffee beans
+33a4 good coffee beans
+33a5 superb coffee beans
+33a6 chocolate coin

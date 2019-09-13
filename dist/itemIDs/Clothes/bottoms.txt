@@ -1,0 +1,127 @@
+26f8 jungle-camo shorts
+26f9 jungle-camo pants
+26fa cargo pants
+26fb dogtooth pants
+26fc tan dogtooth pants
+26fd patched pants
+26fe Santa pants
+26ff hero's pants
+2700 leopard pants
+2701 leopard skirt
+2702 denim skirt
+2703 lite polka skirt
+2704 cow pants
+2705 giraffe pants
+2706 tiger pants
+2707 zebra pants
+2708 armor pants
+2709 gold-armor pants
+270a Iberian pants
+270b baseball pants
+270c bone pants
+270d arctic-camo pants
+270e desert-camo pants
+270f caveman shorts
+2710 blue boxing shorts
+2711 red boxing shorts
+2712 pep-squad skirt
+2713 new spring skirt
+2714 hot spring skirt
+2715 imperial pants
+2716 bear-costume pants
+2717 frog-costume pants
+2718 kappa-costume pants
+2719 gray sweatpants
+271a western pants
+271b funky-dot skirt
+271c flame pants
+271d green plaid shorts
+271e dragon leggings
+271f explorer pants
+2720 firefighter pants
+2721 checkerboard skirt
+2722 picnic skirt
+2723 brown plaid shorts
+2724 rainbow plaid shorts
+2725 mint gingham skirt
+2726 blue polka shorts
+2727 corseted skirt
+2728 blue-grid skirt
+2729 patched-knee pants
+272a red-grid skirt
+272b blue gym shorts
+272c green gym shorts
+272d red gym shorts
+272e blue-zap pants
+272f green-zap pants
+2730 red-zap pants
+2731 blue warm-up pants
+2732 green warm-up pants
+2733 red warm-up pants
+2734 jester pants
+2735 kung-fu pants
+2736 pleather pants
+2737 military pants
+2738 mummy pants
+2739 Varia Suit pants
+273a ninja pants
+273b genie pants
+273c dark polka skirt
+273d racing pants
+273e white-lace skirt
+273f sailor skirt
+2740 samurai pants
+2741 jinbei shorts
+2742 space pants
+2743 cuffed pants
+2744 kilt
+2745 pink sweatpants
+2746 chino pants
+2747 gray tartan skirt
+2748 two-tone pants
+2749 natty skirt
+274a dapper skirt
+274b soccer shorts
+274c orange pants
+274d wrestler pants
+274e black track pants
+274f running pants
+2750 gray formal pants
+2751 navy formal pants
+2752 black formal pants
+2753 white formal pants
+2754 red-stripe pants
+2755 red plaid skirt
+2756 pastel-check skirt
+2757 grass skirt
+2758 red tartan pants
+2759 red polka skirt
+275a dry-denim pants
+275b black-denim skirt
+275c acid-washed pants
+275d gray-stripe pants
+275e black-denim pants
+275f worn-out jeans
+2760 emerald polka skirt
+2761 brown argyle skirt
+2762 pink argyle skirt
+2763 green tartan pants
+2764 dry-denim skirt
+2765 aloha shorts
+2766 blue-stripe pants
+2767 Festivale pants
+2768 pink pj bottoms
+2769 blue pj bottoms
+276a basketball shorts
+276b relay shorts
+276c brown formal pants
+276d royal shorts
+276e scale-armor pants
+276f black formal skirt
+2770 gray formal skirt
+2771 navy formal skirt
+2772 Ganondorf pants **NEW**
+2773 green gingham shorts **NEW**
+2774 Callie pants **NEW**
+2775 high-spirits pants **NEW**
+2776 Sheik pants **NEW**
