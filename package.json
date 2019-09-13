@@ -17,7 +17,7 @@
     "generate": "nuxt generate",
     "deploy": "gh-pages -d dist",
     "build:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt build",
-    "generate:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt generate",
+    "generate:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt generate && touch dist/.nojekyll",
     "css-build": "node-sass --omit-source-map-url assets/sass/mystyle.scss assets/css/mystyles.css",
     "css-watch": "npm run css-build -- --watch",
     "watch": "npm run css-watch"
