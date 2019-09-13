@@ -1,0 +1,12 @@
+33bc signature sheet
+33bd petition form
+33be paper scrap
+33bf lost item [book]
+33c0 lost item [pouch]
+33c1 lost item [mitten]
+33c2 lost item [paper bag]
+33c3 book
+33c4 pouch
+33c5 mitten
+33c6 paper bag
+33c7 towel

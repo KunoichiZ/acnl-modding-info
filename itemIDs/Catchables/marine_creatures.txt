@@ -1,0 +1,31 @@
+232d seaweed
+232e sea grapes
+232f sea urchin
+2330 acorn barnacle
+2331 oyster
+2332 turban shell
+2333 abalone
+2334 ear shell
+2335 clam
+2336 pearl oyster
+2337 scallop
+2338 sea anemone
+2339 sea star
+233a sea cucumber
+233b sea slug
+233c flatworm
+233d mantis shrimp
+233e sweet shrimp
+233f tiger prawn
+2340 spiny lobster
+2341 lobster
+2342 snow crab
+2343 horsehair crab
+2344 red king crab
+2345 spider crab
+2346 octopus
+2347 spotted garden eel
+2348 chambered nautilus
+2349 horseshoe crab
+234a giant isopod
+234b deep-sea egg

@@ -1,0 +1,58 @@
+33c8 fortune cookie
+33c9 fortune #1
+33ca fortune #2
+33cb fortune #3
+33cc fortune #46
+33cd fortune #5
+33ce fortune #49
+33cf fortune #7
+33d0 fortune #8
+33d1 fortune #9
+33d2 fortune #10
+33d3 fortune #11
+33d4 fortune #12
+33d5 fortune #13
+33d6 fortune #14
+33d7 fortune #15
+33d8 fortune #50
+33d9 fortune #17
+33da fortune #18
+33db fortune #19
+33dc fortune #20
+33dd fortune #21
+33de fortune #22
+33df fortune #23
+33e0 fortune #24
+33e1 fortune #25
+33e2 fortune #26
+33e3 fortune #27
+33e4 fortune #28
+33e5 fortune #29
+33e6 fortune #48
+33e7 fortune #31
+33e8 fortune #32
+33e9 fortune #33
+33ea fortune #34
+33eb fortune #35
+33ec fortune #36
+33ed fortune #37
+33ee fortune #47
+33ef fortune #39
+33f0 fortune #40
+33f1 fortune #41
+33f2 fortune #42
+33f3 fortune #43
+33f4 fortune #44
+33f5 fortune #45
+33f6 fortune #4
+33f7 fortune #38
+33f8 fortune #30
+33f9 fortune #6
+33fa fortune #16
+33fb fortune #51 **NEW**
+33fc fortune #52 **NEW**
+33fd fortune #53 **NEW**
+33fe fortune #54 **NEW**
+33ff fortune #55 **NEW**
+3400 fortune #56 **NEW**
+3401 fortune #57 **NEW**

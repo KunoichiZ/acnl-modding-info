@@ -1,0 +1,55 @@
+30d2 dynamic painting
+30d3 solemn painting
+30d4 quaint painting
+30d5 basic painting
+30d6 famous painting
+30d7 perfect painting
+30d8 amazing painting
+30d9 nice painting
+30da moving painting
+30db common painting
+30dc flowery painting
+30dd warm painting
+30de jolly painting
+30df fine painting
+30e0 scary painting
+30e1 proper painting
+30e2 neutral painting
+30e3 worthy painting
+30e4 calm painting
+30e5 moody painting
+30e6 wistful painting
+30e7 serene painting
+30e8 scenic painting
+30e9 wild painting
+30ea graceful painting
+30eb beautiful statue
+30ec valiant statue
+30ed gallant statue
+30ee robust statue
+30ef great statue
+30f0 mystic statue
+30f1 ancient statue
+30f2 motherly statue
+30f3 dynamic painting (fake)
+30f4 solemn painting (fake)
+30f5 quaint painting (fake)
+30f6 basic painting (fake)
+30f7 famous painting (fake)
+30f8 amazing painting (fake)
+30f9 moving painting (fake)
+30fa jolly painting (fake)
+30fb scary painting (fake)
+30fc neutral painting (fake)
+30fd wistful painting (fake)
+30fe serene painting (fake)
+30ff wild painting (fake)
+3100 graceful painting (fake)
+3101 beautiful statue (fake)
+3102 valiant statue (fake)
+3103 gallant statue (fake)
+3104 robust statue (fake)
+3105 great statue (fake)
+3106 mystic statue (fake)
+3107 ancient statue (fake)
+3108 motherly statue (fake)
