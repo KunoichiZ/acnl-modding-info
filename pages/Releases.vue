@@ -107,7 +107,7 @@
             Join our Discord for support and more information regarding the plugin :)
             <br><a>https://discord.gg/EZSxqRr</a>
             <br><br>
-            <b>Download link:</b> <a>hhttps://github.com/rydoginator/ACNL-NTR-Cheats/releases/download/v4.0B4/ACNL-NTR-Cheats.plg</a>
+            <b>Download link:</b> <a>https://github.com/rydoginator/ACNL-NTR-Cheats/releases/download/v4.0B4/ACNL-NTR-Cheats.plg</a>
         </div>
         <br>
         <div id="fourpoint0b3">
