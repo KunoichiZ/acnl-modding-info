@@ -383,7 +383,6 @@
         </div>
       </div>
     </div>
-    // TODO: Add Quick Menu Cheats to Cheat List
     <br>
   </section>
 </template>
