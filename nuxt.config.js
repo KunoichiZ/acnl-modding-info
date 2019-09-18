@@ -70,5 +70,11 @@ module.exports = {
     extend(config, ctx) {
       
     }
+  },
+  generate: {
+    fallback: true
+  },
+  router: {
+    linkActiveClass: 'active-link'
   }
 }
