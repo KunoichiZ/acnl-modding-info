@@ -3,7 +3,13 @@
     <div>
       <br>
       <h1 class="title is-size-3">Plugin Installation Guide</h1>
-      <br><p>First of all, you need to have CFW installed on your 3DS. This is not NTR CFW or just having access to the Homebrew Menu. To know if you have CFW, hold select while booting your 3DS. If you enter the Luma settings menu, you have CFW. If you do not have CFW, use <a href="https://3ds.hacks.guide/">https://3ds.hacks.guide/</a>.</p>
+      <br><div class="box">
+        <i class="fas fa-exclamation-triangle"></i> WARNING: This guide does not work with Citra! <i class="fas fa-exclamation-triangle"></i>
+      </div>
+      <br><p>This guide will be walking through every single step for installing and using the plugin.
+      <br>Even if you think you've already done a step, do it again. There's nobody counting points for you thinking you're smarter than the guide.
+      <br>For the entirety of the guide, do <b>NOT</b> do anything that isn't instructed.</p> 
+      <br><p>First of all, you need to have CFW installed on your 3DS. This is not NTR CFW or just having access to the Homebrew Menu. <span class="subtitle">THIS PLUGIN DOES NOT WORK WITH THE 10.0 VERSION OF LUMA, DOWNGRADE MANUALLY OR FOLLOW THIS GUIDE TO REPLACE IT.</span> To know if you have CFW, hold select while booting your 3DS. If you enter the Luma settings menu, you have CFW. If you do not have CFW, use <a href="https://3ds.hacks.guide/">https://3ds.hacks.guide/</a>.</p>
             
       <br><p>Now, pick the method you want to use for the plugin. The first choice is BootNTR; this method has you loading BootNTRSelector each time you want to use the plugin. The second choice is Luma's Plugin Loader; this method has you enabling the plugin loader if you want to use the plugin. Notes: The "root" of your SD card is where you automatically go to if you open your SD card. </p>
                 
@@ -305,6 +311,10 @@ code {
 
 #congrats {
   text-align: center;
+}
+
+.box {
+  background-color: yellow;
 }
 
 label {
