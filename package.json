@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@nuxtjs/google-analytics": "^2.2.0",
-    "bulma": "^0.7.5",
+    "bulma": "^0.8.0",
     "bulma-checkradio": "^1.1.1",
     "bulma-tooltip": "^3.0.0",
     "gh-pages": "^2.1.1",
