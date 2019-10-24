@@ -2025,10 +2025,10 @@ bulma-checkradio@^1.1.1:
   resolved "https://registry.yarnpkg.com/bulma-checkradio/-/bulma-checkradio-1.1.1.tgz#d94c4bce810089957102670b19cafb194bcb97be"
   integrity sha512-6Wn2faBiFkctSeiaQkeU2MbjkQeuXsN4AthBDEKrHGGPl5wmV2GEj4iZCqzvw7Te7baaHdU8PbUgrmlD5D6oGA==
 
-bulma-tooltip@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/bulma-tooltip/-/bulma-tooltip-3.0.0.tgz#740beb0af6d45414bdbd71411be2dc4b62bfd140"
-  integrity sha512-vfU87vHx+uM1Jc23SCPK2yzCMrdN/rXvCaEl/MYjEBMFMlOd/sGl2X3IGmP8ZPJv0oSjTMdZOoVRekfRuNNpkA==
+bulma-tooltip@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/bulma-tooltip/-/bulma-tooltip-3.0.2.tgz#2cf0abab1de2eba07f9d84eb7f07a8a88819ea92"
+  integrity sha512-CsT3APjhlZScskFg38n8HYL8oYNUHQtcu4sz6ERarxkUpBRbk9v0h/5KAvXeKapVSn2dp9l7bOGit5SECP8EWQ==
 
 bulma@0.7.5:
   version "0.7.5"
