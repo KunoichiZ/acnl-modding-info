@@ -23,7 +23,7 @@
     "watch": "npm run css-watch"
   },
   "dependencies": {
-    "@nuxtjs/google-analytics": "^2.2.0",
+    "@nuxtjs/google-analytics": "^2.2.1",
     "bulma": "^0.8.0",
     "bulma-checkradio": "^1.1.1",
     "bulma-tooltip": "^3.0.2",
