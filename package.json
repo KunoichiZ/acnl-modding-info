@@ -32,7 +32,7 @@
     "nuxt-buefy": "^0.3.19",
     "push-dir": "^0.4.1",
     "vue": "^2.6.10",
-    "vue-discord-message": "^3.2.4"
+    "vue-discord-message": "^3.2.5"
   },
   "devDependencies": {
     "node-sass": "4.13.0",

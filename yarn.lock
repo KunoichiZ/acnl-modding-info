@@ -8433,10 +8433,10 @@ vue-client-only@^2.0.0:
   resolved "https://registry.yarnpkg.com/vue-client-only/-/vue-client-only-2.0.0.tgz#ddad8d675ee02c761a14229f0e440e219de1da1c"
   integrity sha512-arhk1wtWAfLsJyxGMoEYhoBowM87/i6HLSG2LH/03Yog6i2d9JEN1peMP0Ceis+/n9DxdenGYZZTxbPPJyHciA==
 
-vue-discord-message@^3.2.4:
-  version "3.2.4"
-  resolved "https://registry.yarnpkg.com/vue-discord-message/-/vue-discord-message-3.2.4.tgz#b73a4642a4ec6646838c5415cd6abd9d79f0942f"
-  integrity sha512-SWSTzd60vBXBhZRLUuOCXifDVkiB5eOKMWSZrWdG70A3yonHIW3wrft/ufhDuYU2u+w1tNbdEJdKNfskMTOuCQ==
+vue-discord-message@^3.2.5:
+  version "3.2.5"
+  resolved "https://registry.yarnpkg.com/vue-discord-message/-/vue-discord-message-3.2.5.tgz#1477c27cf0900f91c98c45053ed0dfc13060f2b8"
+  integrity sha512-3RMOnDfvwABx+YcRIZy4cueTLLVBM7rCGaQFZCP9suyfuuC4w6V84gtVr48ilLyNDbV1OT+ThwqVJr66BSIfrw==
   dependencies:
     hex-to-rgba "^1.0.1"
 
