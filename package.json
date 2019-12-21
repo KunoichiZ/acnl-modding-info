@@ -28,10 +28,10 @@
     "bulma-checkradio": "^1.1.1",
     "bulma-tooltip": "^3.0.2",
     "gh-pages": "^2.1.1",
-    "nuxt": "^2.10.2",
+    "nuxt": "^2.11.0",
     "nuxt-buefy": "^0.3.19",
     "push-dir": "^0.4.1",
-    "vue": "^2.6.10",
+    "vue": "^2.6.11",
     "vue-discord-message": "^3.2.5"
   },
   "devDependencies": {
