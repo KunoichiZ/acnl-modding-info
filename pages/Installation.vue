@@ -208,6 +208,12 @@
             </discord-message>
         </discord-messages>
         </b-tab-item>
+
+        <b-tab-item icon-pack="fas" id="videos" icon="video" label="Videos">
+          <br><h2 class="title is-size-4">Video Guides</h2>
+          There's now a video tutorial on how to install the 4.1.1 version of the plugin! Please check it out before you ask in #plugin-support and make sure your folder structure looks the same. Huge thanks to @im kyu's book 🤠 for creating this!
+          <br><iframe width="700" height="700" src="https://www.youtube.com/embed/IS9dYEZ7IFY" frameborder="0" allowfullscreen></iframe>
+        </b-tab-item>
       </b-tabs>
     </div>
   </section>
@@ -235,6 +241,10 @@ export default {
 </script>
 
 <style scoped>
+iframe {
+  width: 700px;
+  height: 300px;
+}
 .b-tabs .tabs li {
   background-color: #8c67ef;
 }
@@ -306,6 +316,17 @@ code {
   border-color: #f58094;
   border-width: 5px;
   text-align: left;
+  margin: auto;
+}
+
+#videos {
+  padding: 10px;
+  background: url('/green_bg.png');
+  width: 800px;
+  border-radius: 25px;
+  border-color: #a1cc00;
+  border-width: 5px;
+  text-align: center;
   margin: auto;
 }
 
