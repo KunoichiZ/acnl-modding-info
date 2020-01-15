@@ -8,6 +8,7 @@
         <div id="toc">
             <h6 class="subtitle is-6" id="toc-title">Table of Contents</h6>
             <ul>
+                <li><a href="#fourpoint2b2">Version 4.2 Beta 2</a></li>
                 <li><a href="#fourpoint2b1">Version 4.2 Beta 1</a></li>
                 <li><a href="#fourpoint1point1">Version 4.1.1</a></li>
                 <li><a href="#fourpoint0b4">Version 4.0 Beta 4</a></li>
