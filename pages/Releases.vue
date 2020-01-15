@@ -8,6 +8,7 @@
         <div id="toc">
             <h6 class="subtitle is-6" id="toc-title">Table of Contents</h6>
             <ul>
+                <li><a href="#fourpoint2b1">Version 4.2 Beta 1</a></li>
                 <li><a href="#fourpoint1point1">Version 4.1.1</a></li>
                 <li><a href="#fourpoint0b4">Version 4.0 Beta 4</a></li>
                 <li><a href="#fourpoint0b3">Version 4.0 Beta 3</a></li>
@@ -32,6 +33,97 @@
                 <li><a href="#threepoint0">Version 3.0</a></li>
                 <li><a href="#threepoint0b1">Version 3.0 Build 1</a></li>
             </ul>
+        </div>
+        <br>
+        <div id="fourpoint2b2">
+            <h6 class="title is-6"><a href="https://cdn.discordapp.com/attachments/360861723361542144/663907066779271212/ACNL-NTR-Cheats.zip">Version 4.2 Beta 1</a> | <a href="#toc">(back to Table of Contents)</a></h6>
+            
+            New Features
+            <ul>
+                <li>Fill museum thanks @rydoginator</li>
+                <li>Town ordinance setter thanks @Slattz + @rydoginator</li>
+            </ul>
+            <br>
+            New codes/code changes
+            <ul>
+                <li>Real Time Building Manager reloads the area for you</li>
+            </ul>
+            <br>
+            Performance/Bug Fixes
+            <ul>
+                <li>Removed the debug menu in the touch coordinates cheat</li>
+            </ul>
+            <br>
+            How to Update:
+            <br>To update, you'll need to download this special version of Luma, as the plugin loader only works on this specific version. I will be downgrading the plugin's lib in the next update to support the latest version of Luma with plugin loading. 
+
+            <br>So: 
+            <ul>
+                <li>Download Luma attached <a href="https://cdn.discordapp.com/attachments/360861723361542144/659269638936461315/boot.firm">here</a></li>
+                <li>Extract this zip to the root of your SD card</li>
+                <li>Boot your 3DS</li>
+                <li>Press L + Select + D Pad Down to open Roselina Settings, then choose plugin loading</li>
+                <li>Launch Animal Crossing New Leaf and once you select your player, choose any cheats that you want!</li>
+            </ul>
+            <br>
+            <p>I forgot to downgrade the lib of the plugin for the release, so if you'd like to have ctrpf 0.5.0, try <a href="https://cdn.discordapp.com/attachments/360861723361542144/663962571568709643/ACNL-NTR-Cheats.zip">this version</a> of the plugin.
+            <br>This one is a loooot more stable than the last one, the previous lib was experimental, as we expected @Nanquitas to work on it more, but he got busy. 
+            <br>You can use this with the plugin loader found <a href="https://github.com/mariohackandglitch/Luma3DS/releases">here</a>.</p>
+            <b>Download links:</b> <a href="https://cdn.discordapp.com/attachments/360861723361542144/663907066779271212/ACNL-NTR-Cheats.zip">4.2 Beta 1</a>
+        </div>
+        <br>
+        <div id="fourpoint2b1">
+            <h6 class="title is-6"><a href="https://cdn.discordapp.com/attachments/360861723361542144/659269621383299083/ACNL-NTR-Cheats.zip">Version 4.2 Beta 1</a> | <a href="#toc">(back to Table of Contents)</a></h6>
+            Santa Jingle came around this year and provided a new update to the plugin! :D
+            This is 4.2 beta 1, and it's a beta version of the plugin. This means you'll expect bugs.
+            <br><br>
+            New Features
+            
+            Some fishy codes! Thanks @Natfoth
+            <ul>
+                <li>Fish can't be scared</li>
+                <li>Fish ID Editor</li>
+                <li>Fish bite right away</li>
+            </ul>
+            <br>
+            New codes/code changes
+            <ul>
+                <li>Room teleporter thanks @levi</li>
+                <li>Item searching in text to item's keyboard</li>
+                <li>Town change namer</li>
+                <li>Touch coordinates now works in main street and the island</li>
+            </ul>
+            <br>
+            Updated the plugin to ctrpf 0.5
+            <ul>
+                <li>Fully luma 3gx compatible, no more need for NTR</li>
+                <li>More performance, even for old3DS</li>
+                <li>100% boot rate</li>
+            </ul>
+            <br>
+            Performance/Bug Fixes
+            <ul>
+                <li>Corruption cheat allows you to exit now, so you can open the menu</li>
+                <li>Fixed get set from printing garbage</li>
+                <li>Ultimate weed puller/unburying hack works again</li>
+                <li>Name changer allows 8 characters now</li>
+                <li>General bug fixes to enhance overall stability</li>
+                <li>Support for Animal Crossing Welcome Luxury Broken in this update, will be fixed Soon(tm)</li>
+            </ul>
+            <br>
+            How to Update:
+            <br>To update, you'll need to download this special version of Luma, as the plugin loader only works on this specific version. I will be downgrading the plugin's lib in the next update to support the latest version of Luma with plugin loading. 
+
+            <br>So: 
+            <ul>
+                <li>Download Luma attached <a href="https://cdn.discordapp.com/attachments/360861723361542144/659269638936461315/boot.firm">here</a></li>
+                <li>Extract this zip to the root of your SD card</li>
+                <li>Boot your 3DS</li>
+                <li>Press L + Select + D Pad Down to open Roselina Settings, then choose plugin loading</li>
+                <li>Launch Animal Crossing New Leaf and once you select your player, choose any cheats that you want!</li>
+            </ul>
+            <br>
+            <b>Download links:</b> <a href="https://cdn.discordapp.com/attachments/360861723361542144/659269621383299083/ACNL-NTR-Cheats.zip">4.2 Beta 1</a>
         </div>
         <br>
         <div id="fourpoint1point1">
@@ -554,12 +646,12 @@ export default {
     text-align: center;
 }
 
-#threepoint0b1, #threepoint0, #threepoint0point1, #threepoint1b1, #threepoint1b2, #threepoint1b3, #threepoint1b4, #threepoint1, #threepoint1point2, #threepoint1point3, #threepoint1point4, #threepoint2b1, #threepoint2b2, #threepoint2b3, #threepoint2b4, #threepoint2, #threepoint2point1, #threepoint3, #fourpoint0b1, #fourpoint0b2, #fourpoint0b3, #fourpoint0b4, #fourpoint1point1 {
+#threepoint0b1, #threepoint0, #threepoint0point1, #threepoint1b1, #threepoint1b2, #threepoint1b3, #threepoint1b4, #threepoint1, #threepoint1point2, #threepoint1point3, #threepoint1point4, #threepoint2b1, #threepoint2b2, #threepoint2b3, #threepoint2b4, #threepoint2, #threepoint2point1, #threepoint3, #fourpoint0b1, #fourpoint0b2, #fourpoint0b3, #fourpoint0b4, #fourpoint1point1, #fourpoint2b1, #fourpoint2b2 {
   text-align: left;
   margin: auto;
 }
 
-#threepoint0b1, #threepoint1b1, #threepoint1b4, #threepoint1point3, #threepoint2b2, #threepoint2, #fourpoint0b1, #fourpoint0b4 {
+#threepoint0b1, #threepoint1b1, #threepoint1b4, #threepoint1point3, #threepoint2b2, #threepoint2, #fourpoint0b1, #fourpoint0b4, #fourpoint2b2 {
   padding: 15px;
   background: url('/blue_bg.png');
   width: 1000px;
@@ -577,7 +669,7 @@ export default {
   border-width: 5px;
 }
 
-#threepoint0point1, #threepoint1b3, #threepoint1point2, #threepoint2b1, #threepoint2b4, #threepoint3, #fourpoint0b3 {
+#threepoint0point1, #threepoint1b3, #threepoint1point2, #threepoint2b1, #threepoint2b4, #threepoint3, #fourpoint0b3, #fourpoint2b1 {
   padding: 15px;
   background: url('/green_bg.png');
   width: 1000px;
@@ -586,7 +678,7 @@ export default {
   border-width: 10px;
 }
 
-#threepoint0b1 ul, #threepoint0 ul, #threepoint0point1 ul, #threepoint1b1 ul, #threepoint1b2 ul, #threepoint1b3 ul, #threepoint1b4 ul, #threepoint1 ul, #threepoint1point2 ul, #threepoint1point3 ul, #threepoint1point4 ul, #threepoint2b1 ul, #threepoint2b2 ul, #threepoint2b3 ul, #threepoint2b4 ul, #threepoint2 ul, #threepoint2point1 ul, #threepoint3 ul, #fourpoint0b1 ul, #fourpoint0b2 ul, #fourpoint0b3 ul, #fourpoint0b4 ul, #fourpoint1point1 ul {
+#threepoint0b1 ul, #threepoint0 ul, #threepoint0point1 ul, #threepoint1b1 ul, #threepoint1b2 ul, #threepoint1b3 ul, #threepoint1b4 ul, #threepoint1 ul, #threepoint1point2 ul, #threepoint1point3 ul, #threepoint1point4 ul, #threepoint2b1 ul, #threepoint2b2 ul, #threepoint2b3 ul, #threepoint2b4 ul, #threepoint2 ul, #threepoint2point1 ul, #threepoint3 ul, #fourpoint0b1 ul, #fourpoint0b2 ul, #fourpoint0b3 ul, #fourpoint0b4 ul, #fourpoint1point1 ul, #fourpoint2b1 ul, #fourpoint2b2 ul {
   list-style-type: disc;
   list-style-position: inside;
 }
@@ -596,7 +688,7 @@ export default {
 }
 
 @media (max-width: 1300px) {
-  #threepoint0b1, #threepoint0, #threepoint0point1, #threepoint1b1, #threepoint1b2, #threepoint1b3, #threepoint1b4, #threepoint1, #threepoint1point2, #threepoint1point3, #threepoint1point4, #threepoint2b1, #threepoint2b2, #threepoint2b3, #threepoint2b4, #threepoint2, #threepoint2point1, #threepoint3, #fourpoint0b1, #fourpoint0b2, #fourpoint0b3, #fourpoint0b4, #fourpoint1point1  {
+  #threepoint0b1, #threepoint0, #threepoint0point1, #threepoint1b1, #threepoint1b2, #threepoint1b3, #threepoint1b4, #threepoint1, #threepoint1point2, #threepoint1point3, #threepoint1point4, #threepoint2b1, #threepoint2b2, #threepoint2b3, #threepoint2b4, #threepoint2, #threepoint2point1, #threepoint3, #fourpoint0b1, #fourpoint0b2, #fourpoint0b3, #fourpoint0b4, #fourpoint1point1, #fourpoint2b1, #fourpoint2b2  {
     width: 475px;
   }
 }
