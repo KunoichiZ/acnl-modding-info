@@ -3,7 +3,8 @@
     <div>
       <br>
       <h1 class="title is-size-3">Plugin Installation Guide</h1>
-      <br><div class="box">
+      Under Construction!
+      <!-- <br><div class="box">
         <i class="fas fa-exclamation-triangle"></i> WARNING: This guide does not work with Citra! <i class="fas fa-exclamation-triangle"></i>
       </div>
       <br><p>This guide will be walking through every single step for installing and using the plugin.
@@ -214,8 +215,8 @@
           There's now a video tutorial on how to install the 4.1.1 version of the plugin! Please check it out before you ask in #plugin-support and make sure your folder structure looks the same. Huge thanks to @im kyu's book 🤠 for creating this!
           <br><iframe width="700" height="700" src="https://www.youtube.com/embed/IS9dYEZ7IFY" frameborder="0" allowfullscreen></iframe>
         </b-tab-item>
-      </b-tabs>
-    </div>
+      </b-tabs>-->
+    </div> 
   </section>
 </template>
 
