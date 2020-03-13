@@ -17,6 +17,10 @@
             <td>New Leaf Toolkit. It's a WIP ACNL Toolkit/Save Editor without the hassle of taking out your SD card. Only CFW is needed to use it.</td>
         </tr>
         <tr>
+            <td>PWP</td>
+            <td>Stands for public works projects. Projects allow the player to customize their town by adding new buildings, upgrading existing buildings, and adding various features to areas throughout their town (from Nookipedia)</td>
+        </tr>
+        <tr>
             <td>Orig</td>
             <td>Original means the version of Animal Crossing New Leaf that has Welcome Amiibo installed from an update. Its Home Menu icon looks like this: <br><img src="https://cdn.discordapp.com/attachments/275462725688229888/498974563367911445/acnl.png"></td>
         </tr>
