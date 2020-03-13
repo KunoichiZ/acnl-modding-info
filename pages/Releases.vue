@@ -37,7 +37,7 @@
         </div>
         <br>
         <div id="fourpoint2b2">
-            <h6 class="title is-6"><a href="https://cdn.discordapp.com/attachments/360861723361542144/663907066779271212/ACNL-NTR-Cheats.zip">Version 4.2 Beta 1</a> | <a href="#toc">(back to Table of Contents)</a></h6>
+            <h6 class="title is-6"><a href="https://cdn.discordapp.com/attachments/360861723361542144/663907066779271212/ACNL-NTR-Cheats.zip">Version 4.2 Beta 2</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             <div class="box">
                 <i class="fas fa-exclamation-triangle"></i> WARNING: This update does not work with BootNTR! <i class="fas fa-exclamation-triangle"></i>
             </div>
@@ -69,7 +69,7 @@
                 <li>Launch Animal Crossing New Leaf and once you select your player, choose any cheats that you want!</li>
             </ul>
             <br>
-            <b>Download links:</b> <a href="https://cdn.discordapp.com/attachments/360861723361542144/663907066779271212/ACNL-NTR-Cheats.zip">4.2 Beta 1</a>
+            <b>Download links:</b> <a href="https://cdn.discordapp.com/attachments/360861723361542144/663907066779271212/ACNL-NTR-Cheats.zip">4.2 Beta 2</a>
             <br><br><p>I forgot to downgrade the lib of the plugin for the release, so if you'd like to have ctrpf 0.5.0, try <a href="https://cdn.discordapp.com/attachments/360861723361542144/663962571568709643/ACNL-NTR-Cheats.zip">this version</a> of the plugin.
             <br>This one is a loooot more stable than the last one, the previous lib was experimental, as we expected @Nanquitas to work on it more, but he got busy. </p>
         </div>
