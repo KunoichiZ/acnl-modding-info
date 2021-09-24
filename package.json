@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "node-sass": "5.0.0",
-    "nodemon": "^2.0.12",
+    "nodemon": "^2.0.13",
     "sass-loader": "^10.1.1"
   },
   "resolutions": {
