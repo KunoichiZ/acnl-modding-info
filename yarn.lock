@@ -2147,10 +2147,10 @@ browserslist@^4.0.0, browserslist@^4.12.0, browserslist@^4.16.6, browserslist@^4
     escalade "^3.1.1"
     node-releases "^1.1.71"
 
-buefy@^0.9.11:
-  version "0.9.11"
-  resolved "https://registry.yarnpkg.com/buefy/-/buefy-0.9.11.tgz#69ab7f46e4f172d43247916f770f29764f9e0931"
-  integrity sha512-WP32SiaM9WVxDtzgdiq7V2zyIvn41NboPgluVqdB6OAi1/QhjO/63m6hd/jy6Vk8r+zuhIZD+aP9KlQ10EhxTQ==
+buefy@^0.9.13:
+  version "0.9.13"
+  resolved "https://registry.yarnpkg.com/buefy/-/buefy-0.9.13.tgz#fa530257fc47a8cb00d1e36faa93bbeba4aefce0"
+  integrity sha512-W8QhvAz+YlKhxDQe/oag4Fl/zYTvXOPoNVr4pseYDR7r52Ta6s51iedBdvw4It68Sq+g7mcxIzwK7mv3PR6O4g==
   dependencies:
     bulma "0.9.3"
 
@@ -5785,12 +5785,12 @@ number-is-nan@^1.0.0:
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
-nuxt-buefy@^0.4.11:
-  version "0.4.11"
-  resolved "https://registry.yarnpkg.com/nuxt-buefy/-/nuxt-buefy-0.4.11.tgz#38a4d2a3abae05c64034d005e46728cfd694fa25"
-  integrity sha512-mld92vqY5uo+aQp4E8OnVE0abXPgf5t+k4ckmsMgYGfn0T3pDqJq7O4JLELxfBxfmBxmwce8lJ6ZaJ2GxCNaWQ==
+nuxt-buefy@^0.4.13:
+  version "0.4.13"
+  resolved "https://registry.yarnpkg.com/nuxt-buefy/-/nuxt-buefy-0.4.13.tgz#fdc3db015578c28806f173fcbe7cbad4890f5f80"
+  integrity sha512-XhUZ+uvVQSgNTSfcfqzQgT0ZmN7h9d2y/+6x+XhfaMrcRj0Tn6Wu0fmO8y8nUL3TOTATSqbJUbdolr+G9XdkCA==
   dependencies:
-    buefy "^0.9.11"
+    buefy "^0.9.13"
 
 nuxt@^2.15.8:
   version "2.15.8"
