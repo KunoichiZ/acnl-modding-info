@@ -39,7 +39,7 @@
   "devDependencies": {
     "node-sass": "5.0.0",
     "nodemon": "^2.0.19",
-    "sass-loader": "^10.1.1"
+    "sass-loader": "^13.2.0"
   },
   "resolutions": {
     "**/**/is-svg": "^4.2.2",
