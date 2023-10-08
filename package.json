@@ -29,7 +29,7 @@
     "bulma-tooltip": "^3.0.2",
     "gh-pages": "^6.0.0",
     "nuxt": "^3.7.4",
-    "nuxt-buefy": "^0.4.25",
+    "nuxt-buefy": "^0.4.26",
     "push-dir": "^0.4.1",
     "vue": "^3.3.4",
     "vue-discord-message": "^5.0.3",
