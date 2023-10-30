@@ -7658,10 +7658,10 @@ vue-router@^4.2.5:
   dependencies:
     "@vue/devtools-api" "^6.5.0"
 
-vue-server-renderer@^2.7.14:
-  version "2.7.14"
-  resolved "https://registry.yarnpkg.com/vue-server-renderer/-/vue-server-renderer-2.7.14.tgz#986f3fdca63fbb38bb6834698f11e0d6a81f182f"
-  integrity sha512-NlGFn24tnUrj7Sqb8njhIhWREuCJcM3140aMunLNcx951BHG8j3XOrPP7psSCaFA8z6L4IWEjudztdwTp1CBVw==
+vue-server-renderer@^2.7.15:
+  version "2.7.15"
+  resolved "https://registry.yarnpkg.com/vue-server-renderer/-/vue-server-renderer-2.7.15.tgz#814fe0bb309843e5d3e343d456f7e449dbc2cd5e"
+  integrity sha512-5Wy6ls7ErawmgxlogoScTDOQzqBp4+B9CKV1Dl4280xVPBs1+iHpghW1nlKNd1JWKI3O2s4X4vwmg1C7Rvy7oA==
   dependencies:
     chalk "^4.1.2"
     hash-sum "^2.0.0"
