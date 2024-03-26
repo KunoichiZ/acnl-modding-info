@@ -15,6 +15,7 @@
         <tr>
             <td>Cartridge (cart)</td>
             <td>A plastic casing containing variable content, for example, a PCB containing a game held on ROM including a backup EEPROM/battery to hold the game save. Here, this term is commonly used to describe a 3DS game card or any other device used to slot into the expansion slots of a handheld, even flash kit adapters.</td>
+        </tr>
         <tr>
             <td>CFW</td>
             <td>Short for Custom FirmWare. While this term can be debated until the cows come home, in the 3DS scene, it typically means when you're running NATIVE_FIRM with signatures disabled.</td> 

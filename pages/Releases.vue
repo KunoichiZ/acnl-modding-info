@@ -246,7 +246,7 @@
                 <li>Fixed GetSet from giving you wrong items</li>
                 <li>Fixed name legnth changer by forbidding you from entering more than 8 chars</li>
                 <li>Disabled the home button thanks to @Nanquitas#9465 to prevent any further crashes</li>
-                <li>Touch coordinates won't execute unless you're in town and have the map open
+                <li>Touch coordinates won't execute unless you're in town and have the map open</li>
                 <li>Removed TPC changer</li>
                 <li>Added 32 bit item support for text to item (meaning you can now write custom tags to your furntiure and items)</li>
                 <li>Added notes for almost all cheats now and gave proper credits to those who requsted (whoops! 😅 )</li>
@@ -344,13 +344,13 @@
             What's New
             <ul>
                 <li>NPC mod</li>
-                <li>Walk through walls indoors
-                <li>Moon jump with anti-gravity (v3 of the cheat) thanks to @scotline
-                <li>Real Time World Edit works on Main Street and on the Island (only in YOUR town)
+                <li>Walk through walls indoors</li>
+                <li>Moon jump with anti-gravity (v3 of the cheat) thanks to @scotline</li>
+                <li>Real Time World Edit works on Main Street and on the Island (only in YOUR town)</li>
                 <li>Camera Modifier collaborated with MrN0P93</li>
                 <li>Text to cheat runs in background</li>
                 <li>Money codes thanks to <a href="https://github.com/Slattz">@Slattz</a></li>
-                <li>Added "dupeall" command to dupe the item in slot 01 to all available free slots
+                <li>Added "dupeall" command to dupe the item in slot 01 to all available free slots</li>
                 <li>Added ""goldset" command to give yourself the golden tool set</li>
                 <li>Nook items are free</li>
             </ul>
@@ -456,8 +456,8 @@
             <h6 class="title is-6"><a href="https://github.com/rydoginator/ACNL-NTR-Cheats/releases/tag/v3.1.2">Version 3.1.2</a> | <a href="#toc">(back to Table of Contents)</a></h6>
             What's New
             <ul>
-                <li>Fixed inventory while online
-                <li>Added dynamic slot 1 modifier
+                <li>Fixed inventory while online</li>
+                <li>Added dynamic slot 1 modifier</li>
                 <li>Added walk over objects</li>
             </ul>
             <br>
@@ -537,7 +537,7 @@
             <ul>
                 <li>Merged all codes to universally work in one function per cheat thanks to <a href="https://github.com/Nanquitas">@Nanquitas</a></li>
                 <li>Fixed text cheats thanks to <a href="https://github.com/Nanquitas">@Nanquitas</a></li>
-                <li>Text to cheat thanks to <a href="https://github.com/Nanquitas">@Nanquitas</a> only 2 cheats for now, but I'll add more later
+                <li>Text to cheat thanks to <a href="https://github.com/Nanquitas">@Nanquitas</a> only 2 cheats for now, but I'll add more later</li>
                 <li>Commands (remove quotes when sending into chat):
                     <ul>
                         <li>'quench' - water flowers</li>

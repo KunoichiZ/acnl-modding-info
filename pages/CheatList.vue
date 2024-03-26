@@ -292,7 +292,7 @@
                 <ul>
                   <li><b-tag rounded>(Access drawers: L)</b-tag></li>
                   <li><b-tag rounded>(Access secret storage: R)</b-tag></li>
-                  <li><b-tag rounded>(Access catalog: R + L)</b-tag>
+                  <li><b-tag rounded>(Access catalog: R + L)</b-tag></li>
                   <li><b-tag rounded>(Custom (use keyboard in cheat menu): Y)</b-tag></li>
                 </ul></li>
             <li>Emote ID Changer <b-tag rounded>(Change Button Activator: B + R)</b-tag> <b-tooltip multilined label="Press the hotkey to open a keyboard to patch the game's emotes. 0xFF restores the game's original code.">
