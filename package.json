@@ -31,7 +31,7 @@
     "nuxt": "^4.2.0",
     "nuxt-buefy": "^0.4.29",
     "push-dir": "^0.4.1",
-    "vue": "^3.5.22",
+    "vue": "^3.5.23",
     "vue-discord-message": "^5.0.3",
     "vue-server-renderer": "^2.7.16",
     "vue-template-compiler": "^2.7.16"
