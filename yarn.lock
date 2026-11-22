@@ -5828,10 +5828,10 @@ sass-graph@^4.0.1:
     scss-tokenizer "^0.4.3"
     yargs "^17.2.1"
 
-sass-loader@^17.1.0:
-  version "17.1.0"
-  resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-17.1.0.tgz#1100c176be08afd664baeecbb542aa02fd85d9c1"
-  integrity sha512-EZ/u/bLkAErTKvIq/f81Bz6tgL/5Brt8hWOABdTsVdO+nX0PWx2rQhR6fyxVME+MhnQrrwecMDlm2G1y07hhpQ==
+sass-loader@^17.1.1:
+  version "17.1.1"
+  resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-17.1.1.tgz#755fb6703c4db02d012706e96b76e9f09ae1deb2"
+  integrity sha512-/0DqgO+5tTsXYdbnErt5XzPbRQqD+49brZ8+vKnzOTIRbrgPlPJGghGVFq6xgAjv9pf2TLHvLdrgEYYPEKGtGQ==
 
 scss-tokenizer@^0.4.3:
   version "0.4.3"
